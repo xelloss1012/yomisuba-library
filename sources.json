@@ -131,6 +131,657 @@
         "es": "La condesa de Kifune se niega con firmeza a ser anestesiada antes de su operación. Entre ella y el médico que debe operarla hay un pasado secreto. Un relato breve de Izumi Kyōka, en una prosa literaria de aire clásico.",
         "en": "Countess Kifune stubbornly refuses anaesthesia before her operation. A secret past connects her to the surgeon who must operate. A short story by Izumi Kyōka, written in an elevated, classical literary style."
       }
+    },
+    {
+      "slug": "toshishun",
+      "aozoraId": "043015",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "洛陽の都で財産を使い果たした杜子春は、不思議な老人に助けられ、二度も大金持ちになります。人の心の弱さと親の愛を描く、芥川龍之介の童話です。",
+        "es": "Arruinado en la ciudad de Luoyang, Du Zichun es ayudado por un anciano misterioso y llega a hacerse rico dos veces. Un cuento de Akutagawa sobre la debilidad del corazón humano y el amor de los padres.",
+        "en": "Ruined in the city of Luoyang, Du Zichun is helped by a mysterious old man and becomes rich twice. A tale by Akutagawa about the weakness of the human heart and a parent's love."
+      }
+    },
+    {
+      "slug": "hana",
+      "aozoraId": "000042",
+      "genres": [
+        "humor",
+        "historical"
+      ],
+      "description": {
+        "ja": "長い鼻を気にする僧・禅智内供は、鼻を短くする方法を試します。その後の周囲の視線と自分の心の変化を描く、ユーモラスで皮肉な短編です。",
+        "es": "El monje Zenchi Naigu vive acomplejado por su larguísima nariz y prueba un remedio para acortarla. Un relato breve, humorístico e irónico de Akutagawa sobre cómo cambian las miradas ajenas y el propio ánimo.",
+        "en": "The monk Zenchi Naigu is ashamed of his very long nose and tries a way to shorten it. A short, humorous and ironic story by Akutagawa about how other people's eyes, and his own heart, change."
+      }
+    },
+    {
+      "slug": "yabu-no-naka",
+      "aozoraId": "000179",
+      "genres": [
+        "mystery",
+        "historical"
+      ],
+      "description": {
+        "ja": "藪の中で男の死体が見つかります。目撃者、盗人、妻、そして死者の霊までが、それぞれ食い違う証言をします。黒澤明の映画『羅生門』の原作のひとつです。",
+        "es": "En un bosquecillo de bambú aparece el cadáver de un hombre. Los testigos, el bandido, la esposa y hasta el espíritu del muerto dan versiones que se contradicen. Una de las fuentes de la película «Rashōmon» de Kurosawa.",
+        "en": "A man's body is found in a bamboo grove. The witnesses, the bandit, the wife and even the dead man's spirit give accounts that contradict one another. One of the sources of Kurosawa's film \"Rashōmon\"."
+      }
+    },
+    {
+      "slug": "torokko",
+      "aozoraId": "043016",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "八歳の良平は、工事現場のトロッコに夢中です。ある日、人夫たちと遠くまで押していきますが、帰り道が不安になり…。大人になった良平の回想で語られる、芥川龍之介の短編です。",
+        "es": "Ryōhei, de ocho años, está fascinado por las vagonetas de unas obras. Un día las empuja con los obreros hasta muy lejos, y al volver le invade el miedo. Un relato de Akutagawa narrado como recuerdo del Ryōhei adulto.",
+        "en": "Eight-year-old Ryōhei is fascinated by the trolleys at a building site. One day he pushes them far away with the workers, and the way back frightens him. A story by Akutagawa told as the grown-up Ryōhei's memory."
+      }
+    },
+    {
+      "slug": "kappa",
+      "aozoraId": "000069",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "精神病院の患者が、河童の国に迷い込んだ体験を語ります。河童の社会を通して、人間の社会を風刺した芥川龍之介の晩年の作品です。",
+        "es": "Un paciente de un psiquiátrico cuenta cómo llegó al país de los kappa. A través de esa sociedad, Akutagawa satiriza la humana en una de sus últimas obras.",
+        "en": "A patient in an asylum tells how he wandered into the land of the kappa. Through that society, Akutagawa satirises human society in one of his last works."
+      }
+    },
+    {
+      "slug": "majutsu",
+      "aozoraId": "000095",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "雨の晩、インド人の魔術師ミスラ君の家を訪ねた「私」は、欲のない人にだけ魔術を教えると言われます。童話風に書かれた、芥川龍之介の小品です。",
+        "es": "Una noche de lluvia, el narrador visita al mago indio Mirza, que solo enseña su arte a quien sabe renunciar a la codicia. Una pieza breve de Akutagawa escrita en tono de cuento.",
+        "en": "On a rainy night the narrator visits Mirza, an Indian magician who teaches his art only to those free of greed. A short piece by Akutagawa written in the tone of a fairy tale."
+      }
+    },
+    {
+      "slug": "kaze-no-matasaburo",
+      "aozoraId": "000462",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "山あいの小さな学校に、風の神の子のような不思議な転校生・高田三郎がやって来ます。子どもたちと過ごす短い日々を描く、宮沢賢治の童話です。",
+        "es": "A una pequeña escuela de montaña llega un misterioso alumno nuevo, Takada Saburō, al que los niños toman por el hijo del dios del viento. Un cuento de Miyazawa Kenji sobre unos pocos días con ellos.",
+        "en": "A mysterious new pupil, Takada Saburō, arrives at a small mountain school, and the children take him for the child of the wind god. A tale by Miyazawa Kenji about his few days with them."
+      }
+    },
+    {
+      "slug": "cello-hiki-no-gauche",
+      "aozoraId": "000470",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "町の楽団でいちばん下手なセロ弾きのゴーシュのもとへ、夜ごと動物たちがやって来ます。音楽に打ち込む青年を描く、宮沢賢治の童話です。",
+        "es": "Gauche, el violonchelista menos hábil de la orquesta del pueblo, recibe cada noche la visita de distintos animales. Un cuento de Miyazawa Kenji sobre un joven entregado a la música.",
+        "en": "Gauche, the clumsiest cellist in the town orchestra, is visited every night by different animals. A tale by Miyazawa Kenji about a young man devoted to music."
+      }
+    },
+    {
+      "slug": "yodaka-no-hoshi",
+      "aozoraId": "000473",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "醜い姿のせいで仲間からいじめられるよだかは、ある日、遠い空へ飛んでいくことを決めます。宮沢賢治の、悲しくて美しい童話です。",
+        "es": "El chotacabras, maltratado por los demás pájaros a causa de su aspecto, decide un día volar hacia el cielo lejano. Un cuento triste y hermoso de Miyazawa Kenji.",
+        "en": "The nighthawk, bullied by other birds for its looks, decides one day to fly off toward the distant sky. A sad and beautiful tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "donguri-to-yamaneko",
+      "aozoraId": "043752",
+      "genres": [
+        "fantasy",
+        "children",
+        "humor"
+      ],
+      "description": {
+        "ja": "一郎のもとに、山猫から変なはがきが届きます。どんぐりたちの言い争いを裁くため、一郎は山へ出かけます。宮沢賢治のユーモラスな童話です。",
+        "es": "Ichirō recibe una extraña postal de un gato montés y sube a la montaña para juzgar una disputa entre bellotas. Un cuento humorístico de Miyazawa Kenji.",
+        "en": "Ichirō receives a strange postcard from a wildcat and goes up the mountain to judge a quarrel among acorns. A humorous tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "yamanashi",
+      "aozoraId": "046605",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "小さな谷川の底で、蟹の兄弟が見た五月と十二月の出来事を描く、詩のような童話です。宮沢賢治が描いた「クラムボン」の世界です。",
+        "es": "Un cuento casi poético sobre lo que dos cangrejos hermanos ven en el fondo de un arroyo en mayo y en diciembre. El mundo de los «Crambombu» de Miyazawa Kenji.",
+        "en": "A poem-like tale of what two crab brothers see at the bottom of a small stream in May and in December. Miyazawa Kenji's world of the \"Kamplamb\"."
+      }
+    },
+    {
+      "slug": "otsuberu-to-zo",
+      "aozoraId": "000466",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "欲深い農場主オツベルは、白い象を言葉巧みに働かせます。やがて象は仲間に助けを求め…。宮沢賢治の、風刺のきいた童話です。",
+        "es": "El codicioso hacendado Otsuberu consigue con halagos que un elefante blanco trabaje para él, hasta que el animal pide ayuda a sus amigos. Un cuento satírico de Miyazawa Kenji.",
+        "en": "The greedy farmer Otsuberu sweet-talks a white elephant into working for him, until the elephant calls on his friends for help. A satirical tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kokoro",
+      "aozoraId": "000773",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "description": {
+        "ja": "鎌倉の海で出会った「先生」に惹かれる「私」。先生の過去は、遺書によって明かされます。友情、恋、そして孤独を描く夏目漱石の代表作です。",
+        "es": "El narrador se siente atraído por «Sensei», a quien conoce en la playa de Kamakura; su pasado se revela en una carta de despedida. Amistad, amor y soledad en la obra más célebre de Natsume Sōseki.",
+        "en": "The narrator is drawn to \"Sensei\", whom he meets on the beach at Kamakura; his past comes out in a farewell letter. Friendship, love and loneliness in Natsume Sōseki's best-known novel."
+      }
+    },
+    {
+      "slug": "sanshiro",
+      "aozoraId": "000794",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "description": {
+        "ja": "熊本から上京した三四郎は、東京の大学で出会った美禰子に心を惹かれます。明治の青年の迷いと恋を描く、夏目漱石の青春小説です。",
+        "es": "Sanshirō, recién llegado de Kumamoto a la universidad de Tokio, se enamora de Mineko. La novela de juventud de Natsume Sōseki sobre las dudas y el amor de un joven de la era Meiji.",
+        "en": "Sanshirō, newly arrived from Kumamoto at the university in Tokyo, falls for Mineko. Natsume Sōseki's coming-of-age novel about the doubts and the love of a young man of the Meiji era."
+      }
+    },
+    {
+      "slug": "wagahai-wa-neko-de-aru",
+      "aozoraId": "000789",
+      "genres": [
+        "humor"
+      ],
+      "description": {
+        "ja": "名前のない猫「吾輩」が、中学教師・苦沙弥先生の家に集まる人々を観察します。ユーモアと風刺にあふれた、夏目漱石のデビュー作です。長編です。",
+        "es": "Un gato sin nombre observa a las personas que frecuentan la casa de su dueño, el profesor Kushami. La primera novela de Natsume Sōseki, llena de humor y sátira. Es una obra larga.",
+        "en": "A nameless cat watches the people who come to the house of his master, the teacher Kushami. Natsume Sōseki's first novel, full of humour and satire. A long work."
+      }
+    },
+    {
+      "slug": "buncho",
+      "aozoraId": "000753",
+      "genres": [
+        "drama"
+      ],
+      "description": {
+        "ja": "三重吉に勧められて文鳥を飼い始めた「自分」と、小さな鳥との日々を描く、夏目漱石の短い小説です。",
+        "es": "El narrador empieza a criar un gorrión de Java por consejo de un amigo y cuenta sus días con el pajarillo. Un relato breve de Natsume Sōseki.",
+        "en": "On a friend's advice, the narrator starts keeping a Java sparrow and tells of his days with the little bird. A short story by Natsume Sōseki."
+      }
+    },
+    {
+      "slug": "gan",
+      "aozoraId": "045224",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "description": {
+        "ja": "高利貸しの妾になったお玉は、毎日家の前を通る医学生・岡田にひそかな思いを寄せます。不忍池の雁をめぐる出来事が、二人の運命を分けます。森鷗外の小説です。",
+        "es": "Otama, amante de un usurero, siente un amor secreto por Okada, un estudiante de medicina que pasa cada día frente a su casa. Un suceso con unos gansos salvajes en el estanque de Shinobazu separa sus destinos. Novela de Mori Ōgai.",
+        "en": "Otama, a moneylender's mistress, secretly loves Okada, a medical student who walks past her house every day. An incident with the wild geese on Shinobazu Pond parts their fates. A novel by Mori Ōgai."
+      }
+    },
+    {
+      "slug": "takasebune",
+      "aozoraId": "045245",
+      "genres": [
+        "drama",
+        "historical"
+      ],
+      "description": {
+        "ja": "罪人を島流しにする京都の高瀬舟に、喜助という男が乗り合わせます。護送役の役人が聞いた話から、財産と満足、そして安楽死が問われます。森鷗外の短編です。",
+        "es": "En la barca takasebune que lleva a los condenados al destierro viaja Kisuke. Lo que cuenta al guardián plantea qué es la riqueza, qué es la satisfacción y qué es la eutanasia. Relato de Mori Ōgai.",
+        "en": "Kisuke travels on the takasebune boat that carries convicts into exile at Kyoto. What he tells the escorting officer raises questions about wealth, contentment and mercy killing. A story by Mori Ōgai."
+      }
+    },
+    {
+      "slug": "sansho-dayu",
+      "aozoraId": "000689",
+      "genres": [
+        "historical",
+        "drama"
+      ],
+      "description": {
+        "ja": "安寿と厨子王の姉弟は人買いに売られ、山椒大夫の屋敷で働かされます。母との再会を願う二人の運命を描く、森鷗外の歴史小説です。",
+        "es": "Los hermanos Anju y Zushiō son vendidos y forzados a trabajar en la finca de Sanshō-dayū, mientras sueñan con reencontrar a su madre. Novela histórica de Mori Ōgai.",
+        "en": "The siblings Anju and Zushiō are sold and made to work on Sanshō-dayū's estate while hoping to find their mother again. A historical novel by Mori Ōgai."
+      }
+    },
+    {
+      "slug": "koya-hijiri",
+      "aozoraId": "000521",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "高野山の旅の僧が、若い旅人に語る話。飛騨の山中で出会った、不思議な美しい女との一夜が描かれます。泉鏡花の幻想小説です。",
+        "es": "Un monje viajero de Kōya cuenta a un joven una experiencia en las montañas de Hida, donde pasó una noche con una mujer hermosa y extraña. Relato fantástico de Izumi Kyōka.",
+        "en": "A travelling monk of Mount Kōya tells a young man of a night in the mountains of Hida with a strange and beautiful woman. A fantasy tale by Izumi Kyōka."
+      }
+    },
+    {
+      "slug": "sangetsuki",
+      "aozoraId": "000624",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "詩人になる夢に敗れた李徴は、ある日、虎の姿になってしまいます。旧友の袁傪と再会した李徴が語る心の内を描く、中島敦の名作です。",
+        "es": "Li Zheng, que fracasó en su sueño de ser poeta, se convierte un día en tigre. Al reencontrarse con su viejo amigo Yuan Can, le cuenta lo que siente. Una obra maestra de Nakajima Atsushi.",
+        "en": "Li Zheng, who failed at his dream of becoming a poet, one day turns into a tiger. Meeting his old friend Yuan Can again, he tells him what is in his heart. A masterpiece by Nakajima Atsushi."
+      }
+    },
+    {
+      "slug": "lemon",
+      "aozoraId": "000424",
+      "genres": [
+        "drama"
+      ],
+      "description": {
+        "ja": "憂鬱な「私」は、京都の果物屋で買った一個の檸檬を、丸善の画集の上にそっと置いてみます。梶井基次郎の、鮮やかなイメージの短編です。",
+        "es": "El narrador, melancólico, compra un limón en una frutería de Kioto y lo deja con cuidado sobre unos libros de arte en la librería Maruzen. Un relato breve de imágenes vívidas de Kajii Motojirō.",
+        "en": "The melancholy narrator buys a lemon at a fruit shop in Kyoto and gently places it on art books in the Maruzen bookshop. A short story of vivid images by Kajii Motojirō."
+      }
+    },
+    {
+      "slug": "sakura-no-ki-no-shita-niwa",
+      "aozoraId": "000427",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "「桜の樹の下には屍体が埋まっている！」という衝撃的な一文で始まる、梶井基次郎の短い散文詩のような作品です。",
+        "es": "Empieza con la frase impactante «¡Bajo los cerezos hay cadáveres enterrados!». Una obra muy breve de Kajii Motojirō, cercana al poema en prosa.",
+        "en": "It opens with the startling line \"Corpses are buried beneath the cherry trees!\". A very short work by Kajii Motojirō, close to a prose poem."
+      }
+    },
+    {
+      "slug": "nogiku-no-haka",
+      "aozoraId": "000647",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "description": {
+        "ja": "十五歳の政夫と、二つ年上の従姉・民子の淡い初恋。周囲の目に引き裂かれる二人を描く、伊藤左千夫の純愛小説です。",
+        "es": "El tímido primer amor de Masao, de quince años, y su prima Tamiko, dos años mayor, a quienes separa la presión de la familia. Novela de amor puro de Itō Sachio.",
+        "en": "The tender first love of fifteen-year-old Masao and his cousin Tamiko, two years older, torn apart by those around them. A novel of pure love by Itō Sachio."
+      }
+    },
+    {
+      "slug": "gon-gitsune",
+      "aozoraId": "000628",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "いたずら好きの子狐ごんは、兵十との出来事をきっかけに、つぐないを始めます。新美南吉の、日本でもっとも読まれている童話のひとつです。",
+        "es": "El zorrito travieso Gon empieza a reparar lo que hizo a Hyōjū. Uno de los cuentos infantiles más leídos de Japón, de Niimi Nankichi.",
+        "en": "The mischievous little fox Gon sets out to make up for what he did to Hyōjū. One of the most widely read children's tales in Japan, by Niimi Nankichi."
+      }
+    },
+    {
+      "slug": "tebukuro-o-kai-ni",
+      "aozoraId": "000637",
+      "genres": [
+        "children"
+      ],
+      "description": {
+        "ja": "寒い冬、子狐は母狐に頼まれて、一人で町へ手袋を買いに行きます。新美南吉のあたたかい童話です。",
+        "es": "En pleno invierno, un zorrito baja solo al pueblo a comprar unos guantes porque su madre se lo pide. Un cuento tierno de Niimi Nankichi.",
+        "en": "On a cold winter day, a little fox goes alone into town to buy mittens at his mother's request. A warm tale by Niimi Nankichi."
+      }
+    },
+    {
+      "slug": "hananoki-mura-to-nusutotachi",
+      "aozoraId": "000630",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "平和な花のき村に、五人組の盗人がやって来ます。思いがけない村人たちの信頼が、かしらの心を揺さぶります。新美南吉の童話です。",
+        "es": "Una banda de cinco ladrones llega a la apacible aldea de Hananoki, pero la inesperada confianza de los aldeanos conmueve al jefe. Un cuento de Niimi Nankichi.",
+        "en": "A gang of five thieves arrives in the peaceful village of Hananoki, but the villagers' unexpected trust shakes the leader. A tale by Niimi Nankichi."
+      }
+    },
+    {
+      "slug": "hitofusa-no-budo",
+      "aozoraId": "000211",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "絵が好きな少年は、横浜の学校で、同級生の絵の具に手を出してしまいます。そのあとの先生のやさしさを描く、有島武郎の童話です。",
+        "es": "Un niño aficionado a la pintura, en una escuela de Yokohama, coge las pinturas de un compañero. Un cuento de Arishima Takeo sobre la bondad de su maestra.",
+        "en": "A boy who loves painting, at a school in Yokohama, takes a classmate's paints. A tale by Arishima Takeo about his teacher's kindness afterwards."
+      }
+    },
+    {
+      "slug": "kani-kosen",
+      "aozoraId": "001465",
+      "genres": [
+        "drama"
+      ],
+      "description": {
+        "ja": "オホーツク海のカニ漁船で、過酷な労働を強いられる労働者たち。やがて彼らは団結して立ち上がります。小林多喜二のプロレタリア文学の代表作です。",
+        "es": "En un barco cangrejero del mar de Ojotsk, los trabajadores sufren condiciones brutales hasta que se unen y se rebelan. La obra más conocida de la literatura proletaria de Kobayashi Takiji.",
+        "en": "On a crab-fishing ship in the Sea of Okhotsk, workers are forced into brutal labour until they unite and rise up. The best-known work of Kobayashi Takiji's proletarian literature."
+      }
+    },
+    {
+      "slug": "seiaido-kidan",
+      "aozoraId": "001307",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "春の雪の夕、青蛙堂主人の招きで集まった人々が、順に不思議な話を語ります。岡本綺堂の怪談集です。",
+        "es": "Una tarde de nieve primaveral, los invitados de la casa de Seiadō se turnan para contar historias extrañas. Colección de relatos de fantasmas de Okamoto Kidō.",
+        "en": "On an evening of spring snow, guests gathered at the Seiadō house take turns telling strange stories. A collection of ghost tales by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "futon",
+      "aozoraId": "001669",
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "description": {
+        "ja": "妻子ある三十六歳の作家が、弟子の若い女性に抱いた恋心を、赤裸々に描きます。日本の自然主義文学を代表する、田山花袋の小説です。",
+        "es": "Un escritor casado de treinta y seis años describe sin tapujos la pasión que siente por su joven discípula. Novela de Tayama Katai, emblema del naturalismo japonés.",
+        "en": "A married writer of thirty-six confesses without disguise the passion he feels for his young female pupil. A novel by Tayama Katai, emblematic of Japanese naturalism."
+      }
+    },
+    {
+      "slug": "tomurai-kikansha",
+      "aozoraId": "001264",
+      "genres": [
+        "mystery"
+      ],
+      "description": {
+        "ja": "毎年三月十八日、ある女のために機関庫のあるH市へ向かう元鉄道員が、汽車の中で身の上話を始めます。戦前の鉄道ミステリー、大阪圭吉の短編です。",
+        "es": "Cada 18 de marzo, un antiguo ferroviario viaja a la ciudad H, donde está la cochera de locomotoras, por una mujer, y en el tren empieza a contar su historia. Misterio ferroviario de antes de la guerra, de Ōsaka Keikichi.",
+        "en": "Every 18 March a former railwayman travels to the town of H, home of the locomotive depot, on account of a woman, and begins to tell his story on the train. A pre-war railway mystery by Ōsaka Keikichi."
+      }
+    },
+    {
+      "slug": "jinko-shinzo",
+      "aozoraId": "048071",
+      "genres": [
+        "scifi",
+        "mystery"
+      ],
+      "description": {
+        "ja": "人工心臓の発明に成功しながら、夫人の死後その研究を捨ててしまったＡ博士。「私」の問いに、博士はやがて理由を語り始めます。小酒井不木の科学小説です。",
+        "es": "El doctor A logró inventar un corazón artificial, pero abandonó su investigación tras la muerte de su esposa. Ante la pregunta del narrador, acaba contando por qué. Relato de ciencia ficción de Kosakai Fuboku.",
+        "en": "Dr A succeeded in inventing an artificial heart, yet gave up the research after his wife died. When the narrator asks why, he finally tells him. A science-fiction story by Kosakai Fuboku."
+      }
+    },
+    {
+      "slug": "akage-renmei",
+      "aozoraId": "000008",
+      "genres": [
+        "mystery"
+      ],
+      "description": {
+        "ja": "赤毛の男だけが加入できる奇妙な「赤毛連盟」。その不思議な仕事の裏に何があるのか、名探偵ホームズが解き明かします。コナン・ドイルの代表的な短編を、読みやすい現代の日本語に訳したものです。",
+        "es": "Una extraña «Liga de los Pelirrojos» solo admite a hombres de pelo rojo. Sherlock Holmes descubre qué hay detrás de ese curioso trabajo. Uno de los cuentos más conocidos de Conan Doyle, en una traducción al japonés actual y claro.",
+        "en": "A strange \"Red-Headed League\" admits only red-haired men. Sherlock Holmes finds out what lies behind its curious job. One of Conan Doyle's best-known stories, in a clear, modern Japanese translation."
+      }
+    },
+    {
+      "slug": "anausagi-peter-no-hanashi",
+      "aozoraId": "051344",
+      "genres": [
+        "children"
+      ],
+      "description": {
+        "ja": "いたずらなうさぎのピーターは、いいつけを破ってマグレガーさんの畑に入りこみます。ビアトリクス・ポターの絵本を、やさしい現代の日本語に訳した短い物語です。",
+        "es": "Peter, un conejo travieso, desobedece a su madre y se cuela en el huerto del señor McGregor. El cuento ilustrado de Beatrix Potter en una traducción corta y sencilla al japonés actual.",
+        "en": "Peter, a naughty rabbit, disobeys his mother and slips into Mr McGregor's garden. Beatrix Potter's picture-book tale in a short, easy modern Japanese translation."
+      }
+    },
+    {
+      "slug": "alice-wa-fushigi-no-kuni-de",
+      "aozoraId": "057320",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "白うさぎを追いかけて穴に落ちたアリスは、ふしぎの国に迷いこみます。普通の世界とは別の世界へ行く物語の原点とも言える、ルイス・キャロルの名作を、現代の日本語に訳したものです。",
+        "es": "Alice persigue a un conejo blanco, cae por una madriguera y llega a un país extraño. La obra maestra de Lewis Carroll, origen de los relatos sobre viajes a otro mundo, en una traducción al japonés actual.",
+        "en": "Alice follows a white rabbit down a hole and finds herself in a strange land. Lewis Carroll's classic, a forerunner of every story about stepping into another world, in a modern Japanese translation."
+      }
+    },
+    {
+      "slug": "rur",
+      "aozoraId": "046345",
+      "genres": [
+        "scifi",
+        "drama"
+      ],
+      "description": {
+        "ja": "人間の代わりに働く人造の労働者を大量生産する工場。そこで生まれた「ロボット」たちは、やがて…。この言葉を世界に広めた、カレル・チャペックの戯曲を現代の日本語に訳したものです。",
+        "es": "Una fábrica fabrica en serie trabajadores artificiales que sustituyen a las personas, y los «robots» que salen de ella acaban… La obra de teatro de Karel Čapek que difundió la palabra «robot», en una traducción al japonés actual.",
+        "en": "A factory mass-produces artificial workers to take the place of people, and the \"robots\" it makes end up… Karel Čapek's play, which gave the world the word \"robot\", in a modern Japanese translation."
+      }
+    },
+    {
+      "slug": "kasei-ryoko-zenpen",
+      "aozoraId": "062126",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "火星に降り立った探検隊員ジャービスが、そこでの出来事を語ります。1930年代のSF作家スタンリー・G・ワインバウムの「惑星シリーズ」の第一話（前編）を、読みやすい日本語に訳したものです。",
+        "es": "Jarvis, miembro de una expedición a Marte, cuenta lo que le ocurrió allí. Primera entrega (primera parte) de la serie planetaria de Stanley G. Weinbaum, un autor de ciencia ficción de los años treinta, en japonés fluido.",
+        "en": "Jarvis, a member of an expedition to Mars, tells what happened to him there. The first instalment (part one) of the planet series by Stanley G. Weinbaum, a 1930s science-fiction writer, in fluent Japanese."
+      }
+    },
+    {
+      "slug": "dagon",
+      "aozoraId": "057443",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "ボートで漂流していた男の前に、海の底から陰気な土地が現れます。そこで見たものが語り手の心をむしばんでいきます。ラヴクラフトの初期の代表的な怪奇短編です。",
+        "es": "A un hombre a la deriva en un bote le aparece, surgida del fondo del mar, una tierra sombría. Lo que ve allí le va minando la razón. Uno de los primeros relatos de terror emblemáticos de Lovecraft.",
+        "en": "A man adrift in a boat sees a gloomy land rise from the sea floor. What he sees there eats away at his mind. One of Lovecraft's early landmark horror stories."
+      }
+    },
+    {
+      "slug": "nyarlathotep",
+      "aozoraId": "056839",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "世の中が不安に包まれていたころ、ニャルラトホテプという謎の存在が現れ、人々の心をざわつかせていきます。ラヴクラフトの、悪夢のように短い作品です。",
+        "es": "En una época de inquietud general aparece una misteriosa figura, Nyarlathotep, que va sembrando el desasosiego entre la gente. Un texto muy breve de Lovecraft, como una pesadilla.",
+        "en": "In a time of general unease a mysterious figure, Nyarlathotep, appears and stirs up the people. A very short work by Lovecraft, like a nightmare."
+      }
+    },
+    {
+      "slug": "drumgunniol-no-shiroi-neko",
+      "aozoraId": "057396",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "おとぎ話の白猫とは違う、邪悪な白猫の話。アイルランドの荒涼とした平原の一軒家を舞台にした、レ・ファニュの怪談です。",
+        "es": "No es la gata blanca de los cuentos de hadas, sino otra mucho más malvada. Un relato de fantasmas de Le Fanu ambientado en una casa aislada de las llanuras irlandesas.",
+        "en": "Not the white cat of the fairy tales but a far more wicked one. A ghost story by Le Fanu set in a lonely house on the bleak plains of Ireland."
+      }
+    },
+    {
+      "slug": "chickamauga",
+      "aozoraId": "057340",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "秋の午後、六歳の少年が一人で森へ迷いこみます。戦争の影を、皮肉をこめて描くアンブローズ・ビアスの短編です。",
+        "es": "Una tarde de otoño, un niño de seis años se adentra solo en el bosque. Un relato de Ambrose Bierce que retrata, con ironía, la sombra de la guerra.",
+        "en": "On an autumn afternoon a six-year-old boy wanders alone into the woods. A story by Ambrose Bierce that shows the shadow of war with irony."
+      }
+    },
+    {
+      "slug": "yuubae-no-mukou-no-kuni",
+      "aozoraId": "057998",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "夕映えのはるか向こうの国に、心の美しさが輝く王女が住んでいました。アンナ・キングスフォードが書いた、時代を超える童話です。",
+        "es": "En un país muy lejano, más allá del arrebol del atardecer, vivía una princesa cuya belleza era la luz de su corazón. Un cuento intemporal de Anna Kingsford.",
+        "en": "In a country far beyond the sunset glow lived a princess whose beauty was the light of her heart. A timeless fairy tale by Anna Kingsford."
+      }
+    },
+    {
+      "slug": "hitsujikai-haita",
+      "aozoraId": "057401",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "羊飼いの神ハスターに毎朝祈りを捧げる、純朴な羊飼いハイタの暮らし。のちにクトゥルフ神話に取り入れられた「ハスター」の名が登場する、ビアスの短い物語です。",
+        "es": "La vida de Haita, un pastor sencillo que reza cada mañana a Hastur, el dios de los pastores. Un relato breve de Bierce en el que aparece el nombre de Hastur, que luego recogería el mito de Cthulhu.",
+        "en": "The life of Haita, a simple shepherd who prays each morning to Hastur, the god of shepherds. A short tale by Bierce in which appears the name Hastur, later taken up by the Cthulhu mythos."
+      }
+    },
+    {
+      "slug": "santa-claus-ga-sarawarechatta",
+      "aozoraId": "046347",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "クリスマスの前に、サンタクロースがさらわれてしまいます。ライマン・フランク・ボームが書いた、ユーモアのあるクリスマスの童話です。",
+        "es": "Poco antes de Navidad, Papá Noel es secuestrado. Un cuento navideño con humor de L. Frank Baum, el autor de «El mago de Oz».",
+        "en": "Just before Christmas, Santa Claus is kidnapped. A humorous Christmas tale by L. Frank Baum, the author of \"The Wizard of Oz\"."
+      }
+    },
+    {
+      "slug": "flanders-no-inu",
+      "aozoraId": "057302",
+      "genres": [
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "少年ネロと犬のパトラッシュは、この世で二人きりの親友でした。ベルギーのフランドル地方を舞台にした、ウィーダの有名な物語です。",
+        "es": "El niño Nello y el perro Patrasche son los mejores amigos y están solos en el mundo. La célebre historia de Ouida, ambientada en la región belga de Flandes.",
+        "en": "The boy Nello and the dog Patrasche are best friends and alone in the world. Ouida's famous story, set in Flanders, Belgium."
+      }
+    },
+    {
+      "slug": "tsumi-to-kakugo",
+      "aozoraId": "046342",
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "description": {
+        "ja": "恩赦で刑務所を出た金庫破りのジミィ・ヴァレンタインは、新しい生き方を選べるのでしょうか。オー・ヘンリーの短編を現代の日本語に訳したものです。",
+        "es": "Jimmy Valentine, un ladrón de cajas fuertes indultado, ¿podrá elegir otra vida? Un cuento de O. Henry en una traducción al japonés actual.",
+        "en": "Jimmy Valentine, a safecracker pardoned from prison, can he choose a new life? A story by O. Henry in a modern Japanese translation."
+      }
+    },
+    {
+      "slug": "aku-no-teio-01",
+      "aozoraId": "061095",
+      "genres": [
+        "mystery"
+      ],
+      "description": {
+        "ja": "名探偵ではなく、大悪党を主人公にした連作の第一話。ロンドンに潜むフィリックス・グライドが、レイストリア皇帝の死を知るところから始まります。",
+        "es": "Primer episodio de una serie cuyo protagonista no es un gran detective, sino un gran criminal. Empieza cuando Felix Glide, escondido en Londres, se entera de la muerte del emperador de Raystria.",
+        "en": "First episode of a series whose hero is not a great detective but a great criminal. It begins when Felix Glide, hiding in London, learns of the death of the Emperor of Raystria."
+      }
+    },
+    {
+      "slug": "jinsei-wa-giji-taiken-game",
+      "aozoraId": "058807",
+      "genres": [
+        "fantasy",
+        "scifi",
+        "humor"
+      ],
+      "description": {
+        "ja": "擬似体験ゲームの説明書から始まる、風変わりな物語。「あなた」は王子スーパーテセウスとなって、恐竜や魔女、異星人と戦います。現代の作家、太田健一の作品です。",
+        "es": "Una historia peculiar que empieza con el manual de un juego de experiencia simulada: «tú» eres el príncipe Superteseo y te enfrentas a dinosaurios, brujas y extraterrestres. Obra del autor contemporáneo Ōta Ken'ichi.",
+        "en": "A peculiar story that opens with the manual of a simulated-experience game: \"you\" are Prince Super Theseus, fighting dinosaurs, witches and aliens. By the contemporary writer Ōta Ken'ichi."
+      }
+    },
+    {
+      "slug": "aozora-bunko-no-teian",
+      "aozoraId": "056572",
+      "genres": [
+        "nonfiction"
+      ],
+      "description": {
+        "ja": "電子書籍という新しい手段で、読む人にお金や資格を求めない「青空の本」を作ろう——。青空文庫が生まれたときの呼びかけを記した、短い文章です。",
+        "es": "Con el libro electrónico como aliado, crear «libros de cielo abierto» que no pidan a quien lee ni dinero ni requisitos. El breve texto con que nació Aozora Bunko.",
+        "en": "Using the e-book as an ally, to make \"open-sky books\" that ask readers for neither money nor credentials. The short text with which Aozora Bunko began."
+      }
+    },
+    {
+      "slug": "ten-ni-tsumu-takara",
+      "aozoraId": "059489",
+      "genres": [
+        "nonfiction"
+      ],
+      "description": {
+        "ja": "著作権の保護期間を延ばすことは、青空文庫のような活動にどんな影響を与えるのか。青空文庫を支えた富田倫生が、わかりやすい言葉で語る文章です。",
+        "es": "¿Qué efecto tendría ampliar el plazo de protección de los derechos de autor sobre proyectos como Aozora Bunko? Un ensayo claro de Tomita Michio, que impulsó la biblioteca.",
+        "en": "What would extending the term of copyright do to projects like Aozora Bunko? A clear essay by Tomita Michio, who helped build the library."
+      }
     }
   ]
 }

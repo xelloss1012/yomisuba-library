@@ -1,6 +1,6 @@
 # Yomisuba library
 
-Free, public-domain Japanese books that [Yomisuba](https://github.com/xelloss1012/yomisuba) (読みの素晴らしい世界に祝福を！), an EPUB reader for vertical Japanese, lists in its **free library** screen. The reader downloads a book only when its user chooses it, straight from this repository.
+Free Japanese books, in the public domain or under a Creative Commons licence, that [Yomisuba](https://github.com/xelloss1012/yomisuba) (読みの素晴らしい世界に祝福を！), an EPUB reader for vertical Japanese, lists in its **free library** screen. The reader downloads a book only when its user chooses it, straight from this repository.
 
 | File | What it is |
 |---|---|
@@ -12,7 +12,8 @@ Free, public-domain Japanese books that [Yomisuba](https://github.com/xelloss101
 
 ## Licences
 
-- **The works** are in the public domain. They come from [Aozora Bunko (青空文庫)](https://www.aozora.gr.jp/), the volunteer digital library. Only authors who **died in 1945 or earlier** are included: their copyright has expired in Japan, the United States, the European Union and Spain. A few countries have longer terms (Mexico, for one), so check yours before redistributing.
+- **Public-domain works.** They come from [Aozora Bunko (青空文庫)](https://www.aozora.gr.jp/), the volunteer digital library. Only authors who **died in 1945 or earlier** are included: their copyright has expired in Japan, the United States, the European Union and Spain. A few countries have longer terms (Mexico, for one), so check yours before redistributing.
+- **Creative Commons works.** Modern translations of classics (the originals are in the public domain, so the licence covers the translation) and works by contemporary authors, which their rights holders published on Aozora Bunko under **CC BY** or **CC BY-SA**. Those licences allow copying, adapting and redistributing with credit (BY-SA under the same licence). The licence, the credit and a note of what changed (a cover, a title page and a colophon were added; the text is unchanged, and illustrations over 1 MB are left out) are on the last page of each EPUB and in [`ATTRIBUTION.md`](ATTRIBUTION.md). Works under NonCommercial (NC) or NoDerivatives (ND) terms are not included.
 - **The catalog, the descriptions and the covers** are dedicated to the public domain under [CC0 1.0](LICENSE).
 
 Aozora Bunko asks that the source edition and the names of the typists and proofreaders be kept; every EPUB includes them and [`ATTRIBUTION.md`](ATTRIBUTION.md) lists them.
@@ -32,4 +33,6 @@ node scripts/build-library.mjs ../yomisuba-library botchan  # just one
 node scripts/check-library.mjs ../yomisuba-library          # validates the result
 ```
 
-To add a book, append an entry to `sources.json` (the Aozora work id, its genres and a short description in `ja`, `es` and `en`) and run the build. It refuses any work whose copyright flags in Aozora's catalogue are not clear or whose author died after 1945. Genres: `fantasy`, `scifi`, `mystery`, `horror`, `romance`, `historical`, `humor`, `drama`, `children`.
+To add a book, append an entry to `sources.json` (the Aozora work id, its genres and a short description in `ja`, `es` and `en`) and run the build. It reads the rights from Aozora's catalogue and from the file itself, and refuses a work unless either everyone credited died by 1945 and the copyright flags are clear, or the file states a CC BY / CC BY-SA licence (and, for a translation, its original author died by 1945). Genres: `fantasy`, `scifi`, `mystery`, `horror`, `romance`, `historical`, `humor`, `drama`, `children`, `nonfiction`.
+
+Works on commercial web-novel sites (Shōsetsuka ni Narō, Kakuyomu and the like) are not here: their authors keep the copyright and the sites grant readers no licence to redistribute. A work from such a site can only be added if its author states a CC BY (or CC0) licence for it.
