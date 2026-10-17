@@ -1,0 +1,136 @@
+{
+  "books": [
+    {
+      "slug": "kumo-no-ito",
+      "aozoraId": "000092",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "極楽の御釈迦様が、地獄に落ちた大泥棒・犍陀多に、たった一本の蜘蛛の糸を垂らします。芥川龍之介が子ども向けの雑誌に書いた、短くて美しい寓話です。",
+        "es": "Desde el paraíso, Buda ve a Kandata, un ladrón condenado al infierno, y le tiende un único hilo de araña. Una fábula breve que Akutagawa escribió para una revista infantil.",
+        "en": "From paradise, the Buddha lowers a single spider's thread to Kandata, a thief condemned to hell. A short fable that Akutagawa wrote for a children's magazine."
+      }
+    },
+    {
+      "slug": "ginga-tetsudo-no-yoru",
+      "aozoraId": "000456",
+      "genres": [
+        "fantasy",
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "少年ジョバンニは、友人カムパネルラと二人で、銀河を走る不思議な列車に乗って旅をします。宮沢賢治の代表作で、未完のまま遺された幻想的な物語です。",
+        "es": "Giovanni y su amigo Campanella viajan en un tren misterioso a través de la Vía Láctea. La obra más célebre de Miyazawa Kenji, un cuento fantástico que quedó inacabado.",
+        "en": "Giovanni and his friend Campanella ride a mysterious train through the Milky Way. Miyazawa Kenji's best-known work, a fantastical story left unfinished."
+      }
+    },
+    {
+      "slug": "chumon-no-ooi-ryoriten",
+      "aozoraId": "043754",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "山奥の西洋料理店に入った二人の猟師は、次々に奇妙な「注文」を受けます。ユーモアと怖さが同居する宮沢賢治の童話です。",
+        "es": "Dos cazadores entran en un restaurante occidental en lo profundo de la montaña y reciben una serie de extrañas «peticiones». Un cuento de Miyazawa Kenji que mezcla humor y miedo.",
+        "en": "Two hunters enter a Western-style restaurant deep in the mountains and receive a string of strange \"requests\". A tale by Miyazawa Kenji that mixes humor and dread."
+      }
+    },
+    {
+      "slug": "botchan",
+      "aozoraId": "000752",
+      "genres": [
+        "humor",
+        "drama"
+      ],
+      "description": {
+        "ja": "まっすぐで短気な江戸っ子の青年が、四国の中学校に数学教師として赴任し、同僚や生徒たちと騒動を繰り返します。夏目漱石の痛快な青春小説です。",
+        "es": "Un joven impulsivo y honrado de Edo llega como profesor de matemáticas a un instituto de Shikoku y se mete en líos con colegas y alumnos. La divertida novela juvenil de Natsume Sōseki.",
+        "en": "A hot-headed, straightforward young man from Edo takes a maths teaching post at a school in Shikoku and keeps clashing with colleagues and pupils. Natsume Sōseki's lively comic novel."
+      }
+    },
+    {
+      "slug": "yume-juya",
+      "aozoraId": "000799",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "「こんな夢を見た」で始まる、十の不思議な夢の物語。幻想的で、ときに不気味な夏目漱石の短編集です。",
+        "es": "Diez relatos de sueños extraños que empiezan con «He tenido este sueño». Un libro breve de Natsume Sōseki, fantástico y a veces inquietante.",
+        "en": "Ten strange dream stories, each opening with \"I had this dream\". A short collection by Natsume Sōseki, fantastical and at times unsettling."
+      }
+    },
+    {
+      "slug": "hanshichi-ofumi-no-tamashii",
+      "aozoraId": "001293",
+      "genres": [
+        "mystery",
+        "historical"
+      ],
+      "description": {
+        "ja": "「おふみの一件」とは何だったのか。叔父が決して語らなかった怪事件の真相を、老いた岡っ引き・半七が語ります。日本の捕物帳の草分け『半七捕物帳』の第一話です。",
+        "es": "Un narrador quiere saber qué fue «el asunto de Ofumi», una historia de fantasmas que su tío nunca quiso explicar, y el viejo detective Hanshichi se lo cuenta. Primer episodio de la serie de Okamoto Kidō, pionera de la novela policiaca japonesa de época.",
+        "en": "A narrator wants to know what happened in \"the Ofumi affair\", a ghost story his uncle would never explain, and the old detective Hanshichi tells him. First episode of Okamoto Kidō's pioneering Japanese period detective series."
+      }
+    },
+    {
+      "slug": "bindume-jigoku",
+      "aozoraId": "002381",
+      "genres": [
+        "mystery",
+        "horror"
+      ],
+      "description": {
+        "ja": "島に漂着した三つのビールの空き瓶。その中の手紙が、南の島に取り残された兄と妹の運命を語ります。夢野久作の怪奇ミステリーです。",
+        "es": "Tres botellas de cerveza llegan a la orilla de una isla; las cartas que contienen cuentan el destino de dos hermanos abandonados en una isla del sur. Un relato de misterio y terror de Yumeno Kyūsaku.",
+        "en": "Three beer bottles wash up on an island shore; the letters inside tell the fate of a brother and sister stranded on a southern island. A mystery-horror tale by Yumeno Kyūsaku."
+      }
+    },
+    {
+      "slug": "rashomon",
+      "aozoraId": "000127",
+      "genres": [
+        "historical",
+        "drama"
+      ],
+      "description": {
+        "ja": "荒れ果てた京都の羅生門の下で、暇を出された下人が、飢え死にするか盗人になるかの選択を迫られます。芥川龍之介の初期の名作です。",
+        "es": "Bajo la ruinosa puerta Rashōmon de Kioto, un criado despedido debe elegir entre morir de hambre o volverse ladrón. Uno de los primeros grandes relatos de Akutagawa.",
+        "en": "Under the ruined Rashōmon gate in Kyoto, a servant who has been dismissed must choose between starving and turning thief. An early masterpiece by Akutagawa."
+      }
+    },
+    {
+      "slug": "gusuko-budori-no-denki",
+      "aozoraId": "001924",
+      "genres": [
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "森で生まれたグスコーブドリは、冷害による飢饉で家族を失い、やがて火山局で働いて、人々を救うために大きな決断をします。宮沢賢治が描いた、科学と自己犠牲の物語です。",
+        "es": "Budori nace en un bosque, pierde a su familia en una hambruna causada por el frío y acaba trabajando en el servicio de volcanes, donde toma una decisión para salvar a la gente. Un relato de ciencia y sacrificio de Miyazawa Kenji.",
+        "en": "Budori is born in a forest, loses his family to a famine caused by cold summers and ends up working at the volcano bureau, where he makes a decision to save people. A story of science and self-sacrifice by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "geka-shitsu",
+      "aozoraId": "000360",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "description": {
+        "ja": "手術を受ける貴船伯爵夫人は、なぜか麻酔を頑なに拒みます。執刀する医師との間にあった、秘められた過去を描く泉鏡花の短編です。文語調の格調高い文体で書かれています。",
+        "es": "La condesa de Kifune se niega con firmeza a ser anestesiada antes de su operación. Entre ella y el médico que debe operarla hay un pasado secreto. Un relato breve de Izumi Kyōka, en una prosa literaria de aire clásico.",
+        "en": "Countess Kifune stubbornly refuses anaesthesia before her operation. A secret past connects her to the surgeon who must operate. A short story by Izumi Kyōka, written in an elevated, classical literary style."
+      }
+    }
+  ]
+}

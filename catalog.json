@@ -1,0 +1,517 @@
+{
+  "schema": 1,
+  "books": [
+    {
+      "id": "aozora-000092",
+      "slug": "kumo-no-ito",
+      "title": "蜘蛛の糸",
+      "titleReading": "くものいと",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "極楽の御釈迦様が、地獄に落ちた大泥棒・犍陀多に、たった一本の蜘蛛の糸を垂らします。芥川龍之介が子ども向けの雑誌に書いた、短くて美しい寓話です。",
+        "es": "Desde el paraíso, Buda ve a Kandata, un ladrón condenado al infierno, y le tiende un único hilo de araña. Una fábula breve que Akutagawa escribió para una revista infantil.",
+        "en": "From paradise, the Buddha lowers a single spider's thread to Kandata, a thief condemned to hell. A short fable that Akutagawa wrote for a children's magazine."
+      },
+      "file": "books/kumo-no-ito.epub",
+      "cover": "covers/kumo-no-ito.png",
+      "bytes": 35346,
+      "sha256": "cf4f147c92e9ba34046296fc28c3af393fe3be1a456a75e83bba48d6b3dbffd8",
+      "characters": 2868,
+      "pages": 5,
+      "chapters": 3,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.358,
+          "N4": 0.514,
+          "N3": 0.676,
+          "N2": 0.731,
+          "N1": 0.914
+        },
+        "words": 616
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card92.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集2 / ちくま文庫、筑摩書房 / 1986（昭和61）年10月28日",
+        "input": "野口英司、平山誠",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2011-01-28"
+    },
+    {
+      "id": "aozora-000456",
+      "slug": "ginga-tetsudo-no-yoru",
+      "title": "銀河鉄道の夜",
+      "titleReading": "ぎんがてつどうのよる",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "少年ジョバンニは、友人カムパネルラと二人で、銀河を走る不思議な列車に乗って旅をします。宮沢賢治の代表作で、未完のまま遺された幻想的な物語です。",
+        "es": "Giovanni y su amigo Campanella viajan en un tren misterioso a través de la Vía Láctea. La obra más célebre de Miyazawa Kenji, un cuento fantástico que quedó inacabado.",
+        "en": "Giovanni and his friend Campanella ride a mysterious train through the Milky Way. Miyazawa Kenji's best-known work, a fantastical story left unfinished."
+      },
+      "file": "books/ginga-tetsudo-no-yoru.epub",
+      "cover": "covers/ginga-tetsudo-no-yoru.png",
+      "bytes": 86480,
+      "sha256": "a8e3b97fb06c01d4dc33aa7abf204eb0936a9890843cbd92498b5bbacde01ddd",
+      "characters": 38301,
+      "pages": 64,
+      "chapters": 9,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.419,
+          "N4": 0.569,
+          "N3": 0.719,
+          "N2": 0.778,
+          "N1": 0.913
+        },
+        "words": 8104
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card456.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "新編　銀河鉄道の夜 / 新潮文庫、新潮社 / 1989（平成元）年6月15日",
+        "input": "野口英司、中村隆生",
+        "proofreading": "野口英司"
+      },
+      "updated": "2010-11-01"
+    },
+    {
+      "id": "aozora-043754",
+      "slug": "chumon-no-ooi-ryoriten",
+      "title": "注文の多い料理店",
+      "titleReading": "ちゅうもんのおおいりょうりてん",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "山奥の西洋料理店に入った二人の猟師は、次々に奇妙な「注文」を受けます。ユーモアと怖さが同居する宮沢賢治の童話です。",
+        "es": "Dos cazadores entran en un restaurante occidental en lo profundo de la montaña y reciben una serie de extrañas «peticiones». Un cuento de Miyazawa Kenji que mezcla humor y miedo.",
+        "en": "Two hunters enter a Western-style restaurant deep in the mountains and receive a string of strange \"requests\". A tale by Miyazawa Kenji that mixes humor and dread."
+      },
+      "file": "books/chumon-no-ooi-ryoriten.epub",
+      "cover": "covers/chumon-no-ooi-ryoriten.png",
+      "bytes": 41292,
+      "sha256": "b551860472b4de64e85847c2918143d62aaf92c0b18b8e3de09d663d0381bc1a",
+      "characters": 5399,
+      "pages": 9,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.434,
+          "N4": 0.571,
+          "N3": 0.723,
+          "N2": 0.775,
+          "N1": 0.916
+        },
+        "words": 1092
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43754.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-01-26"
+    },
+    {
+      "id": "aozora-000752",
+      "slug": "botchan",
+      "title": "坊っちゃん",
+      "titleReading": "ぼっちゃん",
+      "author": "夏目漱石",
+      "authorReading": "なつめそうせき",
+      "language": "ja",
+      "genres": [
+        "humor",
+        "drama"
+      ],
+      "description": {
+        "ja": "まっすぐで短気な江戸っ子の青年が、四国の中学校に数学教師として赴任し、同僚や生徒たちと騒動を繰り返します。夏目漱石の痛快な青春小説です。",
+        "es": "Un joven impulsivo y honrado de Edo llega como profesor de matemáticas a un instituto de Shikoku y se mete en líos con colegas y alumnos. La divertida novela juvenil de Natsume Sōseki.",
+        "en": "A hot-headed, straightforward young man from Edo takes a maths teaching post at a school in Shikoku and keeps clashing with colleagues and pupils. Natsume Sōseki's lively comic novel."
+      },
+      "file": "books/botchan.epub",
+      "cover": "covers/botchan.png",
+      "bytes": 157866,
+      "sha256": "9fa5b4afbdd245ab6573ef563ffef6bbf80374cd4b291a02d09c0b07ed830db9",
+      "characters": 88272,
+      "pages": 147,
+      "chapters": 11,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.357,
+          "N4": 0.494,
+          "N3": 0.662,
+          "N2": 0.717,
+          "N1": 0.89
+        },
+        "words": 19883
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000148/card752.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1916-12-09"
+      },
+      "credits": {
+        "base": "ちくま日本文学全集　夏目漱石 / 筑摩書房 / 1992（平成4）年1月20日",
+        "input": "真先芳秋",
+        "proofreading": "柳沢成雄"
+      },
+      "updated": "2011-05-20"
+    },
+    {
+      "id": "aozora-000799",
+      "slug": "yume-juya",
+      "title": "夢十夜",
+      "titleReading": "ゆめじゅうや",
+      "author": "夏目漱石",
+      "authorReading": "なつめそうせき",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "「こんな夢を見た」で始まる、十の不思議な夢の物語。幻想的で、ときに不気味な夏目漱石の短編集です。",
+        "es": "Diez relatos de sueños extraños que empiezan con «He tenido este sueño». Un libro breve de Natsume Sōseki, fantástico y a veces inquietante.",
+        "en": "Ten strange dream stories, each opening with \"I had this dream\". A short collection by Natsume Sōseki, fantastical and at times unsettling."
+      },
+      "file": "books/yume-juya.epub",
+      "cover": "covers/yume-juya.png",
+      "bytes": 54413,
+      "sha256": "53be231921a3d48a0c086ba07ac219083016ef1fee69f5315d2eb1dbb3b10894",
+      "characters": 15867,
+      "pages": 26,
+      "chapters": 10,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.384,
+          "N4": 0.522,
+          "N3": 0.678,
+          "N2": 0.742,
+          "N1": 0.896
+        },
+        "words": 3996
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000148/card799.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1916-12-09"
+      },
+      "credits": {
+        "base": "夏目漱石全集10 / ちくま文庫、筑摩書房 / 1988（昭和63）年7月26日",
+        "input": "野口英司",
+        "proofreading": ""
+      },
+      "updated": "2013-07-17"
+    },
+    {
+      "id": "aozora-001293",
+      "slug": "hanshichi-ofumi-no-tamashii",
+      "title": "半七捕物帳 お文の魂",
+      "titleReading": "はんしちとりものちょう",
+      "author": "岡本綺堂",
+      "authorReading": "おかもときどう",
+      "language": "ja",
+      "genres": [
+        "mystery",
+        "historical"
+      ],
+      "description": {
+        "ja": "「おふみの一件」とは何だったのか。叔父が決して語らなかった怪事件の真相を、老いた岡っ引き・半七が語ります。日本の捕物帳の草分け『半七捕物帳』の第一話です。",
+        "es": "Un narrador quiere saber qué fue «el asunto de Ofumi», una historia de fantasmas que su tío nunca quiso explicar, y el viejo detective Hanshichi se lo cuenta. Primer episodio de la serie de Okamoto Kidō, pionera de la novela policiaca japonesa de época.",
+        "en": "A narrator wants to know what happened in \"the Ofumi affair\", a ghost story his uncle would never explain, and the old detective Hanshichi tells him. First episode of Okamoto Kidō's pioneering Japanese period detective series."
+      },
+      "file": "books/hanshichi-ofumi-no-tamashii.epub",
+      "cover": "covers/hanshichi-ofumi-no-tamashii.png",
+      "bytes": 54125,
+      "sha256": "070e30494a611f661b24a95ba47434d8ddb13729ad4304c1640b5a47e7f9d3ff",
+      "characters": 16072,
+      "pages": 27,
+      "chapters": 4,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.322,
+          "N4": 0.469,
+          "N3": 0.645,
+          "N2": 0.702,
+          "N1": 0.895
+        },
+        "words": 3546
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000082/card1293.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-03-01"
+      },
+      "credits": {
+        "base": "時代推理小説　半七捕物帳（一） / 光文社文庫、光文社 / 1985（昭和60）年11月20日",
+        "input": "A.Morimine",
+        "proofreading": "原田頌子"
+      },
+      "updated": "2012-05-25"
+    },
+    {
+      "id": "aozora-002381",
+      "slug": "bindume-jigoku",
+      "title": "瓶詰地獄",
+      "titleReading": "びんづめじごく",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "mystery",
+        "horror"
+      ],
+      "description": {
+        "ja": "島に漂着した三つのビールの空き瓶。その中の手紙が、南の島に取り残された兄と妹の運命を語ります。夢野久作の怪奇ミステリーです。",
+        "es": "Tres botellas de cerveza llegan a la orilla de una isla; las cartas que contienen cuentan el destino de dos hermanos abandonados en una isla del sur. Un relato de misterio y terror de Yumeno Kyūsaku.",
+        "en": "Three beer bottles wash up on an island shore; the letters inside tell the fate of a brother and sister stranded on a southern island. A mystery-horror tale by Yumeno Kyūsaku."
+      },
+      "file": "books/bindume-jigoku.epub",
+      "cover": "covers/bindume-jigoku.png",
+      "bytes": 40696,
+      "sha256": "99dc4018547f515fd566affb9e5c9bc0854efb4ac5d88291e705186ecb06122b",
+      "characters": 6703,
+      "pages": 11,
+      "chapters": 4,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.303,
+          "N4": 0.435,
+          "N3": 0.583,
+          "N2": 0.633,
+          "N1": 0.815
+        },
+        "words": 1405
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card2381.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作怪奇幻想傑作選　あやかしの鼓 / 角川ホラー文庫、角川書店 / 1998（平成10）年4月10日",
+        "input": "林裕司",
+        "proofreading": "浜野智"
+      },
+      "updated": "2019-04-21"
+    },
+    {
+      "id": "aozora-000127",
+      "slug": "rashomon",
+      "title": "羅生門",
+      "titleReading": "らしょうもん",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "historical",
+        "drama"
+      ],
+      "description": {
+        "ja": "荒れ果てた京都の羅生門の下で、暇を出された下人が、飢え死にするか盗人になるかの選択を迫られます。芥川龍之介の初期の名作です。",
+        "es": "Bajo la ruinosa puerta Rashōmon de Kioto, un criado despedido debe elegir entre morir de hambre o volverse ladrón. Uno de los primeros grandes relatos de Akutagawa.",
+        "en": "Under the ruined Rashōmon gate in Kyoto, a servant who has been dismissed must choose between starving and turning thief. An early masterpiece by Akutagawa."
+      },
+      "file": "books/rashomon.epub",
+      "cover": "covers/rashomon.png",
+      "bytes": 27922,
+      "sha256": "99f692294be5be1677795a86f1aec0120d611267000c8cd89db90da77b824ac6",
+      "characters": 5682,
+      "pages": 9,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.367,
+          "N4": 0.496,
+          "N3": 0.663,
+          "N2": 0.716,
+          "N1": 0.887
+        },
+        "words": 1349
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card127.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集1 / ちくま文庫、筑摩書房 / 1986（昭和61）年9月24日",
+        "input": "野口英司、平山誠",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2022-07-16"
+    },
+    {
+      "id": "aozora-001924",
+      "slug": "gusuko-budori-no-denki",
+      "title": "グスコーブドリの伝記",
+      "titleReading": "グスコーブドリのでんき",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "森で生まれたグスコーブドリは、冷害による飢饉で家族を失い、やがて火山局で働いて、人々を救うために大きな決断をします。宮沢賢治が描いた、科学と自己犠牲の物語です。",
+        "es": "Budori nace en un bosque, pierde a su familia en una hambruna causada por el frío y acaba trabajando en el servicio de volcanes, donde toma una decisión para salvar a la gente. Un relato de ciencia y sacrificio de Miyazawa Kenji.",
+        "en": "Budori is born in a forest, loses his family to a famine caused by cold summers and ends up working at the volcano bureau, where he makes a decision to save people. A story of science and self-sacrifice by Miyazawa Kenji."
+      },
+      "file": "books/gusuko-budori-no-denki.epub",
+      "cover": "covers/gusuko-budori-no-denki.png",
+      "bytes": 60861,
+      "sha256": "4a225046e6abc4e85de744856c43a6278378b24ad042505c79c3b1bb911d6cc2",
+      "characters": 25166,
+      "pages": 42,
+      "chapters": 9,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.429,
+          "N4": 0.586,
+          "N3": 0.744,
+          "N2": 0.8,
+          "N1": 0.922
+        },
+        "words": 5358
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1924.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "童話集　風の又三郎 / 岩波文庫、岩波書店 / 1951（昭和26）年4月25日",
+        "input": "柴田卓治",
+        "proofreading": "松永正敏"
+      },
+      "updated": "2014-09-16"
+    },
+    {
+      "id": "aozora-000360",
+      "slug": "geka-shitsu",
+      "title": "外科室",
+      "titleReading": "げかしつ",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "description": {
+        "ja": "手術を受ける貴船伯爵夫人は、なぜか麻酔を頑なに拒みます。執刀する医師との間にあった、秘められた過去を描く泉鏡花の短編です。文語調の格調高い文体で書かれています。",
+        "es": "La condesa de Kifune se niega con firmeza a ser anestesiada antes de su operación. Entre ella y el médico que debe operarla hay un pasado secreto. Un relato breve de Izumi Kyōka, en una prosa literaria de aire clásico.",
+        "en": "Countess Kifune stubbornly refuses anaesthesia before her operation. A secret past connects her to the surgeon who must operate. A short story by Izumi Kyōka, written in an elevated, classical literary style."
+      },
+      "file": "books/geka-shitsu.epub",
+      "cover": "covers/geka-shitsu.png",
+      "bytes": 34245,
+      "sha256": "6210140451bff7d36abdd6ffb6a2e1f725f6bf152d64dfd988d851007da3cd3f",
+      "characters": 7252,
+      "pages": 12,
+      "chapters": 2,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.271,
+          "N4": 0.386,
+          "N3": 0.558,
+          "N2": 0.605,
+          "N1": 0.828
+        },
+        "words": 1722
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card360.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "高野聖 / 角川文庫、角川書店 / 1971（昭和46）年4月20日改版初版",
+        "input": "今中一時",
+        "proofreading": "浜野智"
+      },
+      "updated": "2012-10-02"
+    }
+  ]
+}
