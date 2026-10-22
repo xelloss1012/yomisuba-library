@@ -782,6 +782,1240 @@
         "es": "¿Qué efecto tendría ampliar el plazo de protección de los derechos de autor sobre proyectos como Aozora Bunko? Un ensayo claro de Tomita Michio, que impulsó la biblioteca.",
         "en": "What would extending the term of copyright do to projects like Aozora Bunko? A clear essay by Tomita Michio, who helped build the library."
       }
+    },
+    {
+      "slug": "kuroneko",
+      "aozoraId": "000530",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "酒に溺れた男は、かわいがっていた黒猫を手にかけてしまいます。やがて、もう一匹の黒猫が現れて…。ポーの短編のなかでも特に有名な恐怖小説です。",
+        "es": "Un hombre hundido en el alcohol mata al gato negro que tanto quería, y poco después aparece otro gato negro… Uno de los relatos de terror más famosos de Poe.",
+        "en": "A man sinking into drink kills the black cat he loved, and soon another black cat appears… One of Poe's most famous horror stories."
+      }
+    },
+    {
+      "slug": "usher-ke-no-horai",
+      "aozoraId": "000882",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "古い友人に呼ばれて、語り手は陰気な館を訪ねます。病んだ兄と妹、そして館そのものが、少しずつ崩れていきます。ポーの代表作の一つです。",
+        "es": "Llamado por un viejo amigo, el narrador visita una mansión sombría donde viven un hermano y una hermana enfermos, y todo, la casa incluida, se va desmoronando. Una de las obras maestras de Poe.",
+        "en": "Summoned by an old friend, the narrator visits a gloomy mansion where a sick brother and sister live, and everything, the house included, slowly collapses. One of Poe's masterpieces."
+      }
+    },
+    {
+      "slug": "william-wilson",
+      "aozoraId": "002523",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "同じ名前、同じ顔の少年が、学校でも、その先でも主人公につきまといます。自分の良心とも言える「もう一人の自分」を描いた、ポーの不気味な物語です。",
+        "es": "Un muchacho con el mismo nombre y el mismo rostro lo sigue en la escuela y más allá. Un inquietante relato de Poe sobre el «otro yo» que parece ser la propia conciencia.",
+        "en": "A boy with the same name and face follows the hero at school and beyond. An unsettling tale by Poe about a double who seems to be his own conscience."
+      }
+    },
+    {
+      "slug": "ochiana-to-furiko",
+      "aozoraId": "001871",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "異端審問で死刑を宣告された男が、暗い牢の中で恐ろしい仕掛けに追いつめられます。ポーが描く、息もつかせない極限の恐怖です。",
+        "es": "Condenado a muerte por la Inquisición, un hombre es acorralado en una celda oscura por mecanismos terribles. Un terror extremo y sin respiro, firmado por Poe.",
+        "en": "Sentenced to death by the Inquisition, a man is hunted down in a dark cell by terrible devices. Poe's breathless, extreme horror."
+      }
+    },
+    {
+      "slug": "yobutsu",
+      "aozoraId": "004091",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "森で男が無残な姿で見つかり、検死審問が開かれます。目に見えない「なにか」が、人を襲ったのでしょうか。ビアスの短編を岡本綺堂が訳しました。",
+        "es": "Un hombre aparece muerto de forma atroz en el bosque y se abre una investigación. ¿Lo ha atacado algo que nadie puede ver? Un cuento de Bierce traducido por Okamoto Kidō.",
+        "en": "A man is found horribly killed in the woods and an inquest is held. Was he attacked by something no one can see? A story by Bierce, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "haitaku",
+      "aozoraId": "004998",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "街の一角に、窓を閉ざしたまま誰も住まない家がありました。ある日、その窓に女の手が見えたと語り手は言います。ホフマンの幻想怪奇譚を岡本綺堂が訳しました。",
+        "es": "En una calle de la ciudad hay una casa deshabitada con las ventanas siempre cerradas. Un día el narrador asegura haber visto en ellas la mano de una mujer. Un relato fantástico de Hoffmann traducido por Okamoto Kidō.",
+        "en": "On a city street stands an empty house with its windows always shut. One day the narrator says he saw a woman's hand at one of them. A fantastic tale by Hoffmann, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "kyochu-no-bijo",
+      "aozoraId": "043468",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "プラハの貧しい学生コスモは、古い鏡に映る美しい女性に心を奪われます。ジョージ・マクドナルドの幻想的な物語を、岡本綺堂が訳しました。",
+        "es": "Cosmo, un estudiante pobre de Praga, queda prendado de una bella mujer que ve reflejada en un viejo espejo. Un relato fantástico de George MacDonald, traducido por Okamoto Kidō.",
+        "en": "Cosmo, a poor student in Prague, is captivated by a beautiful woman he sees in an old mirror. A fantastic tale by George MacDonald, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "dogra-magra",
+      "aozoraId": "002093",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "精神病院のベッドで目覚めた青年は、自分が誰なのか思い出せません。彼を巡る「ドグラ・マグラ」という不思議な原稿が、読む人の頭を迷宮に連れこみます。日本の三大奇書の一つです。",
+        "es": "Un joven despierta en la cama de un manicomio sin recordar quién es. Un manuscrito extraño, «Dogra Magra», arrastra al lector a un laberinto mental. Una de las «tres grandes obras extrañas» de la literatura japonesa.",
+        "en": "A young man wakes up in an asylum bed without knowing who he is. A strange manuscript, \"Dogra Magra\", pulls the reader into a labyrinth. One of the \"three great strange books\" of Japanese literature."
+      }
+    },
+    {
+      "slug": "shojo-jigoku",
+      "aozoraId": "000935",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "三人の少女が語る、いつわりと破滅の物語。手紙や告白の形で綴られる、夢野久作の連作です。",
+        "es": "Los relatos de mentira y perdición de tres muchachas, contados en forma de cartas y confesiones. Una serie de cuentos de Yumeno Kyūsaku.",
+        "en": "Stories of deceit and ruin told by three girls, in the form of letters and confessions. A linked series by Yumeno Kyūsaku."
+      }
+    },
+    {
+      "slug": "kage-o-fumareta-onna",
+      "aozoraId": "056160",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "十三夜の月の夜、影を踏まれた女に、不思議なことが起こります。岡本綺堂が書いた、静かに怖い怪談です。",
+        "es": "En la noche de luna llamada «jūsan'ya», a una mujer le pisan la sombra y le suceden cosas extrañas. Una historia de fantasmas de Okamoto Kidō, de las que dan miedo en voz baja.",
+        "en": "On the moonlit night of jūsan'ya, a woman has her shadow stepped on, and strange things begin to happen. A quietly frightening ghost story by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "mayukakushi-no-rei",
+      "aozoraId": "001174",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "木曽街道、奈良井の宿に泊まった客が耳にする、女の霊にまつわる不思議な話。泉鏡花が書いた怪談です。",
+        "es": "Un viajero que se aloja en la posada de Narai, en el camino de Kiso, oye una extraña historia sobre el fantasma de una mujer. Un relato de fantasmas de Izumi Kyōka.",
+        "en": "A traveller staying at an inn in Narai, on the Kiso road, hears a strange story about a woman's ghost. A ghost story by Izumi Kyōka."
+      }
+    },
+    {
+      "slug": "majo-no-ie-de-mita-yume",
+      "aozoraId": "057474",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "古い街の屋根裏部屋に暮らす学生ギルマンは、毎晩、恐ろしい夢を見ます。そこには魔女と、ネズミに似た使い魔が現れて…。ラヴクラフトの代表作を、クリエイティブ・コモンズの訳で読めます。",
+        "es": "Gilman, un estudiante que vive en una buhardilla de una ciudad antigua, tiene cada noche sueños terribles en los que aparecen una bruja y un familiar parecido a una rata. Una obra emblemática de Lovecraft, en una traducción con licencia Creative Commons.",
+        "en": "Gilman, a student living in the attic of an old town, has terrible dreams every night in which a witch and a rat-like familiar appear. A landmark Lovecraft work, in a Creative Commons translation."
+      }
+    },
+    {
+      "slug": "pickman-no-model",
+      "aozoraId": "057341",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "画家ピックマンが描く絵は、あまりにも恐ろしく、そして真に迫っていました。彼のモデルはいったい何だったのでしょうか。ラヴクラフトの短編です。",
+        "es": "Los cuadros del pintor Pickman son tan espantosos como realistas. ¿Qué había servido de modelo? Un cuento de Lovecraft.",
+        "en": "The paintings of the artist Pickman are as horrifying as they are lifelike. What was his model? A short story by Lovecraft."
+      }
+    },
+    {
+      "slug": "yami-o-samayoumono",
+      "aozoraId": "057255",
+      "genres": [
+        "horror",
+        "scifi"
+      ],
+      "description": {
+        "ja": "廃教会に足を踏み入れた作家ロバート・ブレイクは、そこで恐ろしい何かを目覚めさせてしまいます。ラヴクラフトが友人のブロックに捧げた作品です。",
+        "es": "El escritor Robert Blake entra en una iglesia abandonada y despierta algo terrible. Una obra que Lovecraft dedicó a su amigo Robert Bloch.",
+        "en": "The writer Robert Blake enters an abandoned church and awakens something terrible. A work Lovecraft dedicated to his friend Robert Bloch."
+      }
+    },
+    {
+      "slug": "kyoki-no-sanmyaku-nite",
+      "aozoraId": "057858",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "南極を調査する探検隊が、氷の下から太古の巨大な都市を見つけます。ラヴクラフトの長編で、ホラーとSFが重なり合う代表作です。",
+        "es": "Una expedición científica en la Antártida descubre bajo el hielo una ciudad colosal de épocas remotas. La novela larga de Lovecraft en la que se cruzan el terror y la ciencia ficción.",
+        "en": "A scientific expedition in Antarctica finds a vast city of remote ages beneath the ice. Lovecraft's long tale, where horror and science fiction meet."
+      }
+    },
+    {
+      "slug": "jikan-kara-no-kage",
+      "aozoraId": "057342",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "突然、人が変わったようになった大学教授。数年後に正気に戻った彼が知ったのは、時間を越えた恐ろしい真実でした。ラヴクラフトの傑作です。",
+        "es": "Un profesor universitario cambia de pronto de personalidad. Años después, ya recuperado, descubre una verdad terrible que cruza el tiempo. Una obra maestra de Lovecraft.",
+        "en": "A university professor suddenly seems to become someone else. Years later, back to normal, he learns a terrible truth that spans time. A Lovecraft masterpiece."
+      }
+    },
+    {
+      "slug": "kasei-ryoko-kohen",
+      "aozoraId": "062189",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "地球に戻る期限が迫る火星探検隊を描く、ワインバウム「惑星シリーズ」の第二話（後編）です。前編「火星旅行」の続きで、クリエイティブ・コモンズの訳で読めます。",
+        "es": "La segunda entrega (segunda parte) de la serie planetaria de Weinbaum: una expedición a Marte con el plazo para volver a la Tierra a punto de agotarse. Continúa «Viaje a Marte», en una traducción con licencia Creative Commons.",
+        "en": "The second instalment (part two) of Weinbaum's planet series: a Mars expedition running out of time to return to Earth. It continues the first part, \"Mars Journey\", in a Creative Commons translation."
+      }
+    },
+    {
+      "slug": "kisei-wakusei",
+      "aozoraId": "062206",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "金星の過酷な環境で、探検家ハム・ハモンドが生き延びようとします。ワインバウム「惑星シリーズ」の一編（金星・前編）です。",
+        "es": "El explorador Ham Hammond intenta sobrevivir en el hostil ambiente de Venus. Un relato de la serie planetaria de Weinbaum (Venus, primera parte).",
+        "en": "The explorer Ham Hammond tries to survive in the harsh environment of Venus. A story from Weinbaum's planet series (Venus, part one)."
+      }
+    },
+    {
+      "slug": "hasu-sennin",
+      "aozoraId": "062207",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "金星を探検するハムとパットの夫妻が、ふしぎな生き物と出会います。ワインバウム「惑星シリーズ」の一編（金星・後編）です。",
+        "es": "Los exploradores Ham y Pat Hammond se encuentran con extrañas criaturas en Venus. Un relato de la serie planetaria de Weinbaum (Venus, segunda parte).",
+        "en": "The explorers Ham and Pat Hammond meet strange creatures on Venus. A story from Weinbaum's planet series (Venus, part two)."
+      }
+    },
+    {
+      "slug": "moya-wakusei",
+      "aozoraId": "062208",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "天王星の探検隊の五人が、もやに包まれた世界で不思議な出来事に巻きこまれます。ワインバウム「惑星シリーズ」の一編です。",
+        "es": "Cinco miembros de una expedición a Urano se ven envueltos en sucesos extraños en un mundo cubierto de bruma. Un relato de la serie planetaria de Weinbaum.",
+        "en": "Five members of an expedition to Uranus are drawn into strange events in a world wrapped in mist. A story from Weinbaum's planet series."
+      }
+    },
+    {
+      "slug": "titan-oudan",
+      "aozoraId": "062460",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "土星の衛星タイタンで、猛烈な嵐の中を歩く二人。マイナス60度の世界を行く冒険を、ワインバウムが描きます。",
+        "es": "Dos personas avanzan en medio de una tormenta feroz en Titán, la luna de Saturno. Weinbaum narra una aventura por un mundo a sesenta grados bajo cero.",
+        "en": "Two people struggle through a fierce storm on Titan, Saturn's moon. Weinbaum tells an adventure across a world sixty degrees below zero."
+      }
+    },
+    {
+      "slug": "proteus-to",
+      "aozoraId": "062682",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "「立入禁止、島のタブーです」。現地の男の警告を聞かず、カーバーは島へ近づいていきます。ワインバウムの「怪奇シリーズ」の一編です。",
+        "es": "«Prohibido entrar, es el tabú de la isla.» Carver no hace caso de la advertencia de un nativo y se acerca a la isla. Un relato de la serie de lo extraño de Weinbaum.",
+        "en": "\"No entry, it is the island's taboo.\" Ignoring a local man's warning, Carver draws near the island. A story from Weinbaum's \"weird\" series."
+      }
+    },
+    {
+      "slug": "pygmalion-megane",
+      "aozoraId": "062125",
+      "genres": [
+        "scifi",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "酔った男が、老人から不思議な眼鏡を手に入れます。それをかけると、そこには現実とは別の世界が広がっていて…。ワインバウムの幻想的なSFです。",
+        "es": "Un hombre ebrio recibe de un anciano unas gafas extraordinarias; al ponérselas se abre ante él un mundo distinto de la realidad… Una ciencia ficción de tono fantástico de Weinbaum.",
+        "en": "A drunk man gets a pair of extraordinary glasses from an old man; wearing them opens a world quite apart from reality… A fantastical piece of science fiction by Weinbaum."
+      }
+    },
+    {
+      "slug": "jekyll-hakase-to-hyde-shi",
+      "aozoraId": "033205",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "立派な紳士のジキル博士と、凶暴な悪人ハイド氏。二人のあいだには、恐ろしい秘密がありました。人間の二面性を描いたスティーブンソンの名作です。",
+        "es": "El respetable doctor Jekyll y el violento señor Hyde guardan entre sí un terrible secreto. El clásico de Stevenson sobre la doble cara del ser humano.",
+        "en": "The respectable Dr Jekyll and the violent Mr Hyde share a terrible secret. Stevenson's classic on the two sides of human nature."
+      }
+    },
+    {
+      "slug": "hokkyokusei-go-no-senchou",
+      "aozoraId": "043471",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "氷原に閉じこめられた捕鯨船。若い医学生の日記が、船長のおかしな行動と、氷上に現れる影を記します。コナン・ドイルの初期の怪奇小説です。",
+        "es": "Un ballenero atrapado en el hielo. El diario de un joven estudiante de medicina registra la conducta extraña del capitán y una sombra que aparece sobre la banquisa. Un relato de misterio de los comienzos de Conan Doyle.",
+        "en": "A whaler trapped in the ice. A young medical student's diary records the captain's odd behaviour and a figure that appears on the ice. An early weird tale by Conan Doyle."
+      }
+    },
+    {
+      "slug": "neko-no-jimusho",
+      "aozoraId": "000464",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "停車場のそばにある「猫の第六事務所」では、猫の歴史と地理を調べています。かまどで寝る「かま猫」が、同僚たちから少しずつ仲間はずれにされていく、宮沢賢治の風刺のきいた童話です。",
+        "es": "En la «sexta oficina de los gatos», junto a una estación, se estudia la historia y la geografía felinas. El «gato del fogón», que duerme junto a la cocina, es apartado poco a poco por sus compañeros. Un cuento con mucha sátira de Miyazawa Kenji.",
+        "en": "In the \"Sixth Office of the Cats\", beside a railway station, cats study feline history and geography. The \"stove cat\", who sleeps by the kitchen range, is gradually shut out by his colleagues. A sharply satirical fairy tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "jigokuhen",
+      "aozoraId": "000060",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "天下一の絵師・良秀は、地獄の絵を描くために、恐ろしいことを望みます。芸術と執念を描く芥川龍之介の傑作です。",
+        "es": "Yoshihide, el mejor pintor del país, exige algo terrible para pintar un biombo del infierno. Una obra maestra de Akutagawa sobre el arte y la obsesión.",
+        "en": "Yoshihide, the finest painter in the land, demands something terrible in order to paint a screen of hell. Akutagawa's masterpiece on art and obsession."
+      }
+    },
+    {
+      "slug": "yashagaike",
+      "aozoraId": "003407",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "日照りに苦しむ村人たちは、山奥の池の龍神に雨を願おうとします。鐘を守る夫婦と、龍神の姫の恋が、ひとつの結末へ向かいます。泉鏡花の戯曲です。",
+        "es": "Los aldeanos, castigados por la sequía, recurren al dragón de una charca de la montaña. La pareja que custodia la campana y el amor de la princesa dragón avanzan hacia un mismo final. Una obra de teatro de Izumi Kyōka.",
+        "en": "Villagers worn down by drought turn to the dragon of a mountain pond. The couple who keep the bell and the dragon princess's love head toward one and the same ending. A play by Izumi Kyōka."
+      }
+    },
+    {
+      "slug": "tenshu-monogatari",
+      "aozoraId": "003065",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "姫路城の天守に住む妖怪の姫と、迷いこんできた若い鷹匠。人と妖怪のあいだに生まれる恋を、泉鏡花が戯曲で描きます。",
+        "es": "En lo alto del torreón del castillo de Himeji vive una princesa espectral, y un joven cetrero se pierde hasta allí. Izumi Kyōka lleva al teatro el amor entre una persona y un ser sobrenatural.",
+        "en": "A spirit princess lives at the top of Himeji Castle, and a young falconer wanders in. Izumi Kyōka's play about love between a human and a supernatural being."
+      }
+    },
+    {
+      "slug": "kusa-meikyu",
+      "aozoraId": "003586",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "亡き母が歌ってくれた手毬唄を探して旅する青年は、あやしい屋敷にたどりつきます。泉鏡花の長編幻想小説です。",
+        "es": "Un joven que busca la canción de pelota que le cantaba su madre difunta llega a una mansión inquietante. La novela larga y fantástica de Izumi Kyōka.",
+        "en": "A young man searching for the ball song his late mother used to sing reaches an eerie mansion. Izumi Kyōka's long fantasy novel."
+      }
+    },
+    {
+      "slug": "kairo-ko",
+      "aozoraId": "000769",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "アーサー王伝説のランスロットと、シャロットの乙女エレーン。夏目漱石が、西洋の騎士物語を独特の文体で書いた作品です。",
+        "es": "Lancelot, de la leyenda del rey Arturo, y Elaine, la dama de Shalott. Natsume Sōseki relata a su manera un cuento de caballeros occidentales.",
+        "en": "Lancelot of the King Arthur legend and Elaine, the Lady of Shalott. Natsume Sōseki retells a Western chivalric tale in his own ornate style."
+      }
+    },
+    {
+      "slug": "yuki-watari",
+      "aozoraId": "045679",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "雪が凍った日、子ども二人が森へ出かけると、キツネの子が「キックキックトントン」と歌って迎えます。宮沢賢治の童話です。",
+        "es": "Un día en que la nieve se ha helado, dos niños van al bosque y un zorrito los recibe cantando. Un cuento de Miyazawa Kenji.",
+        "en": "On a day when the snow has frozen hard, two children go into the forest and a young fox greets them with a song. A fairy tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "suisen-zuki-no-yokka",
+      "aozoraId": "043757",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "吹雪の日の山で、雪童子と雪狼たちは、道に迷った子どもに出会います。宮沢賢治が描く、厳しくて美しい冬の物語です。",
+        "es": "En una montaña azotada por la ventisca, el niño de la nieve y los lobos blancos se topan con un niño perdido. Una historia de invierno, dura y hermosa, de Miyazawa Kenji.",
+        "en": "On a blizzard day in the mountains, the snow child and the snow wolves meet a lost boy. A harsh and beautiful winter story by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "shika-odori-no-hajimari",
+      "aozoraId": "043760",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "山で休んでいた男が、鹿たちの不思議な言葉を聞きます。鹿踊りの由来を語る、宮沢賢治の短い物語です。",
+        "es": "Un hombre que descansa en la montaña oye el extraño lenguaje de los ciervos. Un breve relato de Miyazawa Kenji sobre el origen de la danza de los ciervos.",
+        "en": "A man resting in the mountains hears the strange speech of the deer. A short tale by Miyazawa Kenji about the origin of the deer dance."
+      }
+    },
+    {
+      "slug": "tsuchigami-to-kitsune",
+      "aozoraId": "046607",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "野原の樺の木に、乱暴な土神と、おしゃれなキツネが想いを寄せます。切ない三角関係を宮沢賢治が童話にしました。",
+        "es": "Un dios de la tierra bruto y un zorro presumido se enamoran de un abedul del prado. Miyazawa Kenji convierte en cuento un triángulo amoroso lleno de melancolía.",
+        "en": "A rough earth god and a dapper fox both fall for a birch tree in the meadow. Miyazawa Kenji turns a bittersweet love triangle into a fairy tale."
+      }
+    },
+    {
+      "slug": "hikari-no-suashi",
+      "aozoraId": "000458",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "吹雪の山で遭難した兄弟は、ふしぎな世界で光の素足を持つ人に出会います。死と生を見つめた、宮沢賢治の長めの童話です。",
+        "es": "Dos hermanos perdidos en una montaña nevada llegan a un mundo extraño y encuentran a alguien de pies descalzos luminosos. Un cuento largo de Miyazawa Kenji sobre la vida y la muerte.",
+        "en": "Two brothers lost on a snowy mountain reach a strange world and meet a being with shining bare feet. A longer fairy tale by Miyazawa Kenji about life and death."
+      }
+    },
+    {
+      "slug": "dorian-gray-no-esugata",
+      "aozoraId": "002223",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "美貌の青年ドリアン・グレイは、自分の肖像画だけが年を取るようにと願います。ワイルドの長編を、渡辺温が短くまとめた版です。",
+        "es": "El hermoso Dorian Gray desea que sea su retrato, y no él, quien envejezca. La novela de Wilde, resumida por Watanabe Onn.",
+        "en": "The handsome Dorian Gray wishes that his portrait, and not he, would grow old. Wilde's novel, condensed by Watanabe Onn."
+      }
+    },
+    {
+      "slug": "yume-nikki",
+      "aozoraId": "058275",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "十年にわたって夢を書きとめた、アンナ・キングスフォードの夢日記です。幻想的で不思議な夢の世界を、クリエイティブ・コモンズの訳で読めます。",
+        "es": "El diario de sueños de Anna Kingsford, que anotó durante diez años lo que soñaba. Un mundo onírico y extraño, en una traducción con licencia Creative Commons.",
+        "en": "Anna Kingsford's dream diary, kept over ten years. A strange and fantastic dream world, in a Creative Commons translation."
+      }
+    },
+    {
+      "slug": "oyayubi-hime",
+      "aozoraId": "046318",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "花から生まれた、親指ほどの小さな女の子。ヒキガエルやコガネムシ、モグラにさらわれながら旅をします。アンデルセンの童話です。",
+        "es": "Una niña del tamaño de un pulgar, nacida de una flor, viaja raptada por un sapo, un escarabajo y un topo. Un cuento de Andersen.",
+        "en": "A girl no bigger than a thumb, born from a flower, is carried off by a toad, a beetle and a mole on her journey. A fairy tale by Andersen."
+      }
+    },
+    {
+      "slug": "ryutan-dan",
+      "aozoraId": "057471",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "幼い少年が、ふしぎな女性に導かれて山の中の池へ迷いこみます。泉鏡花が子どもの目で描いた、幻想の物語です。",
+        "es": "Un niño pequeño, guiado por una mujer misteriosa, se pierde hasta una charca en lo hondo de la montaña. Un relato fantástico de Izumi Kyōka visto con ojos de niño.",
+        "en": "A small boy, led by a mysterious woman, wanders to a pond deep in the mountains. A fantasy by Izumi Kyōka seen through a child's eyes."
+      }
+    },
+    {
+      "slug": "zashiki-warashi-no-hanashi",
+      "aozoraId": "002656",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "古い家に住むという座敷童子（ざしきわらし）。子どもたちが遊んでいるうちに、いつのまにか一人増えていて…。宮沢賢治の、ごく短い不思議な話です。",
+        "es": "El zashiki-warashi es el niño fantasma que habita las casas antiguas. Los niños juegan y, sin darse cuenta, aparece uno más… Un relato brevísimo y extraño de Miyazawa Kenji.",
+        "en": "The zashiki-warashi is the child spirit said to live in old houses. As the children play, one more joins them without anyone noticing… A very short, strange tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kikiritsutsuri",
+      "aozoraId": "000923",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "継母にいじめられて泣いてばかりいる露子さんに、ふしぎな出来事が起こります。夢野久作が子どものために書いた、昔話のようなお話です。",
+        "es": "Tsuyuko, maltratada por su madrastra, llora a todas horas hasta que le suceden cosas extraordinarias. Un cuento al estilo de las leyendas antiguas, escrito por Yumeno Kyūsaku para los niños.",
+        "en": "Tsuyuko, mistreated by her stepmother, does nothing but cry until strange things begin to happen to her. A folktale-like story that Yumeno Kyūsaku wrote for children."
+      }
+    },
+    {
+      "slug": "kosui-no-onna",
+      "aozoraId": "001528",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "むかし、山の上のさびしい湖のそばで、ギンという若者が母親と暮らしていました。ある日、湖の水の中から一人の若い女の人が現れます。鈴木三重吉の昔話です。",
+        "es": "Hace mucho tiempo, junto a un lago solitario en lo alto de una montaña, vivía un joven llamado Gin con su madre. Un día, del agua del lago sale una joven. Un cuento tradicional de Suzuki Miekichi.",
+        "en": "Long ago, beside a lonely lake on a mountain, a young man called Gin lived with his mother. One day a young woman appears out of the lake. A folktale by Suzuki Miekichi."
+      }
+    },
+    {
+      "slug": "hadaka-no-osama",
+      "aozoraId": "046319",
+      "genres": [
+        "children",
+        "humor",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "新しい服が大好きな王さまのところに、二人の仕立屋がやって来て、「ばかには見えない布」で服を作ると言います。アンデルセンの有名な童話を、やさしい日本語で読めます。",
+        "es": "A un rey al que le encanta estrenar ropa llegan dos sastres que dicen coser con una tela «invisible para los tontos». El famoso cuento de Andersen, en un japonés claro y sencillo.",
+        "en": "Two tailors come to a king who loves new clothes and promise to make an outfit from cloth \"that fools cannot see\". Andersen's famous tale, in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "aschenputtel",
+      "aozoraId": "046344",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "継母と姉たちにいじめられ、灰のなかで暮らす娘。「灰かぶり」の名で知られる、グリム童話のシンデレラを、やさしい日本語で読めます。",
+        "es": "Una muchacha maltratada por su madrastra y sus hermanastras vive entre las cenizas. La versión de los hermanos Grimm de la Cenicienta, en un japonés claro y sencillo.",
+        "en": "A girl mistreated by her stepmother and stepsisters lives among the ashes. The Brothers Grimm version of Cinderella, in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "kyonen-no-ki",
+      "aozoraId": "004719",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "一羽の小鳥は、毎日歌を聞かせてくれた木と別れて、遠くへ旅立ちます。春になって戻ってきた小鳥が見たものは。新美南吉の、ごく短い名作です。",
+        "es": "Un pajarillo se despide del árbol que lo escuchaba cantar cada día y emprende un largo viaje. ¿Qué encontrará al volver en primavera? Un breve clásico de Niimi Nankichi.",
+        "en": "A little bird says goodbye to the tree that listened to its songs every day and flies far away. What will it find when it returns in spring? A very short classic by Niimi Nankichi."
+      }
+    },
+    {
+      "slug": "bani-bani-kyodai-no-hanashi",
+      "aozoraId": "051347",
+      "genres": [
+        "children"
+      ],
+      "description": {
+        "ja": "レタスを食べすぎて眠ってしまった子うさぎたちを、マグレガーさんが見つけます。ビアトリクス・ポターの絵本を、やさしい日本語で読めます。",
+        "es": "Los conejitos se duermen tras comer demasiada lechuga y el señor McGregor los encuentra. Un cuento ilustrado de Beatrix Potter en un japonés claro y sencillo.",
+        "en": "The little rabbits fall asleep after eating too much lettuce and Mr McGregor finds them. A Beatrix Potter picture-book tale in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "dokumomi-no-sukina-shochosan",
+      "aozoraId": "000454",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "プハラの国の署長さんは、禁じられた毒もみ漁が大好きでした。宮沢賢治が、ユーモアと皮肉をまぜて描いた、どこか怖い童話です。",
+        "es": "El jefe de policía del país de Puhara adora la pesca con veneno, que está prohibida. Un cuento de Miyazawa Kenji con humor, ironía y un punto inquietante.",
+        "en": "The police chief of the land of Puhara loves poison fishing, which is forbidden. A fairy tale by Miyazawa Kenji that mixes humour and irony, with something unsettling about it."
+      }
+    },
+    {
+      "slug": "wakagaeri-gusuri",
+      "aozoraId": "000941",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "空気銃をもらった太郎さんは、毎日雀を撃ちに行きますが、一羽も当たりません。夢野久作が書いた、不思議なお話です。",
+        "es": "Taro recibe una escopeta de aire comprimido y sale cada día a cazar gorriones, pero no acierta ninguno. Un cuento extraño de Yumeno Kyūsaku.",
+        "en": "Taro is given an air rifle and goes out each day to shoot sparrows, but never hits one. A strange tale by Yumeno Kyūsaku."
+      }
+    },
+    {
+      "slug": "o-otoko-no-hanashi",
+      "aozoraId": "003313",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "恐ろしい魔女のお母さんと、森の中で暮らす巨人の子。月の夜に起きた出来事を、新美南吉が昔話のように語ります。",
+        "es": "Un gigante vive en el bosque con su madre, una bruja temible. Niimi Nankichi cuenta, como un cuento antiguo, lo que ocurrió una noche de luna.",
+        "en": "A giant lives in a forest with his mother, a fearsome witch. Niimi Nankichi tells, like an old folktale, what happened on one moonlit night."
+      }
+    },
+    {
+      "slug": "matsuri-no-ban",
+      "aozoraId": "001938",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "山の神さまの秋祭りの晩、亮二は見世物小屋「空気獣」を見に出かけます。宮沢賢治が描く、祭りと山の神の不思議な一夜です。",
+        "es": "En la noche de la fiesta de otoño del dios de la montaña, Ryōji va a ver la atracción llamada «la bestia de aire». Una noche extraña de fiesta y de dios de la montaña, por Miyazawa Kenji.",
+        "en": "On the night of the mountain god's autumn festival, Ryōji goes to see a sideshow called the \"air beast\". A strange festival night, with the mountain god, by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kino-ii-kazandan",
+      "aozoraId": "046606",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "死火山のふもとに、「ベゴ」とあだ名された大きな黒い石が座っていました。ほかの石たちにからかわれても、ベゴは気のいい石です。宮沢賢治の、やさしい童話です。",
+        "es": "Al pie de un volcán apagado hay una gran piedra negra apodada «Bego». Aunque las otras piedras se burlen, Bego es de buen carácter. Un cuento tierno de Miyazawa Kenji.",
+        "en": "At the foot of an extinct volcano sits a big black stone nicknamed \"Bego\". The other stones tease him, but Bego is good-natured. A gentle fairy tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "tse-nezumi",
+      "aozoraId": "001949",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "ある古い家の天井裏に住むネズミのツェは、イタチから金米糖の話を聞いて、思わぬことになります。宮沢賢治が書いた、動物たちの小さな物語です。",
+        "es": "Tse, un ratón que vive en el desván de una casa vieja, oye hablar de unos caramelos a una comadreja y acaba metido en un buen lío. Un pequeño cuento de animales de Miyazawa Kenji.",
+        "en": "Tse, a mouse living in the attic of an old house, hears about some sweets from a weasel and ends up in serious trouble. A small animal tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "ookami-mori-to-zaru-mori-nusuto-mori",
+      "aozoraId": "043753",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "野原に移り住んだ開拓の人びとが、森に呼びかけると、森が答えます。子どもたちがいなくなって…。宮沢賢治が描く、森の精と人間の昔ばなしです。",
+        "es": "Unos colonos que se instalan en el campo llaman a los bosques, y los bosques responden. Hasta que los niños desaparecen… Una leyenda de Miyazawa Kenji sobre los espíritus del bosque y las personas.",
+        "en": "Settlers who move onto the plain call out to the forests, and the forests answer. Then the children go missing… A legend by Miyazawa Kenji about forest spirits and people."
+      }
+    },
+    {
+      "slug": "mittsu-no-takara",
+      "aozoraId": "001126",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "森の中、三人の盗人が宝を争っています。千里を飛ぶ長靴、姿を隠すマント、鉄も切れる剣。芥川龍之介が、昔話のような戯曲にしました。",
+        "es": "En un bosque, tres ladrones se disputan unos tesoros: unas botas que recorren mil leguas de un salto, una capa que vuelve invisible y una espada que corta el hierro. Akutagawa lo convierte en una obra de teatro con aire de leyenda.",
+        "en": "In a forest three thieves quarrel over treasures: boots that cover a thousand leagues in one leap, a cloak that hides the wearer and a sword that cuts iron. Akutagawa turns it into a folktale-like play."
+      }
+    },
+    {
+      "slug": "namekoyama-no-kuma",
+      "aozoraId": "001939",
+      "genres": [
+        "drama",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "山の中で暮らす猟師の小十郎と、熊たち。生きるために命をいただくことを、宮沢賢治が静かに見つめた物語です。",
+        "es": "El cazador Kojūrō vive en la montaña, entre osos. Miyazawa Kenji mira con calma lo que significa quitar una vida para vivir.",
+        "en": "The hunter Kojūrō lives in the mountains among bears. Miyazawa Kenji looks calmly at what it means to take a life in order to live."
+      }
+    },
+    {
+      "slug": "kashiwabayashi-no-yoru",
+      "aozoraId": "043759",
+      "genres": [
+        "fantasy",
+        "children",
+        "humor"
+      ],
+      "description": {
+        "ja": "柏の木大王に招かれた清作は、夜の柏林で、木々や月と一緒に歌を歌い、踊ります。宮沢賢治の、愉快で不思議な一夜の物語です。",
+        "es": "Invitado por el rey de los robles, Seisaku canta y baila de noche en el robledal con los árboles y la luna. Una noche alegre y extraña de Miyazawa Kenji.",
+        "en": "Invited by the king of the oaks, Seisaku sings and dances at night in the oak grove with the trees and the moon. A merry, strange night by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kiiro-no-tomato",
+      "aozoraId": "001919",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "博物館のガラス戸棚に、四羽の蜂雀の剥製があります。語り手は、そのうちの一羽を見て、子どものころの不思議な思い出を語ります。宮沢賢治の短い物語です。",
+        "es": "En una vitrina del museo hay cuatro colibríes disecados. Al mirar uno de ellos, el narrador evoca un extraño recuerdo de su infancia. Un relato breve de Miyazawa Kenji.",
+        "en": "In a glass case at the museum stand four stuffed hummingbirds. Looking at one of them, the narrator recalls a strange memory from childhood. A short tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "gan-no-doji",
+      "aozoraId": "000461",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "砂漠の泉で、語り手は一人の巡礼のおじいさんと出会います。おじいさんが語る、雁の童子の不思議な話。宮沢賢治が描く、仏教の世界をうつした物語です。",
+        "es": "En una fuente del desierto, el narrador se encuentra con un anciano peregrino, que le cuenta la extraña historia del niño de los gansos. Un relato de Miyazawa Kenji que refleja el mundo budista.",
+        "en": "At a desert spring, the narrator meets an elderly pilgrim, who tells him the strange story of the wild-goose boy. A tale by Miyazawa Kenji that reflects the Buddhist world."
+      }
+    },
+    {
+      "slug": "cinderella",
+      "aozoraId": "046348",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "ガラスのくつのものがたり。ラングの「妖精の本」に収められた、シンデレラのお話を、やさしい日本語で読めます。",
+        "es": "La historia del zapato de cristal. El cuento de la Cenicienta de uno de los libros de hadas de Andrew Lang, en un japonés claro y sencillo.",
+        "en": "The story of the glass slipper. Cinderella as told in one of Andrew Lang's fairy books, in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "ushi-o-tsunaida-tsubaki-no-ki",
+      "aozoraId": "000638",
+      "genres": [
+        "drama",
+        "children"
+      ],
+      "description": {
+        "ja": "山の中の道ばたの椿の木に、牛曳きの利助さんは牛をつなぎます。人力曳きの海蔵さんとの出会いから始まる、新美南吉のあたたかい物語です。",
+        "es": "Risuke, un boyero, ata su buey a un joven camelio junto al camino de la montaña. Un relato cálido de Niimi Nankichi que empieza con su encuentro con Kaizō, un tirador de rickshaw.",
+        "en": "Risuke, an ox driver, ties his ox to a young camellia tree beside a mountain road. A warm story by Niimi Nankichi that begins with his meeting with Kaizō, a rickshaw puller."
+      }
+    },
+    {
+      "slug": "tsubame-to-oji",
+      "aozoraId": "004994",
+      "genres": [
+        "children",
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "街の高い塔の上に立つ、金色の王子の像。その肩に、一羽のツバメが止まります。ワイルドの「幸福な王子」を、有島武郎が日本語で語りなおしました。",
+        "es": "Sobre una columna alta de la ciudad se alza la estatua dorada de un príncipe, y una golondrina se posa en su hombro. Arishima Takeo vuelve a contar en japonés «El príncipe feliz» de Wilde.",
+        "en": "On a tall column in the city stands the golden statue of a prince, and a swallow lands on its shoulder. Arishima Takeo retells Wilde's \"The Happy Prince\" in Japanese."
+      }
+    },
+    {
+      "slug": "cairo-danchou",
+      "aozoraId": "001918",
+      "genres": [
+        "fantasy",
+        "humor",
+        "children"
+      ],
+      "description": {
+        "ja": "三十匹のあまがえるを、うまいことを言ってこき使う、とのさまがえるの「カイロ団長」。宮沢賢治が描く、ずるさと因果応報の物語です。",
+        "es": "El «capitán Cairo», una rana toro, engaña con buenas palabras a treinta ranitas para explotarlas. Una historia de Miyazawa Kenji sobre la astucia y la justicia poética.",
+        "en": "\"Captain Cairo\", a bullfrog, smooth-talks thirty tree frogs into working for him. A story by Miyazawa Kenji about cunning and poetic justice."
+      }
+    },
+    {
+      "slug": "futago-no-hoshi",
+      "aozoraId": "000459",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "空の小さな二つのお宮に住む、星のふたご、チュンセ童子とポウセ童子。宮沢賢治が書いた、星空の美しい童話です。",
+        "es": "En dos pequeños templos del cielo viven las estrellas gemelas Chunse y Powse. Un hermoso cuento de cielo estrellado de Miyazawa Kenji.",
+        "en": "In two little shrines in the sky live the twin stars, Chunse and Powse. A lovely starry-sky fairy tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "bukubuku-nagaga-hi-no-me-kozo",
+      "aozoraId": "000549",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "鼠が靴をはいて歩き、猫を食べていた大昔のお話。鈴木三重吉が、昔話のようなやさしい語り口で書いた童話です。",
+        "es": "Una historia de tiempos remotos, en que los ratones andaban calzados y se comían a los gatos. Un cuento de Suzuki Miekichi con voz de leyenda antigua.",
+        "en": "A tale of ages long ago, when mice walked about in shoes and ate cats. A fairy tale by Suzuki Miekichi in the gentle voice of an old legend."
+      }
+    },
+    {
+      "slug": "lulu-to-mimi",
+      "aozoraId": "000925",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "むかし、水晶のように透きとおった水をたたえた湖のほとりに、親切な人びとの村がありました。ところが、湖の水が黒くにごりはじめて…。夢野久作の童話です。",
+        "es": "Hace mucho había una aldea de gente amable a orillas de un lago de agua tan clara como el cristal. Pero un día el agua del lago empieza a enturbiarse… Un cuento de Yumeno Kyūsaku.",
+        "en": "Long ago there was a village of kind people by a lake whose water was as clear as crystal. But then the lake began to turn dark… A fairy tale by Yumeno Kyūsaku."
+      }
+    },
+    {
+      "slug": "ojiisan-no-lamp",
+      "aozoraId": "000635",
+      "genres": [
+        "historical",
+        "drama"
+      ],
+      "description": {
+        "ja": "かくれんぼで倉から古いランプを見つけた東一君に、おじいさんが、若いころのランプ屋の話をします。電灯が来て時代が変わるころを描く、新美南吉の名作です。",
+        "es": "Jugando al escondite, Tōichi encuentra una lámpara antigua en el almacén, y su abuelo le cuenta su juventud como vendedor de lámparas. Un clásico de Niimi Nankichi sobre el cambio de época que trajo la luz eléctrica.",
+        "en": "Playing hide-and-seek, Tōichi finds an old lamp in the storehouse, and his grandfather tells him about his youth as a lamp seller. A classic by Niimi Nankichi about the change of era that electric light brought."
+      }
+    },
+    {
+      "slug": "wataro-san-to-ushi",
+      "aozoraId": "001754",
+      "genres": [
+        "humor",
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "よぼよぼの年とった牛を大切にする和太郎さんは、みんなに笑われても気にしません。新美南吉が、笑いと少しの涙で描いた物語です。",
+        "es": "Wataro cuida con cariño a su buey, flaco y viejo, aunque todos se rían de él. Niimi Nankichi lo cuenta con humor y una pizca de lágrimas.",
+        "en": "Wataro treasures his thin, old ox, however much people laugh at him. Niimi Nankichi tells it with humour and a touch of tears."
+      }
+    },
+    {
+      "slug": "kai-no-hi",
+      "aozoraId": "001942",
+      "genres": [
+        "fantasy",
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "子うさぎのホモイは、助けた小鳥のお礼に、美しい「貝の火」をもらいます。宝石をもらってから、ホモイはどう変わるのでしょうか。宮沢賢治の童話です。",
+        "es": "El conejito Homoi recibe como agradecimiento por salvar a un pajarillo una hermosa joya, el «fuego de la concha». ¿Cómo cambia Homoi después? Un cuento de Miyazawa Kenji.",
+        "en": "The young rabbit Homoi is given a beautiful jewel, the \"fire of the shell\", as thanks for saving a little bird. How does Homoi change afterwards? A fairy tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "ano-toki-no-oji-kun",
+      "aozoraId": "046817",
+      "genres": [
+        "fantasy",
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "砂漠に不時着した飛行士が出会ったのは、小さな星から来た男の子でした。「星の王子さま」を、大久保ゆうのやさしい訳で、クリエイティブ・コモンズのもとで読めます。",
+        "es": "Un aviador aterriza de emergencia en el desierto y se encuentra con un niño llegado de un asteroide diminuto. «El principito», en la traducción sencilla de Ōkubo Yū, con licencia Creative Commons.",
+        "en": "A pilot makes a forced landing in the desert and meets a boy from a tiny planet. \"The Little Prince\", in Ōkubo Yū's easy translation, under a Creative Commons licence."
+      }
+    },
+    {
+      "slug": "matchi-uri-no-shojo",
+      "aozoraId": "000194",
+      "genres": [
+        "children",
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "大みそかの寒い夜、マッチを売る少女が、一本ずつ火をともします。アンデルセンの有名な童話を、やさしい日本語で読めます。",
+        "es": "En la fría noche de fin de año, una niña que vende cerillas va encendiendo una a una. El famoso cuento de Andersen, en un japonés claro y sencillo.",
+        "en": "On a cold New Year's Eve a girl who sells matches strikes them one by one. Andersen's famous tale, in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "tsukiyo-no-denshinbashira",
+      "aozoraId": "043756",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "月の夜、線路ばたの電信柱たちが、軍隊のように歩きだします。それを見てしまった少年は…。宮沢賢治の、ふしぎでユーモラスな一夜です。",
+        "es": "En una noche de luna, los postes del telégrafo junto a la vía echan a andar como un ejército. Un niño los ve… Una noche extraña y divertida de Miyazawa Kenji.",
+        "en": "On a moonlit night the telegraph poles beside the railway start marching like an army. A boy sees them… A strange and funny night by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kobito-no-kutsuya-san",
+      "aozoraId": "059404",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "貧しい靴屋さんが、夜のうちに仕上がっている靴を見つけます。作ったのはだれなのでしょう。グリム童話の短い一編を、やさしい日本語で読めます。",
+        "es": "Un pobre zapatero encuentra por la mañana los zapatos terminados durante la noche. ¿Quién los ha hecho? Un cuento breve de los hermanos Grimm, en un japonés claro y sencillo.",
+        "en": "A poor shoemaker finds shoes finished overnight. Who made them? A short Brothers Grimm tale, in clear, simple Japanese."
+      }
+    },
+    {
+      "slug": "kitsune",
+      "aozoraId": "000632",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "月夜の道を歩く七人の子どもたち。自分たちの短い影を見て笑い合います。狐をめぐる、新美南吉の短い物語です。",
+        "es": "Siete niños caminan bajo la luna y se ríen al ver sus sombras cortas. Un breve relato de Niimi Nankichi en torno a un zorro.",
+        "en": "Seven children walk under the moon and laugh at their short shadows. A brief tale by Niimi Nankichi about a fox."
+      }
+    },
+    {
+      "slug": "kyusuke-kun-no-hanashi",
+      "aozoraId": "000634",
+      "genres": [
+        "drama",
+        "children"
+      ],
+      "description": {
+        "ja": "学校でごほうびをもらった久助君は、毎日一時間の勉強をするよう、お父さんに決められてしまいます。子どもの心の動きを、新美南吉が静かに描きます。",
+        "es": "Kyūsuke recibe un premio en la escuela y su padre le impone una hora de estudio diaria. Niimi Nankichi retrata con calma los sentimientos de un niño.",
+        "en": "Kyūsuke wins a prize at school and his father makes a rule of an hour's study every day. Niimi Nankichi quietly portrays a child's feelings."
+      }
+    },
+    {
+      "slug": "kaeru-no-gomu-gutsu",
+      "aozoraId": "046600",
+      "genres": [
+        "fantasy",
+        "humor",
+        "children"
+      ],
+      "description": {
+        "ja": "林の下を流れる堰のほとりに住む、カン蛙、ブン蛙、ベン蛙。三匹は年も大きさも同じで、どれも生意気でいたずら好きです。宮沢賢治の、にぎやかな蛙の物語です。",
+        "es": "Junto a una acequia que corre bajo el bosque viven las ranas Kan, Bun y Ben, de la misma edad y tamaño, todas descaradas y traviesas. Un animado cuento de ranas de Miyazawa Kenji.",
+        "en": "Beside a weir running under the woods live the frogs Kan, Bun and Ben, the same age and size and all of them cheeky and mischievous. A lively frog tale by Miyazawa Kenji."
+      }
+    },
+    {
+      "slug": "kashiya",
+      "aozoraId": "042306",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "「ロンドンのまんなかに、化け物屋敷を見つけたぜ」。友人の話を確かめようと、語り手は一晩その家で過ごします。ブルワー＝リットンの怪談を岡本綺堂が訳しました。",
+        "es": "«He descubierto una casa encantada en pleno Londres.» Para comprobar lo que cuenta su amigo, el narrador pasa una noche allí. Un relato de fantasmas de Bulwer-Lytton traducido por Okamoto Kidō.",
+        "en": "\"I've found a haunted house in the middle of London.\" To check his friend's tale, the narrator spends a night there. A ghost story by Bulwer-Lytton, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "spade-no-joo",
+      "aozoraId": "042305",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "賭けごとの夜、老伯爵夫人が三枚の必勝のカードを知っているという話が出ます。青年ゲルマンは、その秘密を聞き出そうとします。プーシキンの代表作を岡本綺堂が訳しました。",
+        "es": "En una noche de juego se habla de una anciana condesa que conoce tres cartas ganadoras. El joven Hermann quiere arrancarle el secreto. La obra más famosa de Pushkin, traducida por Okamoto Kidō.",
+        "en": "On a night of card-playing someone mentions an old countess who knows three winning cards. The young Hermann sets out to learn her secret. Pushkin's best-known tale, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "clarimonde",
+      "aozoraId": "042303",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "六十六歳になった神父が、若いころのただ一度の恋を語ります。それは奇妙で、恐ろしい話でした。ゴーチエの幻想怪談を岡本綺堂が訳しました。",
+        "es": "Un sacerdote de sesenta y seis años cuenta el único amor de su juventud, una historia extraña y terrible. Un relato fantástico de Gautier traducido por Okamoto Kidō.",
+        "en": "A sixty-six-year-old priest tells of the one love of his youth, a strange and terrible story. A fantastic tale by Gautier, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "shingoshu",
+      "aozoraId": "042302",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "切り通しの線路の番小屋にいる信号手に、語り手は崖の上から声をかけます。信号手は、ある幽霊に悩まされているのです。ディケンズの有名な怪談を岡本綺堂が訳しました。",
+        "es": "Desde lo alto de un desmonte, el narrador llama al guardavía de una caseta junto a la vía. El hombre está obsesionado por un espectro. El famoso relato de fantasmas de Dickens, traducido por Okamoto Kidō.",
+        "en": "From the top of a railway cutting the narrator calls down to the signalman in his hut. The man is troubled by a ghost. Dickens's famous ghost story, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "veal-fujin-no-borei",
+      "aozoraId": "042304",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "昔からの友だちだったヴィール夫人の亡霊が、カンタベリーのバーグレーヴ夫人を訪ねてきます。デフォーが「実話」として書いた幽霊譚を、岡本綺堂が訳しました。",
+        "es": "El fantasma de la señora Veal, vieja amiga, visita a la señora Bargrave en Canterbury. Una historia de aparecidos que Defoe presentó como un hecho real, traducida por Okamoto Kidō.",
+        "en": "The ghost of Mrs Veal, an old friend, visits Mrs Bargrave in Canterbury. A ghost story that Defoe presented as true, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "rappaccini-no-musume",
+      "aozoraId": "004105",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "パドゥアの大学に学ぶ青年ジョヴァンニは、下宿の窓から、毒草ばかりを育てる庭と、その庭に住む美しい娘を見かけます。ホーソーンの短編を岡本綺堂が訳しました。",
+        "es": "Giovanni, estudiante en Padua, ve desde la ventana de su cuarto un jardín de plantas venenosas y a la bella joven que vive en él. Un cuento de Hawthorne traducido por Okamoto Kidō.",
+        "en": "Giovanni, a student at Padua, sees from his lodging window a garden of poisonous plants and the beautiful girl who lives in it. A tale by Hawthorne, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "maboroshi-no-jinrikisha",
+      "aozoraId": "043469",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "インドの避暑地で、ある男は、亡くなったはずの女の人力車に追いかけられます。キプリングの怪談を岡本綺堂が訳しました。",
+        "es": "En un lugar de veraneo de la India, un hombre es perseguido por el rickshaw de una mujer que ya ha muerto. Un relato de fantasmas de Kipling traducido por Okamoto Kidō.",
+        "en": "In an Indian hill station a man is pursued by the rickshaw of a woman who is already dead. A ghost story by Kipling, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "uwadoko",
+      "aozoraId": "043472",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "夜ふけ、みなが眠気をもよおしたころ、一人が船の客室にまつわる恐ろしい体験を語りはじめます。クロフォードの怪談を岡本綺堂が訳しました。",
+        "es": "Entrada la noche, cuando todos empiezan a tener sueño, uno de los presentes se pone a contar una terrible experiencia en un camarote de barco. Un relato de Crawford traducido por Okamoto Kidō.",
+        "en": "Late at night, when everyone is growing drowsy, one of the company begins to tell of a terrible experience in a ship's cabin. A tale by Crawford, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "botan-toki",
+      "aozoraId": "004999",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "元の末、正月十五日の灯籠祭りの夜。喬生は、牡丹の灯籠をさげた美しい娘と出会います。中国の怪談集『剪灯新話』の一編を岡本綺堂が訳しました。",
+        "es": "A finales de la dinastía Yuan, en la noche del festival de los farolillos, Qiao Sheng conoce a una joven bellísima con un farol de peonías. Un relato de una colección china de historias extrañas, traducido por Okamoto Kidō.",
+        "en": "In the late Yuan dynasty, on the night of the lantern festival, Qiao Sheng meets a beautiful girl carrying a peony lantern. A tale from a Chinese collection of strange stories, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "lazarus",
+      "aozoraId": "004407",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "三日三晩の死のあと、墓から出て家に戻ったラザロ。彼がよみがえったことは、人びとにとって恐ろしい名前になっていきます。アンドレーエフの作品を岡本綺堂が訳しました。",
+        "es": "Tras tres días y tres noches de muerte, Lázaro sale de la tumba y vuelve a su casa. Que haya resucitado convierte su nombre en algo aterrador. Una obra de Andréyev traducida por Okamoto Kidō.",
+        "en": "After three days and nights of death, Lazarus climbs out of the tomb and goes home. Having come back to life makes his name something people fear. A work by Andreyev, translated by Okamoto Kidō."
+      }
+    },
+    {
+      "slug": "oitekebori",
+      "aozoraId": "004949",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "本所七不思議の一つ、「おいてけ堀」。釣りの帰りに、どこからか「おいてけ、おいてけ」という声が聞こえます。田中貢太郎が語る、江戸の怪談です。",
+        "es": "Una de las siete maravillas de Honjo: la charca «Oitekebori». Al volver de pescar se oye una voz que dice «¡déjalo, déjalo!». Una historia de fantasmas de Edo contada por Tanaka Kōtarō.",
+        "en": "One of the Seven Wonders of Honjo: the \"Oitekebori\" pond. Coming home from fishing, a voice is heard saying \"Leave it, leave it!\" An Edo ghost story told by Tanaka Kōtarō."
+      }
+    },
+    {
+      "slug": "enchou-no-botan-doro",
+      "aozoraId": "004950",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "萩原新三郎は、旗本の娘お露と出会って恋に落ちます。落語家・三遊亭円朝の名作「牡丹灯籠」を、田中貢太郎が小説にしました。",
+        "es": "Hagiwara Shinzaburō se enamora de Otsuyu, hija de un hatamoto. Tanaka Kōtarō pone en forma de relato el clásico del rakugo «El farol de peonías», de Sanyūtei Enchō.",
+        "en": "Hagiwara Shinzaburō falls in love with Otsuyu, the daughter of a samurai retainer. Tanaka Kōtarō turns Sanyūtei Enchō's rakugo classic \"The Peony Lantern\" into prose."
+      }
+    },
+    {
+      "slug": "ayashiki-tabisou",
+      "aozoraId": "042321",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "風の寒い夜、旅の僧が一軒の農家に宿を乞います。けれども、主人は冷たい男でした。田中貢太郎が書いた、短い怪談です。",
+        "es": "En una noche de viento frío, un monje viajero pide alojamiento en una casa de campo, pero el dueño es un hombre duro. Una breve historia de fantasmas de Tanaka Kōtarō.",
+        "en": "On a cold, windy night a travelling monk asks for lodging at a farmhouse, but the master is a hard man. A short ghost story by Tanaka Kōtarō."
+      }
+    },
+    {
+      "slug": "shitai-rosoku",
+      "aozoraId": "001456",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "暴風雨の夜、寺の中は息が詰まりそうな蒸し暑さでした。「死体蝋燭」と呼ばれるものをめぐる、小酒井不木の怪奇小説です。",
+        "es": "En una noche de tormenta, dentro del templo el aire es sofocante. Un relato de terror de Kosakai Fuboku en torno a las llamadas «velas de cadáver».",
+        "en": "On a stormy night the air inside the temple is stifling. A horror story by Kosakai Fuboku about what are called \"corpse candles\"."
+      }
+    },
+    {
+      "slug": "shujutsu",
+      "aozoraId": "002245",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "暑い晩、「探偵趣味の会」に九人が集まり、犯罪や幽霊の話に花を咲かせます。小酒井不木が書いた、不気味な語りの短編です。",
+        "es": "En una noche calurosa nueve personas se reúnen en el «Club de afición al misterio» y charlan de crímenes y fantasmas. Un cuento inquietante de Kosakai Fuboku.",
+        "en": "On a hot night nine people gather at the \"Detective Fancy Club\" and swap stories of crimes and ghosts. An eerie told-aloud tale by Kosakai Fuboku."
+      }
+    },
+    {
+      "slug": "shigo-no-koi",
+      "aozoraId": "002380",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "ウラジオストクの町で評判の、風来坊の紳士。そのひとが、一人の客に語りだす恋の話は…。夢野久作の、語り口が不気味な怪奇小説です。",
+        "es": "Un caballero errante, famoso en la ciudad de Vladivostok, le cuenta a un desconocido una historia de amor… Un relato de terror de Yumeno Kyūsaku con una voz narradora inquietante.",
+        "en": "A wandering gentleman, the talk of Vladivostok, tells a stranger a story of love… A horror tale by Yumeno Kyūsaku with an unsettling narrator."
+      }
+    },
+    {
+      "slug": "akuma-kitosho",
+      "aozoraId": "002382",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "夕立の日に雨宿りをする客へ、店の主人が話しかけます。やがて「悪魔祈祷書」という不気味な本が話に登場します。夢野久作の、語りの怖さが光る短編です。",
+        "es": "Un día de chubasco, el dueño de una tienda conversa con un cliente que se refugia de la lluvia, hasta que aparece en la charla un libro siniestro, el «Libro de oraciones del diablo». Un cuento de Yumeno Kyūsaku donde da miedo sobre todo la voz que narra.",
+        "en": "On a day of sudden showers, a shopkeeper talks to a customer sheltering from the rain, until a sinister book, the \"Devil's Prayer Book\", enters the conversation. A story by Yumeno Kyūsaku whose chill lies in the voice that tells it."
+      }
+    },
+    {
+      "slug": "yoba",
+      "aozoraId": "000184",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "電車や自動車の走る大正の東京で、本当にあった怪異だと語られる「妖婆」の話。芥川龍之介が、現代の都会に魔女を登場させた短編です。",
+        "es": "La historia de una «bruja» que, según el narrador, ocurrió de verdad en el Tokio de la era Taishō, con tranvías y automóviles. Un cuento de Akutagawa que lleva a una hechicera a la ciudad moderna.",
+        "en": "The story of a \"witch\" that, the narrator insists, truly happened in Taishō-era Tokyo, with its trams and cars. A tale by Akutagawa that brings a sorceress into the modern city."
+      }
+    },
+    {
+      "slug": "hayasugiru-maiso",
+      "aozoraId": "002526",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "生きたまま葬られる。ありえないようで、実際に起こった恐ろしい事例を、ポーが語ります。人間の恐怖を突きつめた短編です。",
+        "es": "Ser enterrado vivo: algo que parece imposible, pero de lo que hubo casos reales. Poe lo relata en un cuento que lleva el miedo humano hasta el extremo.",
+        "en": "Being buried alive: it seems impossible, yet it has really happened. Poe tells of it in a tale that pushes human fear to its limit."
+      }
+    },
+    {
+      "slug": "london-to",
+      "aozoraId": "001076",
+      "genres": [
+        "horror",
+        "historical"
+      ],
+      "description": {
+        "ja": "留学中に一度だけ訪れたロンドン塔。見物する語り手の目には、昔ここで処刑された人たちの姿が浮かんできます。夏目漱石の幻想的な短編です。",
+        "es": "Durante sus estudios en Londres, el narrador visita una sola vez la Torre de Londres, y mientras la recorre se le aparecen quienes fueron ejecutados allí. Un cuento fantástico de Natsume Sōseki.",
+        "en": "Studying in London, the narrator visits the Tower just once, and as he walks round it he sees the people once executed there. A fantastic short work by Natsume Sōseki."
+      }
     }
   ]
 }

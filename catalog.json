@@ -3173,6 +3173,4972 @@
         "proofreading": "雪森"
       },
       "updated": "2019-01-17"
+    },
+    {
+      "id": "aozora-000530",
+      "slug": "kuroneko",
+      "title": "黒猫",
+      "titleReading": "くろねこ",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "酒に溺れた男は、かわいがっていた黒猫を手にかけてしまいます。やがて、もう一匹の黒猫が現れて…。ポーの短編のなかでも特に有名な恐怖小説です。",
+        "es": "Un hombre hundido en el alcohol mata al gato negro que tanto quería, y poco después aparece otro gato negro… Uno de los relatos de terror más famosos de Poe.",
+        "en": "A man sinking into drink kills the black cat he loved, and soon another black cat appears… One of Poe's most famous horror stories."
+      },
+      "file": "books/kuroneko.epub",
+      "cover": "covers/kuroneko.png",
+      "bytes": 31827,
+      "sha256": "bcf3826d5ced6207ced81cf6b3be462e6296571d59b94666ad4b472371d34560",
+      "characters": 9946,
+      "pages": 17,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.295,
+          "N4": 0.458,
+          "N3": 0.681,
+          "N2": 0.723,
+          "N1": 0.912
+        },
+        "words": 2160
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card530.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "黒猫・黄金虫 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日、1995（平成7）年10月15日89刷改版",
+        "input": "大野晋",
+        "proofreading": "宮崎直彦"
+      },
+      "updated": "2014-02-24"
+    },
+    {
+      "id": "aozora-000882",
+      "slug": "usher-ke-no-horai",
+      "title": "アッシャー家の崩壊",
+      "titleReading": "アッシャーけのほうかい",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "古い友人に呼ばれて、語り手は陰気な館を訪ねます。病んだ兄と妹、そして館そのものが、少しずつ崩れていきます。ポーの代表作の一つです。",
+        "es": "Llamado por un viejo amigo, el narrador visita una mansión sombría donde viven un hermano y una hermana enfermos, y todo, la casa incluida, se va desmoronando. Una de las obras maestras de Poe.",
+        "en": "Summoned by an old friend, the narrator visits a gloomy mansion where a sick brother and sister live, and everything, the house included, slowly collapses. One of Poe's masterpieces."
+      },
+      "file": "books/usher-ke-no-horai.epub",
+      "cover": "covers/usher-ke-no-horai.png",
+      "bytes": 54480,
+      "sha256": "33aa92fff34d2a078046dad1a0dfad64b155263b5bf1f1142c0c24bc2ca24fea",
+      "characters": 19728,
+      "pages": 33,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.249,
+          "N4": 0.382,
+          "N3": 0.627,
+          "N2": 0.677,
+          "N1": 0.906
+        },
+        "words": 4173
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card882.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "黒猫・黄金虫 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日、1995（平成7）年10月15日89刷改版",
+        "input": "大野晋",
+        "proofreading": "福地博文"
+      },
+      "updated": "2014-02-24"
+    },
+    {
+      "id": "aozora-002523",
+      "slug": "william-wilson",
+      "title": "ウィリアム・ウィルスン",
+      "titleReading": "ウィリアム・ウィルスン",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "同じ名前、同じ顔の少年が、学校でも、その先でも主人公につきまといます。自分の良心とも言える「もう一人の自分」を描いた、ポーの不気味な物語です。",
+        "es": "Un muchacho con el mismo nombre y el mismo rostro lo sigue en la escuela y más allá. Un inquietante relato de Poe sobre el «otro yo» que parece ser la propia conciencia.",
+        "en": "A boy with the same name and face follows the hero at school and beyond. An unsettling tale by Poe about a double who seems to be his own conscience."
+      },
+      "file": "books/william-wilson.epub",
+      "cover": "covers/william-wilson.png",
+      "bytes": 51022,
+      "sha256": "109f4ef1242976f65f2443d9b9974390deddeec3fac8f911c717e24d895da8e0",
+      "characters": 23564,
+      "pages": 39,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.271,
+          "N4": 0.404,
+          "N3": 0.64,
+          "N2": 0.688,
+          "N1": 0.908
+        },
+        "words": 4789
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card2523.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "黒猫・黄金虫 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日初版、1995（平成7）年10月15日89刷改版",
+        "input": "kompass",
+        "proofreading": "土屋隆"
+      },
+      "updated": "2014-03-27"
+    },
+    {
+      "id": "aozora-001871",
+      "slug": "ochiana-to-furiko",
+      "title": "落穴と振子",
+      "titleReading": "おとしあなとふりこ",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "異端審問で死刑を宣告された男が、暗い牢の中で恐ろしい仕掛けに追いつめられます。ポーが描く、息もつかせない極限の恐怖です。",
+        "es": "Condenado a muerte por la Inquisición, un hombre es acorralado en una celda oscura por mecanismos terribles. Un terror extremo y sin respiro, firmado por Poe.",
+        "en": "Sentenced to death by the Inquisition, a man is hunted down in a dark cell by terrible devices. Poe's breathless, extreme horror."
+      },
+      "file": "books/ochiana-to-furiko.epub",
+      "cover": "covers/ochiana-to-furiko.png",
+      "bytes": 47113,
+      "sha256": "89aaf1e408be9ddc87bf3afdd63175c387f7dcc952285f727a26828cc66ccb91",
+      "characters": 17169,
+      "pages": 29,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.25,
+          "N4": 0.408,
+          "N3": 0.656,
+          "N2": 0.712,
+          "N1": 0.922
+        },
+        "words": 3692
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card1871.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "モルグ街の殺人事件 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日、1977（昭和52）年5月10日40刷改版",
+        "input": "江村秀之",
+        "proofreading": "鈴木厚司"
+      },
+      "updated": "2014-03-29"
+    },
+    {
+      "id": "aozora-004091",
+      "slug": "yobutsu",
+      "title": "世界怪談名作集 妖物",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "アンブローズ・ビアス",
+      "authorReading": "ビアスアンブローズ",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "森で男が無残な姿で見つかり、検死審問が開かれます。目に見えない「なにか」が、人を襲ったのでしょうか。ビアスの短編を岡本綺堂が訳しました。",
+        "es": "Un hombre aparece muerto de forma atroz en el bosque y se abre una investigación. ¿Lo ha atacado algo que nadie puede ver? Un cuento de Bierce traducido por Okamoto Kidō.",
+        "en": "A man is found horribly killed in the woods and an inquest is held. Was he attacked by something no one can see? A story by Bierce, translated by Okamoto Kidō."
+      },
+      "file": "books/yobutsu.epub",
+      "cover": "covers/yobutsu.png",
+      "bytes": 42017,
+      "sha256": "59d739a3e9a1dfaf31457ae948ab239167c5ee03d7c2df4af412a2ca85992d55",
+      "characters": 8661,
+      "pages": 14,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.312,
+          "N4": 0.451,
+          "N3": 0.672,
+          "N2": 0.728,
+          "N1": 0.915
+        },
+        "words": 1915
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001066/card4091.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1914"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出文庫、河出書房新社 / 1987（昭和62）年8月4日",
+        "input": "もりみつじゅんじ",
+        "proofreading": "門田裕志"
+      },
+      "updated": "2003-11-25"
+    },
+    {
+      "id": "aozora-004998",
+      "slug": "haitaku",
+      "title": "世界怪談名作集 廃宅",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "エルンスト・テオドーア・アマーデウス・ホフマン",
+      "authorReading": "ホフマンエルンスト・テオドーア・アマーデウス",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "街の一角に、窓を閉ざしたまま誰も住まない家がありました。ある日、その窓に女の手が見えたと語り手は言います。ホフマンの幻想怪奇譚を岡本綺堂が訳しました。",
+        "es": "En una calle de la ciudad hay una casa deshabitada con las ventanas siempre cerradas. Un día el narrador asegura haber visto en ellas la mano de una mujer. Un relato fantástico de Hoffmann traducido por Okamoto Kidō.",
+        "en": "On a city street stands an empty house with its windows always shut. One day the narrator says he saw a woman's hand at one of them. A fantastic tale by Hoffmann, translated by Okamoto Kidō."
+      },
+      "file": "books/haitaku.epub",
+      "cover": "covers/haitaku.png",
+      "bytes": 54767,
+      "sha256": "ad60ef760f15efde6531562c1a9c76a97ba1f89a7e5f43ba69c1af54d692ad85",
+      "characters": 18106,
+      "pages": 30,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.31,
+          "N4": 0.458,
+          "N3": 0.664,
+          "N2": 0.714,
+          "N1": 0.907
+        },
+        "words": 4030
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001058/card4998.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1822-06-25"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "門田裕志",
+        "proofreading": "hongming"
+      },
+      "updated": "2003-11-25"
+    },
+    {
+      "id": "aozora-043468",
+      "slug": "kyochu-no-bijo",
+      "title": "世界怪談名作集 鏡中の美女",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "ジョージ・マクドナルド",
+      "authorReading": "マクドナルドジョージ",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "プラハの貧しい学生コスモは、古い鏡に映る美しい女性に心を奪われます。ジョージ・マクドナルドの幻想的な物語を、岡本綺堂が訳しました。",
+        "es": "Cosmo, un estudiante pobre de Praga, queda prendado de una bella mujer que ve reflejada en un viejo espejo. Un relato fantástico de George MacDonald, traducido por Okamoto Kidō.",
+        "en": "Cosmo, a poor student in Prague, is captivated by a beautiful woman he sees in an old mirror. A fantastic tale by George MacDonald, translated by Okamoto Kidō."
+      },
+      "file": "books/kyochu-no-bijo.epub",
+      "cover": "covers/kyochu-no-bijo.png",
+      "bytes": 51305,
+      "sha256": "242d2ce4e4da79cbcb9a4db147cd94b6a121d059216d96f5e45a42c4ee808279",
+      "characters": 19785,
+      "pages": 33,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.317,
+          "N4": 0.48,
+          "N3": 0.709,
+          "N2": 0.756,
+          "N1": 0.929
+        },
+        "words": 4180
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001117/card43468.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1905-09-18"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-002093",
+      "slug": "dogra-magra",
+      "title": "ドグラ・マグラ",
+      "titleReading": "ドグラ・マグラ",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "精神病院のベッドで目覚めた青年は、自分が誰なのか思い出せません。彼を巡る「ドグラ・マグラ」という不思議な原稿が、読む人の頭を迷宮に連れこみます。日本の三大奇書の一つです。",
+        "es": "Un joven despierta en la cama de un manicomio sin recordar quién es. Un manuscrito extraño, «Dogra Magra», arrastra al lector a un laberinto mental. Una de las «tres grandes obras extrañas» de la literatura japonesa.",
+        "en": "A young man wakes up in an asylum bed without knowing who he is. A strange manuscript, \"Dogra Magra\", pulls the reader into a labyrinth. One of the \"three great strange books\" of Japanese literature."
+      },
+      "file": "books/dogra-magra.epub",
+      "cover": "covers/dogra-magra.png",
+      "bytes": 534200,
+      "sha256": "95d2335a54582f44cbd39baadeaf4dcb202a67d9f20cb15278aa75ef3dad4205",
+      "characters": 422399,
+      "pages": 704,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.238,
+          "N4": 0.354,
+          "N3": 0.569,
+          "N2": 0.628,
+          "N1": 0.85
+        },
+        "words": 98526
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card2093.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作全集9 / ちくま文庫、筑摩書房 / 1992（平成4）年4月22日",
+        "input": "砂場清隆",
+        "proofreading": "ドグラマグラを世に出す会"
+      },
+      "updated": "2011-05-20"
+    },
+    {
+      "id": "aozora-000935",
+      "slug": "shojo-jigoku",
+      "title": "少女地獄",
+      "titleReading": "しょうじょじごく",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "三人の少女が語る、いつわりと破滅の物語。手紙や告白の形で綴られる、夢野久作の連作です。",
+        "es": "Los relatos de mentira y perdición de tres muchachas, contados en forma de cartas y confesiones. Una serie de cuentos de Yumeno Kyūsaku.",
+        "en": "Stories of deceit and ruin told by three girls, in the form of letters and confessions. A linked series by Yumeno Kyūsaku."
+      },
+      "file": "books/shojo-jigoku.epub",
+      "cover": "covers/shojo-jigoku.png",
+      "bytes": 149591,
+      "sha256": "5cbeb1cf12f09f066a5d4a0339c91c5e4bbcdbd4690da283634f43273007fd09",
+      "characters": 104469,
+      "pages": 174,
+      "chapters": 3,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.29,
+          "N4": 0.42,
+          "N3": 0.621,
+          "N2": 0.672,
+          "N1": 0.874
+        },
+        "words": 22624
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card935.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "少女地獄 / 角川文庫、角川書店 / 1976（昭和51）年11月30日",
+        "input": "ryoko masuda",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2011-01-21"
+    },
+    {
+      "id": "aozora-056160",
+      "slug": "kage-o-fumareta-onna",
+      "title": "影を踏まれた女",
+      "titleReading": "かげをふまれたおんな",
+      "author": "岡本綺堂",
+      "authorReading": "おかもときどう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "十三夜の月の夜、影を踏まれた女に、不思議なことが起こります。岡本綺堂が書いた、静かに怖い怪談です。",
+        "es": "En la noche de luna llamada «jūsan'ya», a una mujer le pisan la sombra y le suceden cosas extrañas. Una historia de fantasmas de Okamoto Kidō, de las que dan miedo en voz baja.",
+        "en": "On the moonlit night of jūsan'ya, a woman has her shadow stepped on, and strange things begin to happen. A quietly frightening ghost story by Okamoto Kidō."
+      },
+      "file": "books/kage-o-fumareta-onna.epub",
+      "cover": "covers/kage-o-fumareta-onna.png",
+      "bytes": 46683,
+      "sha256": "f1d036f726ba9f737b2ea5ecbe1dc41bd8af03de99f030c16b547772a93f7b4c",
+      "characters": 11655,
+      "pages": 19,
+      "chapters": 4,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.326,
+          "N4": 0.515,
+          "N3": 0.711,
+          "N2": 0.769,
+          "N1": 0.92
+        },
+        "words": 2558
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000082/card56160.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-03-01"
+      },
+      "credits": {
+        "base": "岡本綺堂　怪談選集 / 小学館文庫、小学館 / 2009（平成21）年7月12日",
+        "input": "江村秀之",
+        "proofreading": "岡村和彦"
+      },
+      "updated": "2017-09-24"
+    },
+    {
+      "id": "aozora-001174",
+      "slug": "mayukakushi-no-rei",
+      "title": "眉かくしの霊",
+      "titleReading": "まゆかくしのれい",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "木曽街道、奈良井の宿に泊まった客が耳にする、女の霊にまつわる不思議な話。泉鏡花が書いた怪談です。",
+        "es": "Un viajero que se aloja en la posada de Narai, en el camino de Kiso, oye una extraña historia sobre el fantasma de una mujer. Un relato de fantasmas de Izumi Kyōka.",
+        "en": "A traveller staying at an inn in Narai, on the Kiso road, hears a strange story about a woman's ghost. A ghost story by Izumi Kyōka."
+      },
+      "file": "books/mayukakushi-no-rei.epub",
+      "cover": "covers/mayukakushi-no-rei.png",
+      "bytes": 63920,
+      "sha256": "09aec030d144ba8e97a2283903f417b11822a249151b97693a44afe967cfb50b",
+      "characters": 26089,
+      "pages": 43,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.299,
+          "N4": 0.427,
+          "N3": 0.576,
+          "N2": 0.648,
+          "N1": 0.844
+        },
+        "words": 5744
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card1174.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "現代日本文学館3　幸田露伴・泉鏡花 / 文藝春秋 / 1968（昭和43）年10月1日",
+        "input": "真先芳秋",
+        "proofreading": "鈴木厚司"
+      },
+      "updated": "2005-11-24"
+    },
+    {
+      "id": "aozora-057474",
+      "slug": "majo-no-ie-de-mita-yume",
+      "title": "魔女の家で見た夢",
+      "titleReading": "まじょのいえでみたゆめ",
+      "author": "ハワード・フィリップス・ラヴクラフト",
+      "authorReading": "ラヴクラフトハワード・フィリップス",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "古い街の屋根裏部屋に暮らす学生ギルマンは、毎晩、恐ろしい夢を見ます。そこには魔女と、ネズミに似た使い魔が現れて…。ラヴクラフトの代表作を、クリエイティブ・コモンズの訳で読めます。",
+        "es": "Gilman, un estudiante que vive en una buhardilla de una ciudad antigua, tiene cada noche sueños terribles en los que aparecen una bruja y un familiar parecido a una rata. Una obra emblemática de Lovecraft, en una traducción con licencia Creative Commons.",
+        "en": "Gilman, a student living in the attic of an old town, has terrible dreams every night in which a witch and a rat-like familiar appear. A landmark Lovecraft work, in a Creative Commons translation."
+      },
+      "file": "books/majo-no-ie-de-mita-yume.epub",
+      "cover": "covers/majo-no-ie-de-mita-yume.png",
+      "bytes": 654044,
+      "sha256": "d2eff0347af4bec6d2d32973de96320fa259b60ba78928521af08581fd8d37cf",
+      "characters": 42774,
+      "pages": 71,
+      "chapters": 4,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.233,
+          "N4": 0.347,
+          "N3": 0.56,
+          "N2": 0.614,
+          "N1": 0.868
+        },
+        "words": 9732
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001699/card57474.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2016-07-15"
+    },
+    {
+      "id": "aozora-057341",
+      "slug": "pickman-no-model",
+      "title": "ピックマンのモデル",
+      "titleReading": "ピックマンのモデル",
+      "author": "ハワード・フィリップス・ラヴクラフト",
+      "authorReading": "ラヴクラフトハワード・フィリップス",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "画家ピックマンが描く絵は、あまりにも恐ろしく、そして真に迫っていました。彼のモデルはいったい何だったのでしょうか。ラヴクラフトの短編です。",
+        "es": "Los cuadros del pintor Pickman son tan espantosos como realistas. ¿Qué había servido de modelo? Un cuento de Lovecraft.",
+        "en": "The paintings of the artist Pickman are as horrifying as they are lifelike. What was his model? A short story by Lovecraft."
+      },
+      "file": "books/pickman-no-model.epub",
+      "cover": "covers/pickman-no-model.png",
+      "bytes": 52419,
+      "sha256": "a5b13b1984b7f0a8c043d158fb2684740e38118f78e83c3640805d6cf2972f9e",
+      "characters": 18056,
+      "pages": 30,
+      "chapters": 3,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.253,
+          "N4": 0.367,
+          "N3": 0.546,
+          "N2": 0.598,
+          "N1": 0.828
+        },
+        "words": 3754
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001699/card57341.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2015-10-24"
+    },
+    {
+      "id": "aozora-057255",
+      "slug": "yami-o-samayoumono",
+      "title": "闇をさまようもの",
+      "titleReading": "やみをさまようもの",
+      "author": "ハワード・フィリップス・ラヴクラフト",
+      "authorReading": "ラヴクラフトハワード・フィリップス",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "scifi"
+      ],
+      "description": {
+        "ja": "廃教会に足を踏み入れた作家ロバート・ブレイクは、そこで恐ろしい何かを目覚めさせてしまいます。ラヴクラフトが友人のブロックに捧げた作品です。",
+        "es": "El escritor Robert Blake entra en una iglesia abandonada y despierta algo terrible. Una obra que Lovecraft dedicó a su amigo Robert Bloch.",
+        "en": "The writer Robert Blake enters an abandoned church and awakens something terrible. A work Lovecraft dedicated to his friend Robert Bloch."
+      },
+      "file": "books/yami-o-samayoumono.epub",
+      "cover": "covers/yami-o-samayoumono.png",
+      "bytes": 666056,
+      "sha256": "716604feefa89c5e77c7fbe4cdaa401a419c1ea5f02b25a71fce441337ad5cb3",
+      "characters": 26023,
+      "pages": 43,
+      "chapters": 4,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.215,
+          "N4": 0.323,
+          "N3": 0.541,
+          "N2": 0.596,
+          "N1": 0.859
+        },
+        "words": 6115
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001699/card57255.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2017-05-04"
+    },
+    {
+      "id": "aozora-057858",
+      "slug": "kyoki-no-sanmyaku-nite",
+      "title": "狂気の山脈にて",
+      "titleReading": "きょうきのさんみゃくにて",
+      "author": "ハワード・フィリップス・ラヴクラフト",
+      "authorReading": "ラヴクラフトハワード・フィリップス",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "南極を調査する探検隊が、氷の下から太古の巨大な都市を見つけます。ラヴクラフトの長編で、ホラーとSFが重なり合う代表作です。",
+        "es": "Una expedición científica en la Antártida descubre bajo el hielo una ciudad colosal de épocas remotas. La novela larga de Lovecraft en la que se cruzan el terror y la ciencia ficción.",
+        "en": "A scientific expedition in Antarctica finds a vast city of remote ages beneath the ice. Lovecraft's long tale, where horror and science fiction meet."
+      },
+      "file": "books/kyoki-no-sanmyaku-nite.epub",
+      "cover": "covers/kyoki-no-sanmyaku-nite.png",
+      "bytes": 188687,
+      "sha256": "63e66fddaab4d3bdd5de176281a5f6c0e1cd4fc1e69279508e03769689e5a09c",
+      "characters": 119716,
+      "pages": 200,
+      "chapters": 13,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.179,
+          "N4": 0.278,
+          "N3": 0.524,
+          "N2": 0.591,
+          "N1": 0.869
+        },
+        "words": 27793
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001699/card57858.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2018-01-29"
+    },
+    {
+      "id": "aozora-057342",
+      "slug": "jikan-kara-no-kage",
+      "title": "時間からの影",
+      "titleReading": "じかんからのかげ",
+      "author": "ハワード・フィリップス・ラヴクラフト",
+      "authorReading": "ラヴクラフトハワード・フィリップス",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "突然、人が変わったようになった大学教授。数年後に正気に戻った彼が知ったのは、時間を越えた恐ろしい真実でした。ラヴクラフトの傑作です。",
+        "es": "Un profesor universitario cambia de pronto de personalidad. Años después, ya recuperado, descubre una verdad terrible que cruza el tiempo. Una obra maestra de Lovecraft.",
+        "en": "A university professor suddenly seems to become someone else. Years later, back to normal, he learns a terrible truth that spans time. A Lovecraft masterpiece."
+      },
+      "file": "books/jikan-kara-no-kage.epub",
+      "cover": "covers/jikan-kara-no-kage.png",
+      "bytes": 126160,
+      "sha256": "fe6ae18053c27e7ce66e60d5d1d333b5835546c79b4a5fdc69bb2d1aee4e07e8",
+      "characters": 69819,
+      "pages": 116,
+      "chapters": 12,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.185,
+          "N4": 0.288,
+          "N3": 0.538,
+          "N2": 0.596,
+          "N1": 0.874
+        },
+        "words": 16269
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001699/card57342.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2021-01-26"
+    },
+    {
+      "id": "aozora-062189",
+      "slug": "kasei-ryoko-kohen",
+      "title": "夢の谷 惑星シリーズその２（火星後編）",
+      "titleReading": "ゆめのたに",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "地球に戻る期限が迫る火星探検隊を描く、ワインバウム「惑星シリーズ」の第二話（後編）です。前編「火星旅行」の続きで、クリエイティブ・コモンズの訳で読めます。",
+        "es": "La segunda entrega (segunda parte) de la serie planetaria de Weinbaum: una expedición a Marte con el plazo para volver a la Tierra a punto de agotarse. Continúa «Viaje a Marte», en una traducción con licencia Creative Commons.",
+        "en": "The second instalment (part two) of Weinbaum's planet series: a Mars expedition running out of time to return to Earth. It continues the first part, \"Mars Journey\", in a Creative Commons translation."
+      },
+      "file": "books/kasei-ryoko-kohen.epub",
+      "cover": "covers/kasei-ryoko-kohen.png",
+      "bytes": 58350,
+      "sha256": "a628836e3f6d3d09a2a5180448c82ca6d8b5af98ae87c76d2082a747044eea2c",
+      "characters": 20746,
+      "pages": 35,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.242,
+          "N4": 0.369,
+          "N3": 0.605,
+          "N2": 0.657,
+          "N1": 0.902
+        },
+        "words": 4693
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62189.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-05-01"
+    },
+    {
+      "id": "aozora-062206",
+      "slug": "kisei-wakusei",
+      "title": "寄生惑星 惑星シリーズその３　ハム＆パット（金星前編）",
+      "titleReading": "きせいわくせい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "金星の過酷な環境で、探検家ハム・ハモンドが生き延びようとします。ワインバウム「惑星シリーズ」の一編（金星・前編）です。",
+        "es": "El explorador Ham Hammond intenta sobrevivir en el hostil ambiente de Venus. Un relato de la serie planetaria de Weinbaum (Venus, primera parte).",
+        "en": "The explorer Ham Hammond tries to survive in the harsh environment of Venus. A story from Weinbaum's planet series (Venus, part one)."
+      },
+      "file": "books/kisei-wakusei.epub",
+      "cover": "covers/kisei-wakusei.png",
+      "bytes": 71581,
+      "sha256": "c9dbf90e6686a73f17f44b46015acb40f7dccc878332090c414014fd99e5c139",
+      "characters": 24075,
+      "pages": 40,
+      "chapters": 4,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.24,
+          "N4": 0.361,
+          "N3": 0.575,
+          "N2": 0.639,
+          "N1": 0.9
+        },
+        "words": 5759
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62206.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-06-12"
+    },
+    {
+      "id": "aozora-062207",
+      "slug": "hasu-sennin",
+      "title": "ハス仙人 惑星シリーズその４　ハム＆パット（金星後編）",
+      "titleReading": "ハスせんにん",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "金星を探検するハムとパットの夫妻が、ふしぎな生き物と出会います。ワインバウム「惑星シリーズ」の一編（金星・後編）です。",
+        "es": "Los exploradores Ham y Pat Hammond se encuentran con extrañas criaturas en Venus. Un relato de la serie planetaria de Weinbaum (Venus, segunda parte).",
+        "en": "The explorers Ham and Pat Hammond meet strange creatures on Venus. A story from Weinbaum's planet series (Venus, part two)."
+      },
+      "file": "books/hasu-sennin.epub",
+      "cover": "covers/hasu-sennin.png",
+      "bytes": 63243,
+      "sha256": "b7ecfef1a6cfffe555b2c58f5281807b5e691b2e1d836c039fb08731ae4d6afb",
+      "characters": 22468,
+      "pages": 37,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.235,
+          "N4": 0.362,
+          "N3": 0.591,
+          "N2": 0.648,
+          "N1": 0.909
+        },
+        "words": 5117
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62207.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-07-17"
+    },
+    {
+      "id": "aozora-062208",
+      "slug": "moya-wakusei",
+      "title": "もや惑星 惑星シリーズその５　ハム＆パット（天王星）",
+      "titleReading": "もやわくせい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "天王星の探検隊の五人が、もやに包まれた世界で不思議な出来事に巻きこまれます。ワインバウム「惑星シリーズ」の一編です。",
+        "es": "Cinco miembros de una expedición a Urano se ven envueltos en sucesos extraños en un mundo cubierto de bruma. Un relato de la serie planetaria de Weinbaum.",
+        "en": "Five members of an expedition to Uranus are drawn into strange events in a world wrapped in mist. A story from Weinbaum's planet series."
+      },
+      "file": "books/moya-wakusei.epub",
+      "cover": "covers/moya-wakusei.png",
+      "bytes": 63673,
+      "sha256": "b68e92e49bc8d892f0fea638f22d27a4a1f587746192a9186e66a3669704096b",
+      "characters": 23789,
+      "pages": 40,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.214,
+          "N4": 0.349,
+          "N3": 0.602,
+          "N2": 0.656,
+          "N1": 0.926
+        },
+        "words": 5377
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62208.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-08-29"
+    },
+    {
+      "id": "aozora-062460",
+      "slug": "titan-oudan",
+      "title": "タイタン横断 衛星シリーズその１（タイタン）",
+      "titleReading": "タイタンおうだん",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "土星の衛星タイタンで、猛烈な嵐の中を歩く二人。マイナス60度の世界を行く冒険を、ワインバウムが描きます。",
+        "es": "Dos personas avanzan en medio de una tormenta feroz en Titán, la luna de Saturno. Weinbaum narra una aventura por un mundo a sesenta grados bajo cero.",
+        "en": "Two people struggle through a fierce storm on Titan, Saturn's moon. Weinbaum tells an adventure across a world sixty degrees below zero."
+      },
+      "file": "books/titan-oudan.epub",
+      "cover": "covers/titan-oudan.png",
+      "bytes": 54678,
+      "sha256": "bd52f999d2f622941081938195fdf3506a61d06aaaf7b6c8807f4cd364095deb",
+      "characters": 18245,
+      "pages": 30,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.258,
+          "N4": 0.392,
+          "N3": 0.615,
+          "N2": 0.667,
+          "N1": 0.916
+        },
+        "words": 4273
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62460.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-10-26"
+    },
+    {
+      "id": "aozora-062682",
+      "slug": "proteus-to",
+      "title": "プロテウス島 怪奇シリーズその４",
+      "titleReading": "プロテウスとう",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "「立入禁止、島のタブーです」。現地の男の警告を聞かず、カーバーは島へ近づいていきます。ワインバウムの「怪奇シリーズ」の一編です。",
+        "es": "«Prohibido entrar, es el tabú de la isla.» Carver no hace caso de la advertencia de un nativo y se acerca a la isla. Un relato de la serie de lo extraño de Weinbaum.",
+        "en": "\"No entry, it is the island's taboo.\" Ignoring a local man's warning, Carver draws near the island. A story from Weinbaum's \"weird\" series."
+      },
+      "file": "books/proteus-to.epub",
+      "cover": "covers/proteus-to.png",
+      "bytes": 61946,
+      "sha256": "bc80f921d345302945a98f5b1899681b4b491e3d840a356285ea22246e28b383",
+      "characters": 27551,
+      "pages": 46,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.249,
+          "N4": 0.374,
+          "N3": 0.596,
+          "N2": 0.646,
+          "N1": 0.896
+        },
+        "words": 6481
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62682.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2024-07-07"
+    },
+    {
+      "id": "aozora-062125",
+      "slug": "pygmalion-megane",
+      "title": "ピグマリオン眼鏡",
+      "titleReading": "ピグマリオンめがね",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "酔った男が、老人から不思議な眼鏡を手に入れます。それをかけると、そこには現実とは別の世界が広がっていて…。ワインバウムの幻想的なSFです。",
+        "es": "Un hombre ebrio recibe de un anciano unas gafas extraordinarias; al ponérselas se abre ante él un mundo distinto de la realidad… Una ciencia ficción de tono fantástico de Weinbaum.",
+        "en": "A drunk man gets a pair of extraordinary glasses from an old man; wearing them opens a world quite apart from reality… A fantastical piece of science fiction by Weinbaum."
+      },
+      "file": "books/pygmalion-megane.epub",
+      "cover": "covers/pygmalion-megane.png",
+      "bytes": 49131,
+      "sha256": "4083ede5a5af73370b76f60b0e4f8f60e529e8fa4ed28075d442a4c7b0017c1b",
+      "characters": 16006,
+      "pages": 27,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.3,
+          "N4": 0.416,
+          "N3": 0.631,
+          "N2": 0.68,
+          "N1": 0.898
+        },
+        "words": 3725
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62125.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-03-07"
+    },
+    {
+      "id": "aozora-033205",
+      "slug": "jekyll-hakase-to-hyde-shi",
+      "title": "ジーキル博士とハイド氏の怪事件",
+      "titleReading": "ジーキルはかせとハイドしのかいじけん",
+      "author": "ロバート・ルイス・スティーブンソン",
+      "authorReading": "スティーブンソンロバート・ルイス",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "立派な紳士のジキル博士と、凶暴な悪人ハイド氏。二人のあいだには、恐ろしい秘密がありました。人間の二面性を描いたスティーブンソンの名作です。",
+        "es": "El respetable doctor Jekyll y el violento señor Hyde guardan entre sí un terrible secreto. El clásico de Stevenson sobre la doble cara del ser humano.",
+        "en": "The respectable Dr Jekyll and the violent Mr Hyde share a terrible secret. Stevenson's classic on the two sides of human nature."
+      },
+      "file": "books/jekyll-hakase-to-hyde-shi.epub",
+      "cover": "covers/jekyll-hakase-to-hyde-shi.png",
+      "bytes": 120380,
+      "sha256": "d8aa6976acf4410744fe1b422e60b496318fdd0f4c9414b2261f6210e306a9c6",
+      "characters": 73612,
+      "pages": 123,
+      "chapters": 13,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.315,
+          "N4": 0.454,
+          "N3": 0.674,
+          "N2": 0.718,
+          "N1": 0.908
+        },
+        "words": 15000
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000888/card33205.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1894-12-03"
+      },
+      "credits": {
+        "base": "ジーキル博士とハイド氏 / 新潮文庫、新潮社 / 1950（昭和25）年11月25日",
+        "input": "kompass",
+        "proofreading": "松永正敏"
+      },
+      "updated": "2011-04-29"
+    },
+    {
+      "id": "aozora-043471",
+      "slug": "hokkyokusei-go-no-senchou",
+      "title": "世界怪談名作集 北極星号の船長　医学生ジョン・マリスターレーの奇異なる日記よりの抜萃",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "アーサー・コナン・ドイル",
+      "authorReading": "ドイルアーサー・コナン",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "氷原に閉じこめられた捕鯨船。若い医学生の日記が、船長のおかしな行動と、氷上に現れる影を記します。コナン・ドイルの初期の怪奇小説です。",
+        "es": "Un ballenero atrapado en el hielo. El diario de un joven estudiante de medicina registra la conducta extraña del capitán y una sombra que aparece sobre la banquisa. Un relato de misterio de los comienzos de Conan Doyle.",
+        "en": "A whaler trapped in the ice. A young medical student's diary records the captain's odd behaviour and a figure that appears on the ice. An early weird tale by Conan Doyle."
+      },
+      "file": "books/hokkyokusei-go-no-senchou.epub",
+      "cover": "covers/hokkyokusei-go-no-senchou.png",
+      "bytes": 77261,
+      "sha256": "f9c65f5e216a5dd325b55f7a7248cd31b26bd817ea6fa35d53b36d59b1faf45e",
+      "characters": 26329,
+      "pages": 44,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.271,
+          "N4": 0.403,
+          "N3": 0.645,
+          "N2": 0.691,
+          "N1": 0.907
+        },
+        "words": 5508
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000009/card43471.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1930-07-07"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-000464",
+      "slug": "neko-no-jimusho",
+      "title": "猫の事務所 ……ある小さな官衙に関する幻想……",
+      "titleReading": "ねこのじむしょ",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "停車場のそばにある「猫の第六事務所」では、猫の歴史と地理を調べています。かまどで寝る「かま猫」が、同僚たちから少しずつ仲間はずれにされていく、宮沢賢治の風刺のきいた童話です。",
+        "es": "En la «sexta oficina de los gatos», junto a una estación, se estudia la historia y la geografía felinas. El «gato del fogón», que duerme junto a la cocina, es apartado poco a poco por sus compañeros. Un cuento con mucha sátira de Miyazawa Kenji.",
+        "en": "In the \"Sixth Office of the Cats\", beside a railway station, cats study feline history and geography. The \"stove cat\", who sleeps by the kitchen range, is gradually shut out by his colleagues. A sharply satirical fairy tale by Miyazawa Kenji."
+      },
+      "file": "books/neko-no-jimusho.epub",
+      "cover": "covers/neko-no-jimusho.png",
+      "bytes": 42934,
+      "sha256": "b212b4c2e7c5165412bf990f032f1a48f9c1cdbdd0169abd82f740266623d51b",
+      "characters": 6210,
+      "pages": 10,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.378,
+          "N4": 0.494,
+          "N3": 0.654,
+          "N2": 0.698,
+          "N1": 0.838
+        },
+        "words": 1427
+      },
+      "orthography": "新字旧仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card464.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "宮沢賢治全集8 / ちくま文庫、筑摩書房 / 1986（昭和61）年1月28日",
+        "input": "細川みづ穂",
+        "proofreading": "瀬戸さえ子"
+      },
+      "updated": "2008-10-10"
+    },
+    {
+      "id": "aozora-000060",
+      "slug": "jigokuhen",
+      "title": "地獄変",
+      "titleReading": "じごくへん",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "天下一の絵師・良秀は、地獄の絵を描くために、恐ろしいことを望みます。芸術と執念を描く芥川龍之介の傑作です。",
+        "es": "Yoshihide, el mejor pintor del país, exige algo terrible para pintar un biombo del infierno. Una obra maestra de Akutagawa sobre el arte y la obsesión.",
+        "en": "Yoshihide, the finest painter in the land, demands something terrible in order to paint a screen of hell. Akutagawa's masterpiece on art and obsession."
+      },
+      "file": "books/jigokuhen.epub",
+      "cover": "covers/jigokuhen.png",
+      "bytes": 79801,
+      "sha256": "4f8c8c456d79dc982caf58fd7d7de99f9fb7d7792d8b7bcac7b189877d1e940c",
+      "characters": 26231,
+      "pages": 44,
+      "chapters": 20,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.299,
+          "N4": 0.414,
+          "N3": 0.59,
+          "N2": 0.634,
+          "N1": 0.808
+        },
+        "words": 6295
+      },
+      "orthography": "新字旧仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card60.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集　第一巻 / 岩波書店 / 1995（平成7）年11月8日",
+        "input": "もりみつじゅんじ",
+        "proofreading": "j.utiyama"
+      },
+      "updated": "2010-11-06"
+    },
+    {
+      "id": "aozora-003407",
+      "slug": "yashagaike",
+      "title": "夜叉ヶ池",
+      "titleReading": "やしゃがいけ",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "日照りに苦しむ村人たちは、山奥の池の龍神に雨を願おうとします。鐘を守る夫婦と、龍神の姫の恋が、ひとつの結末へ向かいます。泉鏡花の戯曲です。",
+        "es": "Los aldeanos, castigados por la sequía, recurren al dragón de una charca de la montaña. La pareja que custodia la campana y el amor de la princesa dragón avanzan hacia un mismo final. Una obra de teatro de Izumi Kyōka.",
+        "en": "Villagers worn down by drought turn to the dragon of a mountain pond. The couple who keep the bell and the dragon princess's love head toward one and the same ending. A play by Izumi Kyōka."
+      },
+      "file": "books/yashagaike.epub",
+      "cover": "covers/yashagaike.png",
+      "bytes": 70372,
+      "sha256": "6933cc75b147a6a0c9d34da180fc9ea1bb5312999b23e92461dfdacb1cd7c3ea",
+      "characters": 27215,
+      "pages": 45,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.276,
+          "N4": 0.385,
+          "N3": 0.564,
+          "N2": 0.627,
+          "N1": 0.826
+        },
+        "words": 6707
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card3407.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "泉鏡花集成7 / ちくま文庫、筑摩書房 / 1995（平成7）年12月4日",
+        "input": "門田裕志",
+        "proofreading": "染川隆俊"
+      },
+      "updated": "2015-04-17"
+    },
+    {
+      "id": "aozora-003065",
+      "slug": "tenshu-monogatari",
+      "title": "天守物語",
+      "titleReading": "てんしゅものがたり",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "姫路城の天守に住む妖怪の姫と、迷いこんできた若い鷹匠。人と妖怪のあいだに生まれる恋を、泉鏡花が戯曲で描きます。",
+        "es": "En lo alto del torreón del castillo de Himeji vive una princesa espectral, y un joven cetrero se pierde hasta allí. Izumi Kyōka lleva al teatro el amor entre una persona y un ser sobrenatural.",
+        "en": "A spirit princess lives at the top of Himeji Castle, and a young falconer wanders in. Izumi Kyōka's play about love between a human and a supernatural being."
+      },
+      "file": "books/tenshu-monogatari.epub",
+      "cover": "covers/tenshu-monogatari.png",
+      "bytes": 57164,
+      "sha256": "74d3f8ca3db5e25c2ec20225c91e1b0330083e85599f0cb58195a88ec6a836af",
+      "characters": 20250,
+      "pages": 34,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.259,
+          "N4": 0.373,
+          "N3": 0.551,
+          "N2": 0.605,
+          "N1": 0.814
+        },
+        "words": 5140
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card3065.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "泉鏡花集成7 / ちくま文庫、筑摩書房 / 1995（平成7）年12月4日",
+        "input": "門田裕志",
+        "proofreading": "染川隆俊"
+      },
+      "updated": "2006-09-21"
+    },
+    {
+      "id": "aozora-003586",
+      "slug": "kusa-meikyu",
+      "title": "草迷宮",
+      "titleReading": "くさめいきゅう",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "亡き母が歌ってくれた手毬唄を探して旅する青年は、あやしい屋敷にたどりつきます。泉鏡花の長編幻想小説です。",
+        "es": "Un joven que busca la canción de pelota que le cantaba su madre difunta llega a una mansión inquietante. La novela larga y fantástica de Izumi Kyōka.",
+        "en": "A young man searching for the ball song his late mother used to sing reaches an eerie mansion. Izumi Kyōka's long fantasy novel."
+      },
+      "file": "books/kusa-meikyu.epub",
+      "cover": "covers/kusa-meikyu.png",
+      "bytes": 135419,
+      "sha256": "3de48912cba4acdbe09079bd5f8ef3fd7971251882552cccd8b5244459b7cb84",
+      "characters": 70874,
+      "pages": 118,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.28,
+          "N4": 0.397,
+          "N3": 0.554,
+          "N2": 0.607,
+          "N1": 0.813
+        },
+        "words": 17339
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card3586.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "泉鏡花集成5 / ちくま文庫、筑摩書房 / 1996（平成8）年2月22日",
+        "input": "門田裕志",
+        "proofreading": "高柳典子"
+      },
+      "updated": "2006-05-20"
+    },
+    {
+      "id": "aozora-000769",
+      "slug": "kairo-ko",
+      "title": "薤露行",
+      "titleReading": "かいろこう",
+      "author": "夏目漱石",
+      "authorReading": "なつめそうせき",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "アーサー王伝説のランスロットと、シャロットの乙女エレーン。夏目漱石が、西洋の騎士物語を独特の文体で書いた作品です。",
+        "es": "Lancelot, de la leyenda del rey Arturo, y Elaine, la dama de Shalott. Natsume Sōseki relata a su manera un cuento de caballeros occidentales.",
+        "en": "Lancelot of the King Arthur legend and Elaine, the Lady of Shalott. Natsume Sōseki retells a Western chivalric tale in his own ornate style."
+      },
+      "file": "books/kairo-ko.epub",
+      "cover": "covers/kairo-ko.png",
+      "bytes": 57414,
+      "sha256": "7a2bcae6dc7e21cc3a6a279d0166bc523152c970ccb51b6e2b9ba8014f1fda56",
+      "characters": 19804,
+      "pages": 33,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.266,
+          "N4": 0.389,
+          "N3": 0.573,
+          "N2": 0.626,
+          "N1": 0.837
+        },
+        "words": 5746
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000148/card769.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1916-12-09"
+      },
+      "credits": {
+        "base": "倫敦塔・幻影の盾　他五篇 / 岩波文庫、岩波書店 / 1930（昭和5）年12月20日、1990（平成2）年4月16日第23刷改版",
+        "input": "鈴木厚司",
+        "proofreading": "藤本篤子"
+      },
+      "updated": "2004-02-26"
+    },
+    {
+      "id": "aozora-045679",
+      "slug": "yuki-watari",
+      "title": "雪渡り",
+      "titleReading": "ゆきわたり",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "雪が凍った日、子ども二人が森へ出かけると、キツネの子が「キックキックトントン」と歌って迎えます。宮沢賢治の童話です。",
+        "es": "Un día en que la nieve se ha helado, dos niños van al bosque y un zorrito los recibe cantando. Un cuento de Miyazawa Kenji.",
+        "en": "On a day when the snow has frozen hard, two children go into the forest and a young fox greets them with a song. A fairy tale by Miyazawa Kenji."
+      },
+      "file": "books/yuki-watari.epub",
+      "cover": "covers/yuki-watari.png",
+      "bytes": 30781,
+      "sha256": "eccef8518b67e3235342211179251a89a7b9fc62b0e7b7a2dc971c1689abab89",
+      "characters": 6393,
+      "pages": 11,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.381,
+          "N4": 0.536,
+          "N3": 0.686,
+          "N2": 0.724,
+          "N1": 0.86
+        },
+        "words": 1421
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card45679.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "田中敬三"
+      },
+      "updated": "2006-03-22"
+    },
+    {
+      "id": "aozora-043757",
+      "slug": "suisen-zuki-no-yokka",
+      "title": "水仙月の四日",
+      "titleReading": "すいせんづきのよっか",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "吹雪の日の山で、雪童子と雪狼たちは、道に迷った子どもに出会います。宮沢賢治が描く、厳しくて美しい冬の物語です。",
+        "es": "En una montaña azotada por la ventisca, el niño de la nieve y los lobos blancos se topan con un niño perdido. Una historia de invierno, dura y hermosa, de Miyazawa Kenji.",
+        "en": "On a blizzard day in the mountains, the snow child and the snow wolves meet a lost boy. A harsh and beautiful winter story by Miyazawa Kenji."
+      },
+      "file": "books/suisen-zuki-no-yokka.epub",
+      "cover": "covers/suisen-zuki-no-yokka.png",
+      "bytes": 32337,
+      "sha256": "4ef41d69dfb39128b2d1ee0b2eebb88344ade128a669734069b9d6f73c96d475",
+      "characters": 5645,
+      "pages": 9,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.384,
+          "N4": 0.57,
+          "N3": 0.709,
+          "N2": 0.757,
+          "N1": 0.894
+        },
+        "words": 1340
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43757.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-02-21"
+    },
+    {
+      "id": "aozora-043760",
+      "slug": "shika-odori-no-hajimari",
+      "title": "鹿踊りのはじまり",
+      "titleReading": "ししおどりのはじまり",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "山で休んでいた男が、鹿たちの不思議な言葉を聞きます。鹿踊りの由来を語る、宮沢賢治の短い物語です。",
+        "es": "Un hombre que descansa en la montaña oye el extraño lenguaje de los ciervos. Un breve relato de Miyazawa Kenji sobre el origen de la danza de los ciervos.",
+        "en": "A man resting in the mountains hears the strange speech of the deer. A short tale by Miyazawa Kenji about the origin of the deer dance."
+      },
+      "file": "books/shika-odori-no-hajimari.epub",
+      "cover": "covers/shika-odori-no-hajimari.png",
+      "bytes": 35714,
+      "sha256": "f5b38c6167094a01818373991939a3c742175b791b57e64768c2230c6d03c810",
+      "characters": 5859,
+      "pages": 10,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.336,
+          "N4": 0.507,
+          "N3": 0.661,
+          "N2": 0.705,
+          "N1": 0.869
+        },
+        "words": 1248
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43760.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-02-21"
+    },
+    {
+      "id": "aozora-046607",
+      "slug": "tsuchigami-to-kitsune",
+      "title": "土神ときつね",
+      "titleReading": "つちがみときつね",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "野原の樺の木に、乱暴な土神と、おしゃれなキツネが想いを寄せます。切ない三角関係を宮沢賢治が童話にしました。",
+        "es": "Un dios de la tierra bruto y un zorro presumido se enamoran de un abedul del prado. Miyazawa Kenji convierte en cuento un triángulo amoroso lleno de melancolía.",
+        "en": "A rough earth god and a dapper fox both fall for a birch tree in the meadow. Miyazawa Kenji turns a bittersweet love triangle into a fairy tale."
+      },
+      "file": "books/tsuchigami-to-kitsune.epub",
+      "cover": "covers/tsuchigami-to-kitsune.png",
+      "bytes": 38911,
+      "sha256": "1942e179a72ae3c785558f9731655b414da77ebaf21874f7bebbd707de4320f8",
+      "characters": 9332,
+      "pages": 16,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.367,
+          "N4": 0.535,
+          "N3": 0.684,
+          "N2": 0.734,
+          "N1": 0.895
+        },
+        "words": 2026
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card46607.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "蒋龍",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2008-11-30"
+    },
+    {
+      "id": "aozora-000458",
+      "slug": "hikari-no-suashi",
+      "title": "ひかりの素足",
+      "titleReading": "ひかりのすあし",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "吹雪の山で遭難した兄弟は、ふしぎな世界で光の素足を持つ人に出会います。死と生を見つめた、宮沢賢治の長めの童話です。",
+        "es": "Dos hermanos perdidos en una montaña nevada llegan a un mundo extraño y encuentran a alguien de pies descalzos luminosos. Un cuento largo de Miyazawa Kenji sobre la vida y la muerte.",
+        "en": "Two brothers lost on a snowy mountain reach a strange world and meet a being with shining bare feet. A longer fairy tale by Miyazawa Kenji about life and death."
+      },
+      "file": "books/hikari-no-suashi.epub",
+      "cover": "covers/hikari-no-suashi.png",
+      "bytes": 46903,
+      "sha256": "df67d1ee0c7b54f4df35bb1deb85b2e1d7e7a81a445729e5daa3dd6d06e2a7fa",
+      "characters": 17123,
+      "pages": 29,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.424,
+          "N4": 0.563,
+          "N3": 0.698,
+          "N2": 0.742,
+          "N1": 0.852
+        },
+        "words": 4169
+      },
+      "orthography": "新字旧仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card458.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "宮沢賢治全集5 / ちくま文庫、筑摩書房 / 1986（昭和61）年3月25日",
+        "input": "あきら",
+        "proofreading": "伊藤時也"
+      },
+      "updated": "2005-10-19"
+    },
+    {
+      "id": "aozora-002223",
+      "slug": "dorian-gray-no-esugata",
+      "title": "絵姿 The Portrate of Dorian Gray",
+      "titleReading": "えすがた",
+      "author": "ワイルドオスカー",
+      "authorReading": "ワイルドオスカー",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "description": {
+        "ja": "美貌の青年ドリアン・グレイは、自分の肖像画だけが年を取るようにと願います。ワイルドの長編を、渡辺温が短くまとめた版です。",
+        "es": "El hermoso Dorian Gray desea que sea su retrato, y no él, quien envejezca. La novela de Wilde, resumida por Watanabe Onn.",
+        "en": "The handsome Dorian Gray wishes that his portrait, and not he, would grow old. Wilde's novel, condensed by Watanabe Onn."
+      },
+      "file": "books/dorian-gray-no-esugata.epub",
+      "cover": "covers/dorian-gray-no-esugata.png",
+      "bytes": 44110,
+      "sha256": "415e9ea4d8a23d15e95fa8b2601f0202e1a20f095d8e6f82f0aa7eb0c5805d7b",
+      "characters": 11746,
+      "pages": 20,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.258,
+          "N4": 0.376,
+          "N3": 0.587,
+          "N2": 0.634,
+          "N1": 0.857
+        },
+        "words": 2657
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000020/card2223.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1900-11-30"
+      },
+      "credits": {
+        "base": "アンドロギュノスの裔 / 薔薇十字社 / 1970（昭和45）年9月1日",
+        "input": "森下祐行",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2007-10-23"
+    },
+    {
+      "id": "aozora-058275",
+      "slug": "yume-nikki",
+      "title": "夢日記",
+      "titleReading": "ゆめにっき",
+      "author": "アンナ・キングスフォード",
+      "authorReading": "キングスフォードアンナ",
+      "language": "ja",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "十年にわたって夢を書きとめた、アンナ・キングスフォードの夢日記です。幻想的で不思議な夢の世界を、クリエイティブ・コモンズの訳で読めます。",
+        "es": "El diario de sueños de Anna Kingsford, que anotó durante diez años lo que soñaba. Un mundo onírico y extraño, en una traducción con licencia Creative Commons.",
+        "en": "Anna Kingsford's dream diary, kept over ten years. A strange and fantastic dream world, in a Creative Commons translation."
+      },
+      "file": "books/yume-nikki.epub",
+      "cover": "covers/yume-nikki.png",
+      "bytes": 610046,
+      "sha256": "52f19f0db9caa7d67153f41696571b287ba2abe9ca20718ec3a621415070641b",
+      "characters": 47969,
+      "pages": 80,
+      "chapters": 26,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.25,
+          "N4": 0.364,
+          "N3": 0.598,
+          "N2": 0.641,
+          "N1": 0.878
+        },
+        "words": 11222
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001882/card58275.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "creditRole": "translator",
+        "creditName": "The Creative CAT",
+        "credit": "翻訳: The Creative CAT"
+      },
+      "credits": {
+        "base": "",
+        "input": "The Creative CAT",
+        "proofreading": ""
+      },
+      "updated": "2017-08-25"
+    },
+    {
+      "id": "aozora-046318",
+      "slug": "oyayubi-hime",
+      "title": "おやゆび姫",
+      "titleReading": "おやゆびひめ",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "authorReading": "アンデルセンハンス・クリスチャン",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "花から生まれた、親指ほどの小さな女の子。ヒキガエルやコガネムシ、モグラにさらわれながら旅をします。アンデルセンの童話です。",
+        "es": "Una niña del tamaño de un pulgar, nacida de una flor, viaja raptada por un sapo, un escarabajo y un topo. Un cuento de Andersen.",
+        "en": "A girl no bigger than a thumb, born from a flower, is carried off by a toad, a beetle and a mole on her journey. A fairy tale by Andersen."
+      },
+      "file": "books/oyayubi-hime.epub",
+      "cover": "covers/oyayubi-hime.png",
+      "bytes": 995539,
+      "sha256": "117bc5481f0fcf8dbbc93828346ff71bd6e8d6d5fc5b85ceaa4bbbabd386eac6",
+      "characters": 13463,
+      "pages": 22,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.413,
+          "N4": 0.559,
+          "N3": 0.706,
+          "N2": 0.751,
+          "N1": 0.916
+        },
+        "words": 2851
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000019/card46318.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2014-04-03"
+    },
+    {
+      "id": "aozora-057471",
+      "slug": "ryutan-dan",
+      "title": "竜潭譚",
+      "titleReading": "りゅうたんだん",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "幼い少年が、ふしぎな女性に導かれて山の中の池へ迷いこみます。泉鏡花が子どもの目で描いた、幻想の物語です。",
+        "es": "Un niño pequeño, guiado por una mujer misteriosa, se pierde hasta una charca en lo hondo de la montaña. Un relato fantástico de Izumi Kyōka visto con ojos de niño.",
+        "en": "A small boy, led by a mysterious woman, wanders to a pond deep in the mountains. A fantasy by Izumi Kyōka seen through a child's eyes."
+      },
+      "file": "books/ryutan-dan.epub",
+      "cover": "covers/ryutan-dan.png",
+      "bytes": 51890,
+      "sha256": "170a6b3f8d58ee3c04901421ea1dd0b212cb1380ab1d3e657c2021fbacbc7d77",
+      "characters": 14798,
+      "pages": 25,
+      "chapters": 11,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.316,
+          "N4": 0.433,
+          "N3": 0.599,
+          "N2": 0.653,
+          "N1": 0.825
+        },
+        "words": 4070
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card57471.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "泉鏡花集成3 / ちくま文庫、筑摩書房 / 1996（平成8）年1月24日",
+        "input": "日根敏晶",
+        "proofreading": "門田裕志"
+      },
+      "updated": "2016-09-09"
+    },
+    {
+      "id": "aozora-002656",
+      "slug": "zashiki-warashi-no-hanashi",
+      "title": "ざしき童子のはなし",
+      "titleReading": "ざしきぼっこのはなし",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "古い家に住むという座敷童子（ざしきわらし）。子どもたちが遊んでいるうちに、いつのまにか一人増えていて…。宮沢賢治の、ごく短い不思議な話です。",
+        "es": "El zashiki-warashi es el niño fantasma que habita las casas antiguas. Los niños juegan y, sin darse cuenta, aparece uno más… Un relato brevísimo y extraño de Miyazawa Kenji.",
+        "en": "The zashiki-warashi is the child spirit said to live in old houses. As the children play, one more joins them without anyone noticing… A very short, strange tale by Miyazawa Kenji."
+      },
+      "file": "books/zashiki-warashi-no-hanashi.epub",
+      "cover": "covers/zashiki-warashi-no-hanashi.png",
+      "bytes": 33559,
+      "sha256": "d4318e5f30ad7490ccce2628344b507c6fbb38b06ab7eea6a599703defc650d9",
+      "characters": 1814,
+      "pages": 3,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.473,
+          "N4": 0.614,
+          "N3": 0.774,
+          "N2": 0.809,
+          "N1": 0.94
+        },
+        "words": 374
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card2656.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "セロ弾きのゴーシュ / 角川文庫、角川書店 / 1957（昭和32）年11月15日、1967（昭和42）年4月5日10版",
+        "input": "土屋隆",
+        "proofreading": "田中敬三"
+      },
+      "updated": "2008-03-25"
+    },
+    {
+      "id": "aozora-000923",
+      "slug": "kikiritsutsuri",
+      "title": "キキリツツリ",
+      "titleReading": "キキリツツリ",
+      "author": "海若藍平",
+      "authorReading": "かいじゃくらんぺい",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "継母にいじめられて泣いてばかりいる露子さんに、ふしぎな出来事が起こります。夢野久作が子どものために書いた、昔話のようなお話です。",
+        "es": "Tsuyuko, maltratada por su madrastra, llora a todas horas hasta que le suceden cosas extraordinarias. Un cuento al estilo de las leyendas antiguas, escrito por Yumeno Kyūsaku para los niños.",
+        "en": "Tsuyuko, mistreated by her stepmother, does nothing but cry until strange things begin to happen to her. A folktale-like story that Yumeno Kyūsaku wrote for children."
+      },
+      "file": "books/kikiritsutsuri.epub",
+      "cover": "covers/kikiritsutsuri.png",
+      "bytes": 28757,
+      "sha256": "f7c2283709b4ebed0c48d190c229b147f2e08e53abf9c19ae738ff4eb017d790",
+      "characters": 3037,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.461,
+          "N4": 0.638,
+          "N3": 0.765,
+          "N2": 0.804,
+          "N1": 0.9
+        },
+        "words": 635
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card923.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作全集1 / ちくま文庫、筑摩書房 / 1992（平成4）年5月22日",
+        "input": "柴田卓治",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2006-05-03"
+    },
+    {
+      "id": "aozora-001528",
+      "slug": "kosui-no-onna",
+      "title": "湖水の女",
+      "titleReading": "こすいのおんな",
+      "author": "鈴木三重吉",
+      "authorReading": "すずきみえきち",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "むかし、山の上のさびしい湖のそばで、ギンという若者が母親と暮らしていました。ある日、湖の水の中から一人の若い女の人が現れます。鈴木三重吉の昔話です。",
+        "es": "Hace mucho tiempo, junto a un lago solitario en lo alto de una montaña, vivía un joven llamado Gin con su madre. Un día, del agua del lago sale una joven. Un cuento tradicional de Suzuki Miekichi.",
+        "en": "Long ago, beside a lonely lake on a mountain, a young man called Gin lived with his mother. One day a young woman appears out of the lake. A folktale by Suzuki Miekichi."
+      },
+      "file": "books/kosui-no-onna.epub",
+      "cover": "covers/kosui-no-onna.png",
+      "bytes": 33159,
+      "sha256": "a7d736eb39f7cbe7d446828b700dbb32d5ad6a7142c8f09cc7cee960e54bd434",
+      "characters": 5379,
+      "pages": 9,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.436,
+          "N4": 0.605,
+          "N3": 0.777,
+          "N2": 0.826,
+          "N1": 0.932
+        },
+        "words": 1102
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000107/card1528.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-06-27"
+      },
+      "credits": {
+        "base": "鈴木三重吉童話集 / 岩波文庫、岩波書店 / 1996（平成8）年11月18日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2006-04-29"
+    },
+    {
+      "id": "aozora-046319",
+      "slug": "hadaka-no-osama",
+      "title": "はだかの王さま",
+      "titleReading": "はだかのおうさま",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "authorReading": "アンデルセンハンス・クリスチャン",
+      "language": "ja",
+      "genres": [
+        "children",
+        "humor",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "新しい服が大好きな王さまのところに、二人の仕立屋がやって来て、「ばかには見えない布」で服を作ると言います。アンデルセンの有名な童話を、やさしい日本語で読めます。",
+        "es": "A un rey al que le encanta estrenar ropa llegan dos sastres que dicen coser con una tela «invisible para los tontos». El famoso cuento de Andersen, en un japonés claro y sencillo.",
+        "en": "Two tailors come to a king who loves new clothes and promise to make an outfit from cloth \"that fools cannot see\". Andersen's famous tale, in clear, simple Japanese."
+      },
+      "file": "books/hadaka-no-osama.epub",
+      "cover": "covers/hadaka-no-osama.png",
+      "bytes": 537134,
+      "sha256": "a1f8375265dedae26c80aa769be040f68acf0c424197873d605bc5c693f7bc00",
+      "characters": 5850,
+      "pages": 10,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.397,
+          "N4": 0.569,
+          "N3": 0.79,
+          "N2": 0.828,
+          "N1": 0.961
+        },
+        "words": 1154
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000019/card46319.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2014-04-03"
+    },
+    {
+      "id": "aozora-046344",
+      "slug": "aschenputtel",
+      "title": "アッシェンプッテル ―灰かぶり姫のものがたり―",
+      "titleReading": "アッシェンプッテル",
+      "author": "ヴィルヘルム・カール・グリム",
+      "authorReading": "グリムヴィルヘルム・カール",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "継母と姉たちにいじめられ、灰のなかで暮らす娘。「灰かぶり」の名で知られる、グリム童話のシンデレラを、やさしい日本語で読めます。",
+        "es": "Una muchacha maltratada por su madrastra y sus hermanastras vive entre las cenizas. La versión de los hermanos Grimm de la Cenicienta, en un japonés claro y sencillo.",
+        "en": "A girl mistreated by her stepmother and stepsisters lives among the ashes. The Brothers Grimm version of Cinderella, in clear, simple Japanese."
+      },
+      "file": "books/aschenputtel.epub",
+      "cover": "covers/aschenputtel.png",
+      "bytes": 42448,
+      "sha256": "7c92483026b847f594df5e7dffb4b90e2167d468a0ba1f9949848a4a93b4ec89",
+      "characters": 8163,
+      "pages": 14,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.485,
+          "N4": 0.583,
+          "N3": 0.775,
+          "N2": 0.809,
+          "N1": 0.912
+        },
+        "words": 1558
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001091/card46344.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2019-01-27"
+    },
+    {
+      "id": "aozora-004719",
+      "slug": "kyonen-no-ki",
+      "title": "去年の木",
+      "titleReading": "きょねんのき",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "一羽の小鳥は、毎日歌を聞かせてくれた木と別れて、遠くへ旅立ちます。春になって戻ってきた小鳥が見たものは。新美南吉の、ごく短い名作です。",
+        "es": "Un pajarillo se despide del árbol que lo escuchaba cantar cada día y emprende un largo viaje. ¿Qué encontrará al volver en primavera? Un breve clásico de Niimi Nankichi.",
+        "en": "A little bird says goodbye to the tree that listened to its songs every day and flies far away. What will it find when it returns in spring? A very short classic by Niimi Nankichi."
+      },
+      "file": "books/kyonen-no-ki.epub",
+      "cover": "covers/kyonen-no-ki.png",
+      "bytes": 24394,
+      "sha256": "80df86b9ab627a6fecf15dae877f173ac6aea480342e9ebb57f28dc20c25e314",
+      "characters": 791,
+      "pages": 1,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.54,
+          "N4": 0.694,
+          "N3": 0.766,
+          "N2": 0.79,
+          "N1": 0.944
+        },
+        "words": 154
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card4719.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "ごんぎつね　新美南吉童話作品集1 / てのり文庫、大日本図書 / 1988（昭和63）年7月8日",
+        "input": "めいこ",
+        "proofreading": "もりみつじゅんじ、鈴木厚司"
+      },
+      "updated": "2003-09-29"
+    },
+    {
+      "id": "aozora-051347",
+      "slug": "bani-bani-kyodai-no-hanashi",
+      "title": "ばにばにきょうだいのはなし",
+      "titleReading": "ばにばにきょうだいのはなし",
+      "author": "ビアトリクス・ポター",
+      "authorReading": "ポタービアトリクス",
+      "language": "ja",
+      "genres": [
+        "children"
+      ],
+      "description": {
+        "ja": "レタスを食べすぎて眠ってしまった子うさぎたちを、マグレガーさんが見つけます。ビアトリクス・ポターの絵本を、やさしい日本語で読めます。",
+        "es": "Los conejitos se duermen tras comer demasiada lechuga y el señor McGregor los encuentra. Un cuento ilustrado de Beatrix Potter en un japonés claro y sencillo.",
+        "en": "The little rabbits fall asleep after eating too much lettuce and Mr McGregor finds them. A Beatrix Potter picture-book tale in clear, simple Japanese."
+      },
+      "file": "books/bani-bani-kyodai-no-hanashi.epub",
+      "cover": "covers/bani-bani-kyodai-no-hanashi.png",
+      "bytes": 32186,
+      "sha256": "0dd0a55d0b1e00ca455d674bcb4eeb5876ce88228b80668c4933d172e3adee02",
+      "characters": 3161,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.415,
+          "N4": 0.523,
+          "N3": 0.726,
+          "N2": 0.771,
+          "N1": 0.87
+        },
+        "words": 626
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001505/card51347.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2014-04-03"
+    },
+    {
+      "id": "aozora-000454",
+      "slug": "dokumomi-no-sukina-shochosan",
+      "title": "毒もみのすきな署長さん",
+      "titleReading": "どくもみのすきなしょちょうさん",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "プハラの国の署長さんは、禁じられた毒もみ漁が大好きでした。宮沢賢治が、ユーモアと皮肉をまぜて描いた、どこか怖い童話です。",
+        "es": "El jefe de policía del país de Puhara adora la pesca con veneno, que está prohibida. Un cuento de Miyazawa Kenji con humor, ironía y un punto inquietante.",
+        "en": "The police chief of the land of Puhara loves poison fishing, which is forbidden. A fairy tale by Miyazawa Kenji that mixes humour and irony, with something unsettling about it."
+      },
+      "file": "books/dokumomi-no-sukina-shochosan.epub",
+      "cover": "covers/dokumomi-no-sukina-shochosan.png",
+      "bytes": 30845,
+      "sha256": "38f7c8dc40b5a9721e54812d611077b18db694f2744e4e0eaf0ce1f098fd89a7",
+      "characters": 3008,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.381,
+          "N4": 0.518,
+          "N3": 0.705,
+          "N2": 0.783,
+          "N1": 0.924
+        },
+        "words": 637
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card454.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "ちくま日本文学全集　宮沢賢治 / 筑摩書房 / 1991（平成3）年3月20日",
+        "input": "古村充",
+        "proofreading": "野口英司"
+      },
+      "updated": "2011-02-15"
+    },
+    {
+      "id": "aozora-000941",
+      "slug": "wakagaeri-gusuri",
+      "title": "若返り薬",
+      "titleReading": "わかがえりぐすり",
+      "author": "海若藍平",
+      "authorReading": "かいじゃくらんぺい",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "空気銃をもらった太郎さんは、毎日雀を撃ちに行きますが、一羽も当たりません。夢野久作が書いた、不思議なお話です。",
+        "es": "Taro recibe una escopeta de aire comprimido y sale cada día a cazar gorriones, pero no acierta ninguno. Un cuento extraño de Yumeno Kyūsaku.",
+        "en": "Taro is given an air rifle and goes out each day to shoot sparrows, but never hits one. A strange tale by Yumeno Kyūsaku."
+      },
+      "file": "books/wakagaeri-gusuri.epub",
+      "cover": "covers/wakagaeri-gusuri.png",
+      "bytes": 30805,
+      "sha256": "074d885e2bfcbab11112561a241009c9a5d09fa17cf5069e4484f143b0918232",
+      "characters": 2994,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.353,
+          "N4": 0.552,
+          "N3": 0.739,
+          "N2": 0.784,
+          "N1": 0.928
+        },
+        "words": 598
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card941.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作全集1 / ちくま文庫、筑摩書房 / 1992（平成4）年5月22日",
+        "input": "柴田卓治",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2006-05-03"
+    },
+    {
+      "id": "aozora-003313",
+      "slug": "o-otoko-no-hanashi",
+      "title": "巨男の話",
+      "titleReading": "おおおとこのはなし",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "horror",
+        "children"
+      ],
+      "description": {
+        "ja": "恐ろしい魔女のお母さんと、森の中で暮らす巨人の子。月の夜に起きた出来事を、新美南吉が昔話のように語ります。",
+        "es": "Un gigante vive en el bosque con su madre, una bruja temible. Niimi Nankichi cuenta, como un cuento antiguo, lo que ocurrió una noche de luna.",
+        "en": "A giant lives in a forest with his mother, a fearsome witch. Niimi Nankichi tells, like an old folktale, what happened on one moonlit night."
+      },
+      "file": "books/o-otoko-no-hanashi.epub",
+      "cover": "covers/o-otoko-no-hanashi.png",
+      "bytes": 28813,
+      "sha256": "417bca71ec856330c003eaf0db3f2e1c5e59b9f334be13b0297bda81d697f31a",
+      "characters": 3797,
+      "pages": 6,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.46,
+          "N4": 0.599,
+          "N3": 0.764,
+          "N2": 0.796,
+          "N1": 0.934
+        },
+        "words": 856
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card3313.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "ごんぎつね　新美南吉童話作品集1 / てのり文庫、大日本図書 / 1988（昭和63）年7月8日",
+        "input": "もりみつじゅんじ",
+        "proofreading": "鈴木厚司"
+      },
+      "updated": "2003-05-18"
+    },
+    {
+      "id": "aozora-001938",
+      "slug": "matsuri-no-ban",
+      "title": "祭の晩",
+      "titleReading": "まつりのばん",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "山の神さまの秋祭りの晩、亮二は見世物小屋「空気獣」を見に出かけます。宮沢賢治が描く、祭りと山の神の不思議な一夜です。",
+        "es": "En la noche de la fiesta de otoño del dios de la montaña, Ryōji va a ver la atracción llamada «la bestia de aire». Una noche extraña de fiesta y de dios de la montaña, por Miyazawa Kenji.",
+        "en": "On the night of the mountain god's autumn festival, Ryōji goes to see a sideshow called the \"air beast\". A strange festival night, with the mountain god, by Miyazawa Kenji."
+      },
+      "file": "books/matsuri-no-ban.epub",
+      "cover": "covers/matsuri-no-ban.png",
+      "bytes": 30716,
+      "sha256": "63f1cd0c64f7d61cc03611eadb4df820e7d8b600d6cf36cec5219260c70d6a25",
+      "characters": 3838,
+      "pages": 6,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.383,
+          "N4": 0.536,
+          "N3": 0.697,
+          "N2": 0.741,
+          "N1": 0.929
+        },
+        "words": 797
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1938.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "風の又三郎 / 角川文庫、角川書店 / 1988（昭和63）年12月10日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-06-15"
+    },
+    {
+      "id": "aozora-046606",
+      "slug": "kino-ii-kazandan",
+      "title": "気のいい火山弾",
+      "titleReading": "きのいいかざんだん",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "死火山のふもとに、「ベゴ」とあだ名された大きな黒い石が座っていました。ほかの石たちにからかわれても、ベゴは気のいい石です。宮沢賢治の、やさしい童話です。",
+        "es": "Al pie de un volcán apagado hay una gran piedra negra apodada «Bego». Aunque las otras piedras se burlen, Bego es de buen carácter. Un cuento tierno de Miyazawa Kenji.",
+        "en": "At the foot of an extinct volcano sits a big black stone nicknamed \"Bego\". The other stones tease him, but Bego is good-natured. A gentle fairy tale by Miyazawa Kenji."
+      },
+      "file": "books/kino-ii-kazandan.epub",
+      "cover": "covers/kino-ii-kazandan.png",
+      "bytes": 34261,
+      "sha256": "8b05285c5b0dc2554e00c74a8e03f5a16784c084b1ce1dbe80191101c8f78c15",
+      "characters": 4016,
+      "pages": 7,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.433,
+          "N4": 0.595,
+          "N3": 0.723,
+          "N2": 0.785,
+          "N1": 0.908
+        },
+        "words": 746
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card46606.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "蒋龍",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2008-03-04"
+    },
+    {
+      "id": "aozora-001949",
+      "slug": "tse-nezumi",
+      "title": "ツェねずみ",
+      "titleReading": "ツェねずみ",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "ある古い家の天井裏に住むネズミのツェは、イタチから金米糖の話を聞いて、思わぬことになります。宮沢賢治が書いた、動物たちの小さな物語です。",
+        "es": "Tse, un ratón que vive en el desván de una casa vieja, oye hablar de unos caramelos a una comadreja y acaba metido en un buen lío. Un pequeño cuento de animales de Miyazawa Kenji.",
+        "en": "Tse, a mouse living in the attic of an old house, hears about some sweets from a weasel and ends up in serious trouble. A small animal tale by Miyazawa Kenji."
+      },
+      "file": "books/tse-nezumi.epub",
+      "cover": "covers/tse-nezumi.png",
+      "bytes": 32826,
+      "sha256": "654bfdbee47d847c8cdac9339e0e3e7f618b26af25d4a6f308cb1788a3e17c76",
+      "characters": 4851,
+      "pages": 8,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.418,
+          "N4": 0.577,
+          "N3": 0.718,
+          "N2": 0.789,
+          "N1": 0.916
+        },
+        "words": 972
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1949.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "童話集　銀河鉄道の夜　他十四編 / 岩波文庫、岩波書店 / 1951（昭和26）年10月25日、1966（昭和41）年7月16日第18刷改版",
+        "input": "のぶ",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-05-12"
+    },
+    {
+      "id": "aozora-043753",
+      "slug": "ookami-mori-to-zaru-mori-nusuto-mori",
+      "title": "狼森と笊森、盗森",
+      "titleReading": "おいのもりとざるもり、ぬすともり",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "野原に移り住んだ開拓の人びとが、森に呼びかけると、森が答えます。子どもたちがいなくなって…。宮沢賢治が描く、森の精と人間の昔ばなしです。",
+        "es": "Unos colonos que se instalan en el campo llaman a los bosques, y los bosques responden. Hasta que los niños desaparecen… Una leyenda de Miyazawa Kenji sobre los espíritus del bosque y las personas.",
+        "en": "Settlers who move onto the plain call out to the forests, and the forests answer. Then the children go missing… A legend by Miyazawa Kenji about forest spirits and people."
+      },
+      "file": "books/ookami-mori-to-zaru-mori-nusuto-mori.epub",
+      "cover": "covers/ookami-mori-to-zaru-mori-nusuto-mori.png",
+      "bytes": 39824,
+      "sha256": "5e7e30071cc8ca06afa07a3890673477a155b998ea65b87ad85e0213ce520fa2",
+      "characters": 5508,
+      "pages": 9,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.429,
+          "N4": 0.585,
+          "N3": 0.726,
+          "N2": 0.784,
+          "N1": 0.924
+        },
+        "words": 1185
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43753.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-01-26"
+    },
+    {
+      "id": "aozora-001126",
+      "slug": "mittsu-no-takara",
+      "title": "三つの宝",
+      "titleReading": "みっつのたから",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "森の中、三人の盗人が宝を争っています。千里を飛ぶ長靴、姿を隠すマント、鉄も切れる剣。芥川龍之介が、昔話のような戯曲にしました。",
+        "es": "En un bosque, tres ladrones se disputan unos tesoros: unas botas que recorren mil leguas de un salto, una capa que vuelve invisible y una espada que corta el hierro. Akutagawa lo convierte en una obra de teatro con aire de leyenda.",
+        "en": "In a forest three thieves quarrel over treasures: boots that cover a thousand leagues in one leap, a cloak that hides the wearer and a sword that cuts iron. Akutagawa turns it into a folktale-like play."
+      },
+      "file": "books/mittsu-no-takara.epub",
+      "cover": "covers/mittsu-no-takara.png",
+      "bytes": 32286,
+      "sha256": "83b8e45792ccef1ec9e423c04237261af8c4ec1304e961eaf3e18c1509b4b565",
+      "characters": 6935,
+      "pages": 12,
+      "chapters": 3,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.323,
+          "N4": 0.465,
+          "N3": 0.687,
+          "N2": 0.745,
+          "N1": 0.913
+        },
+        "words": 1389
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card1126.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集5 / ちくま文庫、筑摩書房 / 1987（昭和62）年2月24日",
+        "input": "j.utiyama",
+        "proofreading": "多羅尾伴内"
+      },
+      "updated": "2010-11-04"
+    },
+    {
+      "id": "aozora-001939",
+      "slug": "namekoyama-no-kuma",
+      "title": "なめとこ山の熊",
+      "titleReading": "なめとこやまのくま",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "drama",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "山の中で暮らす猟師の小十郎と、熊たち。生きるために命をいただくことを、宮沢賢治が静かに見つめた物語です。",
+        "es": "El cazador Kojūrō vive en la montaña, entre osos. Miyazawa Kenji mira con calma lo que significa quitar una vida para vivir.",
+        "en": "The hunter Kojūrō lives in the mountains among bears. Miyazawa Kenji looks calmly at what it means to take a life in order to live."
+      },
+      "file": "books/namekoyama-no-kuma.epub",
+      "cover": "covers/namekoyama-no-kuma.png",
+      "bytes": 38428,
+      "sha256": "94bbc6c2dac5b3febd8b9f39c1a0ae13c33b4481aeb93ae806baf5575a9b5989",
+      "characters": 7265,
+      "pages": 12,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.412,
+          "N4": 0.536,
+          "N3": 0.692,
+          "N2": 0.747,
+          "N1": 0.891
+        },
+        "words": 1732
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1939.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "風の又三郎 / 角川文庫、角川書店 / 1988（昭和63）年12月10日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-06-15"
+    },
+    {
+      "id": "aozora-043759",
+      "slug": "kashiwabayashi-no-yoru",
+      "title": "かしわばやしの夜",
+      "titleReading": "かしわばやしのよる",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children",
+        "humor"
+      ],
+      "description": {
+        "ja": "柏の木大王に招かれた清作は、夜の柏林で、木々や月と一緒に歌を歌い、踊ります。宮沢賢治の、愉快で不思議な一夜の物語です。",
+        "es": "Invitado por el rey de los robles, Seisaku canta y baila de noche en el robledal con los árboles y la luna. Una noche alegre y extraña de Miyazawa Kenji.",
+        "en": "Invited by the king of the oaks, Seisaku sings and dances at night in the oak grove with the trees and the moon. A merry, strange night by Miyazawa Kenji."
+      },
+      "file": "books/kashiwabayashi-no-yoru.epub",
+      "cover": "covers/kashiwabayashi-no-yoru.png",
+      "bytes": 40638,
+      "sha256": "89bbec7a2d9d77d1957308f0d3fc8ec716451bcd6adbfaa3117c03fd0af78d75",
+      "characters": 7601,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.407,
+          "N4": 0.533,
+          "N3": 0.704,
+          "N2": 0.745,
+          "N1": 0.896
+        },
+        "words": 1590
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43759.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-02-21"
+    },
+    {
+      "id": "aozora-001919",
+      "slug": "kiiro-no-tomato",
+      "title": "黄いろのトマト",
+      "titleReading": "きいろのトマト",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "博物館のガラス戸棚に、四羽の蜂雀の剥製があります。語り手は、そのうちの一羽を見て、子どものころの不思議な思い出を語ります。宮沢賢治の短い物語です。",
+        "es": "En una vitrina del museo hay cuatro colibríes disecados. Al mirar uno de ellos, el narrador evoca un extraño recuerdo de su infancia. Un relato breve de Miyazawa Kenji.",
+        "en": "In a glass case at the museum stand four stuffed hummingbirds. Looking at one of them, the narrator recalls a strange memory from childhood. A short tale by Miyazawa Kenji."
+      },
+      "file": "books/kiiro-no-tomato.epub",
+      "cover": "covers/kiiro-no-tomato.png",
+      "bytes": 36035,
+      "sha256": "189980f94bfe63ad1aed5ef6868f737f131ecb8b61703eaca8502cc74244cd8c",
+      "characters": 7847,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.421,
+          "N4": 0.582,
+          "N3": 0.735,
+          "N2": 0.78,
+          "N1": 0.911
+        },
+        "words": 1683
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1919.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "新編　銀河鉄道の夜 / 新潮文庫、新潮社 / 1989（平成元）年6月15日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-03-17"
+    },
+    {
+      "id": "aozora-000461",
+      "slug": "gan-no-doji",
+      "title": "雁の童子",
+      "titleReading": "かりのどうじ",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "砂漠の泉で、語り手は一人の巡礼のおじいさんと出会います。おじいさんが語る、雁の童子の不思議な話。宮沢賢治が描く、仏教の世界をうつした物語です。",
+        "es": "En una fuente del desierto, el narrador se encuentra con un anciano peregrino, que le cuenta la extraña historia del niño de los gansos. Un relato de Miyazawa Kenji que refleja el mundo budista.",
+        "en": "At a desert spring, the narrator meets an elderly pilgrim, who tells him the strange story of the wild-goose boy. A tale by Miyazawa Kenji that reflects the Buddhist world."
+      },
+      "file": "books/gan-no-doji.epub",
+      "cover": "covers/gan-no-doji.png",
+      "bytes": 34417,
+      "sha256": "63b6fbe79f983476401580887b72333b8a2f806c760c43ee4b5dc77fe62e49b9",
+      "characters": 7989,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.368,
+          "N4": 0.545,
+          "N3": 0.702,
+          "N2": 0.746,
+          "N1": 0.879
+        },
+        "words": 1766
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card461.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "インドラの網 / 角川文庫、角川書店 / 1996（平成8）年6月20日再版",
+        "input": "浜野智",
+        "proofreading": "浜野智"
+      },
+      "updated": "2023-07-08"
+    },
+    {
+      "id": "aozora-046348",
+      "slug": "cinderella",
+      "title": "シンデレラ ―ガラスのくつのものがたり―",
+      "titleReading": "シンデレラ",
+      "author": "アンドルー・ラング",
+      "authorReading": "ラングアンドルー",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "ガラスのくつのものがたり。ラングの「妖精の本」に収められた、シンデレラのお話を、やさしい日本語で読めます。",
+        "es": "La historia del zapato de cristal. El cuento de la Cenicienta de uno de los libros de hadas de Andrew Lang, en un japonés claro y sencillo.",
+        "en": "The story of the glass slipper. Cinderella as told in one of Andrew Lang's fairy books, in clear, simple Japanese."
+      },
+      "file": "books/cinderella.epub",
+      "cover": "covers/cinderella.png",
+      "bytes": 38609,
+      "sha256": "9a64a6a7dc098f9ec5b526b44dccb191b6677ced62ae075e593eb2a95a2ef2df",
+      "characters": 8293,
+      "pages": 14,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.441,
+          "N4": 0.571,
+          "N3": 0.734,
+          "N2": 0.779,
+          "N1": 0.921
+        },
+        "words": 1412
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001239/card46348.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2014-04-03"
+    },
+    {
+      "id": "aozora-000638",
+      "slug": "ushi-o-tsunaida-tsubaki-no-ki",
+      "title": "牛をつないだ椿の木",
+      "titleReading": "うしをつないだつばきのき",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "drama",
+        "children"
+      ],
+      "description": {
+        "ja": "山の中の道ばたの椿の木に、牛曳きの利助さんは牛をつなぎます。人力曳きの海蔵さんとの出会いから始まる、新美南吉のあたたかい物語です。",
+        "es": "Risuke, un boyero, ata su buey a un joven camelio junto al camino de la montaña. Un relato cálido de Niimi Nankichi que empieza con su encuentro con Kaizō, un tirador de rickshaw.",
+        "en": "Risuke, an ox driver, ties his ox to a young camellia tree beside a mountain road. A warm story by Niimi Nankichi that begins with his meeting with Kaizō, a rickshaw puller."
+      },
+      "file": "books/ushi-o-tsunaida-tsubaki-no-ki.epub",
+      "cover": "covers/ushi-o-tsunaida-tsubaki-no-ki.png",
+      "bytes": 40858,
+      "sha256": "65c386583d18312b631259682222abafaa9ba97d94ebdd80828936fde0058676",
+      "characters": 8970,
+      "pages": 15,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.455,
+          "N4": 0.585,
+          "N3": 0.735,
+          "N2": 0.797,
+          "N1": 0.926
+        },
+        "words": 1828
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card638.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "少年少女日本文学館第十五巻　ごんぎつね・夕鶴 / 講談社 / 1986（昭和61）年4月18日",
+        "input": "田浦亜矢子",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2009-01-18"
+    },
+    {
+      "id": "aozora-004994",
+      "slug": "tsubame-to-oji",
+      "title": "燕と王子",
+      "titleReading": "つばめとおうじ",
+      "author": "有島武郎",
+      "authorReading": "ありしまたけお",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "街の高い塔の上に立つ、金色の王子の像。その肩に、一羽のツバメが止まります。ワイルドの「幸福な王子」を、有島武郎が日本語で語りなおしました。",
+        "es": "Sobre una columna alta de la ciudad se alza la estatua dorada de un príncipe, y una golondrina se posa en su hombro. Arishima Takeo vuelve a contar en japonés «El príncipe feliz» de Wilde.",
+        "en": "On a tall column in the city stands the golden statue of a prince, and a swallow lands on its shoulder. Arishima Takeo retells Wilde's \"The Happy Prince\" in Japanese."
+      },
+      "file": "books/tsubame-to-oji.epub",
+      "cover": "covers/tsubame-to-oji.png",
+      "bytes": 34156,
+      "sha256": "5667000d26a392ab107212476344437aa368f9f0bb0f59b39a83d15800850e61",
+      "characters": 9293,
+      "pages": 15,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.391,
+          "N4": 0.532,
+          "N3": 0.711,
+          "N2": 0.772,
+          "N1": 0.92
+        },
+        "words": 2103
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000025/card4994.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1923-06-09"
+      },
+      "credits": {
+        "base": "一房の葡萄 / 角川文庫、角川書店 / 1952（昭和27）年 3月10日",
+        "input": "土屋隆",
+        "proofreading": "鈴木厚司"
+      },
+      "updated": "2003-06-26"
+    },
+    {
+      "id": "aozora-001918",
+      "slug": "cairo-danchou",
+      "title": "カイロ団長",
+      "titleReading": "カイロだんちょう",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "humor",
+        "children"
+      ],
+      "description": {
+        "ja": "三十匹のあまがえるを、うまいことを言ってこき使う、とのさまがえるの「カイロ団長」。宮沢賢治が描く、ずるさと因果応報の物語です。",
+        "es": "El «capitán Cairo», una rana toro, engaña con buenas palabras a treinta ranitas para explotarlas. Una historia de Miyazawa Kenji sobre la astucia y la justicia poética.",
+        "en": "\"Captain Cairo\", a bullfrog, smooth-talks thirty tree frogs into working for him. A story by Miyazawa Kenji about cunning and poetic justice."
+      },
+      "file": "books/cairo-danchou.epub",
+      "cover": "covers/cairo-danchou.png",
+      "bytes": 33560,
+      "sha256": "60e731181ecab64bd382c690295fa387631c855a26a959713be30a408d9b05df",
+      "characters": 9330,
+      "pages": 16,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.375,
+          "N4": 0.538,
+          "N3": 0.699,
+          "N2": 0.746,
+          "N1": 0.891
+        },
+        "words": 1750
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1918.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "新編　銀河鉄道の夜 / 新潮文庫、新潮社 / 1989（平成元）年6月15日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-05-08"
+    },
+    {
+      "id": "aozora-000459",
+      "slug": "futago-no-hoshi",
+      "title": "双子の星",
+      "titleReading": "ふたごのほし",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "空の小さな二つのお宮に住む、星のふたご、チュンセ童子とポウセ童子。宮沢賢治が書いた、星空の美しい童話です。",
+        "es": "En dos pequeños templos del cielo viven las estrellas gemelas Chunse y Powse. Un hermoso cuento de cielo estrellado de Miyazawa Kenji.",
+        "en": "In two little shrines in the sky live the twin stars, Chunse and Powse. A lovely starry-sky fairy tale by Miyazawa Kenji."
+      },
+      "file": "books/futago-no-hoshi.epub",
+      "cover": "covers/futago-no-hoshi.png",
+      "bytes": 38255,
+      "sha256": "80211c5bc67444de9db385680a0383a80c5fa344134ef7c2447522a9d2c40101",
+      "characters": 10869,
+      "pages": 18,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.387,
+          "N4": 0.546,
+          "N3": 0.689,
+          "N2": 0.74,
+          "N1": 0.882
+        },
+        "words": 2423
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card459.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "新編　銀河鉄道の夜 / 新潮文庫、新潮社 / 1989（平成元）年6月15日",
+        "input": "野口英司",
+        "proofreading": ""
+      },
+      "updated": "2004-03-26"
+    },
+    {
+      "id": "aozora-000549",
+      "slug": "bukubuku-nagaga-hi-no-me-kozo",
+      "title": "ぶくぶく長々火の目小僧",
+      "titleReading": "ぶくぶくながながひのめこぞう",
+      "author": "鈴木三重吉",
+      "authorReading": "すずきみえきち",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "鼠が靴をはいて歩き、猫を食べていた大昔のお話。鈴木三重吉が、昔話のようなやさしい語り口で書いた童話です。",
+        "es": "Una historia de tiempos remotos, en que los ratones andaban calzados y se comían a los gatos. Un cuento de Suzuki Miekichi con voz de leyenda antigua.",
+        "en": "A tale of ages long ago, when mice walked about in shoes and ate cats. A fairy tale by Suzuki Miekichi in the gentle voice of an old legend."
+      },
+      "file": "books/bukubuku-nagaga-hi-no-me-kozo.epub",
+      "cover": "covers/bukubuku-nagaga-hi-no-me-kozo.png",
+      "bytes": 36981,
+      "sha256": "a1bbbc035f1cfebe5efabcebd3f89f43762c5cac23dcde3ee63266ed7377f393",
+      "characters": 11564,
+      "pages": 19,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.386,
+          "N4": 0.539,
+          "N3": 0.702,
+          "N2": 0.764,
+          "N1": 0.9
+        },
+        "words": 2344
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000107/card549.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-06-27"
+      },
+      "credits": {
+        "base": "鈴木三重吉童話集 / 岩波文庫、岩波書店 / 1996（平成8）年11月18日",
+        "input": "今泉るり",
+        "proofreading": "Juki"
+      },
+      "updated": "2005-12-27"
+    },
+    {
+      "id": "aozora-000925",
+      "slug": "lulu-to-mimi",
+      "title": "ルルとミミ",
+      "titleReading": "ルルとミミ",
+      "author": "とだけん",
+      "authorReading": "とだけん",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "むかし、水晶のように透きとおった水をたたえた湖のほとりに、親切な人びとの村がありました。ところが、湖の水が黒くにごりはじめて…。夢野久作の童話です。",
+        "es": "Hace mucho había una aldea de gente amable a orillas de un lago de agua tan clara como el cristal. Pero un día el agua del lago empieza a enturbiarse… Un cuento de Yumeno Kyūsaku.",
+        "en": "Long ago there was a village of kind people by a lake whose water was as clear as crystal. But then the lake began to turn dark… A fairy tale by Yumeno Kyūsaku."
+      },
+      "file": "books/lulu-to-mimi.epub",
+      "cover": "covers/lulu-to-mimi.png",
+      "bytes": 37589,
+      "sha256": "fa1b0d5cde8d4913f4f3618580fc6954207370c3e46123457feabf0fc32c80bf",
+      "characters": 11460,
+      "pages": 19,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.372,
+          "N4": 0.553,
+          "N3": 0.735,
+          "N2": 0.794,
+          "N1": 0.917
+        },
+        "words": 2450
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card925.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作全集1 / ちくま文庫、筑摩書房 / 1992（平成4）年5月22日",
+        "input": "柴田卓治",
+        "proofreading": "江村秀之"
+      },
+      "updated": "2006-05-04"
+    },
+    {
+      "id": "aozora-000635",
+      "slug": "ojiisan-no-lamp",
+      "title": "おじいさんのランプ",
+      "titleReading": "おじいさんのランプ",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "historical",
+        "drama"
+      ],
+      "description": {
+        "ja": "かくれんぼで倉から古いランプを見つけた東一君に、おじいさんが、若いころのランプ屋の話をします。電灯が来て時代が変わるころを描く、新美南吉の名作です。",
+        "es": "Jugando al escondite, Tōichi encuentra una lámpara antigua en el almacén, y su abuelo le cuenta su juventud como vendedor de lámparas. Un clásico de Niimi Nankichi sobre el cambio de época que trajo la luz eléctrica.",
+        "en": "Playing hide-and-seek, Tōichi finds an old lamp in the storehouse, and his grandfather tells him about his youth as a lamp seller. A classic by Niimi Nankichi about the change of era that electric light brought."
+      },
+      "file": "books/ojiisan-no-lamp.epub",
+      "cover": "covers/ojiisan-no-lamp.png",
+      "bytes": 39259,
+      "sha256": "3d7f9008acce3871edcad89a2c0cf5a5ae9ebd67f9bd0e31e2d133eda3ee9b13",
+      "characters": 11842,
+      "pages": 20,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.415,
+          "N4": 0.556,
+          "N3": 0.704,
+          "N2": 0.757,
+          "N1": 0.898
+        },
+        "words": 2424
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card635.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "新美南吉童話集 / 岩波文庫、岩波書店 / 1996（平成8）年7月16日",
+        "input": "浜野智",
+        "proofreading": "浜野智"
+      },
+      "updated": "2011-04-27"
+    },
+    {
+      "id": "aozora-001754",
+      "slug": "wataro-san-to-ushi",
+      "title": "和太郎さんと牛",
+      "titleReading": "わたろうさんとうし",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "humor",
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "よぼよぼの年とった牛を大切にする和太郎さんは、みんなに笑われても気にしません。新美南吉が、笑いと少しの涙で描いた物語です。",
+        "es": "Wataro cuida con cariño a su buey, flaco y viejo, aunque todos se rían de él. Niimi Nankichi lo cuenta con humor y una pizca de lágrimas.",
+        "en": "Wataro treasures his thin, old ox, however much people laugh at him. Niimi Nankichi tells it with humour and a touch of tears."
+      },
+      "file": "books/wataro-san-to-ushi.epub",
+      "cover": "covers/wataro-san-to-ushi.png",
+      "bytes": 45975,
+      "sha256": "60d95c910a0406b445af31307d29763480e6dd1f7bb147f1954c352a65a96f99",
+      "characters": 13840,
+      "pages": 23,
+      "chapters": 6,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.421,
+          "N4": 0.559,
+          "N3": 0.734,
+          "N2": 0.785,
+          "N1": 0.915
+        },
+        "words": 2477
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card1754.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "牛をつないだ椿の木 / 角川文庫、角川書店 / 1968（昭和43）年2月20日",
+        "input": "山田芳美",
+        "proofreading": "林幸雄"
+      },
+      "updated": "2014-06-27"
+    },
+    {
+      "id": "aozora-001942",
+      "slug": "kai-no-hi",
+      "title": "貝の火",
+      "titleReading": "かいのひ",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children",
+        "drama"
+      ],
+      "description": {
+        "ja": "子うさぎのホモイは、助けた小鳥のお礼に、美しい「貝の火」をもらいます。宝石をもらってから、ホモイはどう変わるのでしょうか。宮沢賢治の童話です。",
+        "es": "El conejito Homoi recibe como agradecimiento por salvar a un pajarillo una hermosa joya, el «fuego de la concha». ¿Cómo cambia Homoi después? Un cuento de Miyazawa Kenji.",
+        "en": "The young rabbit Homoi is given a beautiful jewel, the \"fire of the shell\", as thanks for saving a little bird. How does Homoi change afterwards? A fairy tale by Miyazawa Kenji."
+      },
+      "file": "books/kai-no-hi.epub",
+      "cover": "covers/kai-no-hi.png",
+      "bytes": 41631,
+      "sha256": "3d87c1914952d8412d1a99bb46bb52406f81d19803f961f62e5dabafe5cefbd3",
+      "characters": 14296,
+      "pages": 24,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.405,
+          "N4": 0.574,
+          "N3": 0.735,
+          "N2": 0.782,
+          "N1": 0.899
+        },
+        "words": 3004
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card1942.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "銀河鉄道の夜 / 角川文庫、角川書店 / 1969（昭和44）年7月20日",
+        "input": "ゆかこ",
+        "proofreading": "林幸雄"
+      },
+      "updated": "2011-03-25"
+    },
+    {
+      "id": "aozora-046817",
+      "slug": "ano-toki-no-oji-kun",
+      "title": "あのときの王子くん",
+      "titleReading": "あのときのおうじくん",
+      "author": "アントワーヌ・ド・サン＝テグジュペリ",
+      "authorReading": "サン＝テグジュペリアントワーヌ・ド",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "scifi",
+        "children"
+      ],
+      "description": {
+        "ja": "砂漠に不時着した飛行士が出会ったのは、小さな星から来た男の子でした。「星の王子さま」を、大久保ゆうのやさしい訳で、クリエイティブ・コモンズのもとで読めます。",
+        "es": "Un aviador aterriza de emergencia en el desierto y se encuentra con un niño llegado de un asteroide diminuto. «El principito», en la traducción sencilla de Ōkubo Yū, con licencia Creative Commons.",
+        "en": "A pilot makes a forced landing in the desert and meets a boy from a tiny planet. \"The Little Prince\", in Ōkubo Yū's easy translation, under a Creative Commons licence."
+      },
+      "file": "books/ano-toki-no-oji-kun.epub",
+      "cover": "covers/ano-toki-no-oji-kun.png",
+      "bytes": 100868,
+      "sha256": "f110f744941b00cd2738704aea37327f0e6af8fb81f875273fba1364faebc2bf",
+      "characters": 52326,
+      "pages": 87,
+      "chapters": 30,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.406,
+          "N4": 0.575,
+          "N3": 0.736,
+          "N2": 0.774,
+          "N1": 0.902
+        },
+        "words": 9354
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001265/card46817.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2016-06-20"
+    },
+    {
+      "id": "aozora-000194",
+      "slug": "matchi-uri-no-shojo",
+      "title": "マッチ売りの少女",
+      "titleReading": "マッチうりのしょうじょ",
+      "author": "ハンス・クリスチャン・アンデルセン",
+      "authorReading": "アンデルセンハンス・クリスチャン",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy",
+        "drama"
+      ],
+      "description": {
+        "ja": "大みそかの寒い夜、マッチを売る少女が、一本ずつ火をともします。アンデルセンの有名な童話を、やさしい日本語で読めます。",
+        "es": "En la fría noche de fin de año, una niña que vende cerillas va encendiendo una a una. El famoso cuento de Andersen, en un japonés claro y sencillo.",
+        "en": "On a cold New Year's Eve a girl who sells matches strikes them one by one. Andersen's famous tale, in clear, simple Japanese."
+      },
+      "file": "books/matchi-uri-no-shojo.epub",
+      "cover": "covers/matchi-uri-no-shojo.png",
+      "bytes": 37549,
+      "sha256": "d6009b90161441ec80f4edd4367ef88e339effc984e39671b7e513b82cd9246b",
+      "characters": 2894,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.435,
+          "N4": 0.529,
+          "N3": 0.681,
+          "N2": 0.739,
+          "N1": 0.906
+        },
+        "words": 582
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000019/card194.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2014-04-03"
+    },
+    {
+      "id": "aozora-043756",
+      "slug": "tsukiyo-no-denshinbashira",
+      "title": "月夜のでんしんばしら",
+      "titleReading": "つきよのでんしんばしら",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "月の夜、線路ばたの電信柱たちが、軍隊のように歩きだします。それを見てしまった少年は…。宮沢賢治の、ふしぎでユーモラスな一夜です。",
+        "es": "En una noche de luna, los postes del telégrafo junto a la vía echan a andar como un ejército. Un niño los ve… Una noche extraña y divertida de Miyazawa Kenji.",
+        "en": "On a moonlit night the telegraph poles beside the railway start marching like an army. A boy sees them… A strange and funny night by Miyazawa Kenji."
+      },
+      "file": "books/tsukiyo-no-denshinbashira.epub",
+      "cover": "covers/tsukiyo-no-denshinbashira.png",
+      "bytes": 34991,
+      "sha256": "78e5fbe7a7986fd19d8b32c4a62b479dc1518e1bb45e72a5bc70a9e78dd85d14",
+      "characters": 4254,
+      "pages": 7,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.389,
+          "N4": 0.523,
+          "N3": 0.68,
+          "N2": 0.718,
+          "N1": 0.883
+        },
+        "words": 855
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card43756.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "注文の多い料理店 / 新潮文庫、新潮社 / 1990（平成2）年5月25日",
+        "input": "土屋隆",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2005-01-26"
+    },
+    {
+      "id": "aozora-059404",
+      "slug": "kobito-no-kutsuya-san",
+      "title": "小人のくつ屋さん",
+      "titleReading": "こびとのくつやさん",
+      "author": "ヴィルヘルム・カール・グリム",
+      "authorReading": "グリムヴィルヘルム・カール",
+      "language": "ja",
+      "genres": [
+        "children",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "貧しい靴屋さんが、夜のうちに仕上がっている靴を見つけます。作ったのはだれなのでしょう。グリム童話の短い一編を、やさしい日本語で読めます。",
+        "es": "Un pobre zapatero encuentra por la mañana los zapatos terminados durante la noche. ¿Quién los ha hecho? Un cuento breve de los hermanos Grimm, en un japonés claro y sencillo.",
+        "en": "A poor shoemaker finds shoes finished overnight. Who made them? A short Brothers Grimm tale, in clear, simple Japanese."
+      },
+      "file": "books/kobito-no-kutsuya-san.epub",
+      "cover": "covers/kobito-no-kutsuya-san.png",
+      "bytes": 267359,
+      "sha256": "a0d8bdf231dc488e420ba4c5d2d6feb804b6f8f56a557c59a1f2d90272f9c073",
+      "characters": 1560,
+      "pages": 3,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.395,
+          "N4": 0.516,
+          "N3": 0.648,
+          "N2": 0.719,
+          "N1": 0.879
+        },
+        "words": 312
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001091/card59404.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "大久保ゆう",
+        "credit": "翻訳: 大久保ゆう"
+      },
+      "credits": {
+        "base": "",
+        "input": "大久保ゆう",
+        "proofreading": ""
+      },
+      "updated": "2018-12-24"
+    },
+    {
+      "id": "aozora-000632",
+      "slug": "kitsune",
+      "title": "狐",
+      "titleReading": "きつね",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "月夜の道を歩く七人の子どもたち。自分たちの短い影を見て笑い合います。狐をめぐる、新美南吉の短い物語です。",
+        "es": "Siete niños caminan bajo la luna y se ríen al ver sus sombras cortas. Un breve relato de Niimi Nankichi en torno a un zorro.",
+        "en": "Seven children walk under the moon and laugh at their short shadows. A brief tale by Niimi Nankichi about a fox."
+      },
+      "file": "books/kitsune.epub",
+      "cover": "covers/kitsune.png",
+      "bytes": 26046,
+      "sha256": "5fa036257303db9e272bdac469b071bedd039043a9a8fe6d15bfef85590ce8ac",
+      "characters": 6228,
+      "pages": 10,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.437,
+          "N4": 0.606,
+          "N3": 0.754,
+          "N2": 0.802,
+          "N1": 0.922
+        },
+        "words": 1144
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card632.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "新美南吉童話集 / 岩波文庫、岩波書店 / 1996（平成8）年7月16日",
+        "input": "浜野智",
+        "proofreading": "浜野智"
+      },
+      "updated": "2004-02-22"
+    },
+    {
+      "id": "aozora-000634",
+      "slug": "kyusuke-kun-no-hanashi",
+      "title": "久助君の話",
+      "titleReading": "きゅうすけくんのはなし",
+      "author": "新美南吉",
+      "authorReading": "にいみなんきち",
+      "language": "ja",
+      "genres": [
+        "drama",
+        "children"
+      ],
+      "description": {
+        "ja": "学校でごほうびをもらった久助君は、毎日一時間の勉強をするよう、お父さんに決められてしまいます。子どもの心の動きを、新美南吉が静かに描きます。",
+        "es": "Kyūsuke recibe un premio en la escuela y su padre le impone una hora de estudio diaria. Niimi Nankichi retrata con calma los sentimientos de un niño.",
+        "en": "Kyūsuke wins a prize at school and his father makes a rule of an hour's study every day. Niimi Nankichi quietly portrays a child's feelings."
+      },
+      "file": "books/kyusuke-kun-no-hanashi.epub",
+      "cover": "covers/kyusuke-kun-no-hanashi.png",
+      "bytes": 31447,
+      "sha256": "8e53e4a221bf5b906ee90be0bad7bd87792599ba3e65039879a2d72ed460e0d8",
+      "characters": 4674,
+      "pages": 8,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.381,
+          "N4": 0.551,
+          "N3": 0.711,
+          "N2": 0.761,
+          "N1": 0.883
+        },
+        "words": 837
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000121/card634.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1943-03-22"
+      },
+      "credits": {
+        "base": "牛をつないだ椿の木 / 角川文庫、角川書店 / 1968（昭和43）年2月20日",
+        "input": "もりみつじゅんじ",
+        "proofreading": "ゆうこ"
+      },
+      "updated": "2006-01-27"
+    },
+    {
+      "id": "aozora-046600",
+      "slug": "kaeru-no-gomu-gutsu",
+      "title": "蛙のゴム靴",
+      "titleReading": "かえるのゴムぐつ",
+      "author": "宮沢賢治",
+      "authorReading": "みやざわけんじ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "humor",
+        "children"
+      ],
+      "description": {
+        "ja": "林の下を流れる堰のほとりに住む、カン蛙、ブン蛙、ベン蛙。三匹は年も大きさも同じで、どれも生意気でいたずら好きです。宮沢賢治の、にぎやかな蛙の物語です。",
+        "es": "Junto a una acequia que corre bajo el bosque viven las ranas Kan, Bun y Ben, de la misma edad y tamaño, todas descaradas y traviesas. Un animado cuento de ranas de Miyazawa Kenji.",
+        "en": "Beside a weir running under the woods live the frogs Kan, Bun and Ben, the same age and size and all of them cheeky and mischievous. A lively frog tale by Miyazawa Kenji."
+      },
+      "file": "books/kaeru-no-gomu-gutsu.epub",
+      "cover": "covers/kaeru-no-gomu-gutsu.png",
+      "bytes": 36037,
+      "sha256": "70d8a6597eb628e8a2fe1bf3ea7a7d1ed3d0b2bd325b2034f4bfabe6f13a6da8",
+      "characters": 7279,
+      "pages": 12,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.418,
+          "N4": 0.566,
+          "N3": 0.725,
+          "N2": 0.774,
+          "N1": 0.898
+        },
+        "words": 1586
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000081/card46600.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1933-09-21"
+      },
+      "credits": {
+        "base": "新編風の又三郎 / 新潮文庫、新潮社 / 1989（平成元）年2月25日",
+        "input": "蒋龍",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2008-11-30"
+    },
+    {
+      "id": "aozora-042306",
+      "slug": "kashiya",
+      "title": "世界怪談名作集 貸家",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "エドワード・ジョージ・アール・ブルワー・リットン",
+      "authorReading": "リットンエドワード・ジョージ・アール・ブルワー",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "「ロンドンのまんなかに、化け物屋敷を見つけたぜ」。友人の話を確かめようと、語り手は一晩その家で過ごします。ブルワー＝リットンの怪談を岡本綺堂が訳しました。",
+        "es": "«He descubierto una casa encantada en pleno Londres.» Para comprobar lo que cuenta su amigo, el narrador pasa una noche allí. Un relato de fantasmas de Bulwer-Lytton traducido por Okamoto Kidō.",
+        "en": "\"I've found a haunted house in the middle of London.\" To check his friend's tale, the narrator spends a night there. A ghost story by Bulwer-Lytton, translated by Okamoto Kidō."
+      },
+      "file": "books/kashiya.epub",
+      "cover": "covers/kashiya.png",
+      "bytes": 60488,
+      "sha256": "994fc323d40039309e63209482e3a8258a65d6683dcc26c589316e1f8d106310",
+      "characters": 25028,
+      "pages": 42,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.322,
+          "N4": 0.481,
+          "N3": 0.701,
+          "N2": 0.755,
+          "N1": 0.93
+        },
+        "words": 5280
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001089/card42306.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1873-01-18"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-042305",
+      "slug": "spade-no-joo",
+      "title": "世界怪談名作集 スペードの女王",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "アレクサンドル・セルゲーヴィチ・プーシキン",
+      "authorReading": "プーシキンアレクサンドル・セルゲーヴィチ",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "賭けごとの夜、老伯爵夫人が三枚の必勝のカードを知っているという話が出ます。青年ゲルマンは、その秘密を聞き出そうとします。プーシキンの代表作を岡本綺堂が訳しました。",
+        "es": "En una noche de juego se habla de una anciana condesa que conoce tres cartas ganadoras. El joven Hermann quiere arrancarle el secreto. La obra más famosa de Pushkin, traducida por Okamoto Kidō.",
+        "en": "On a night of card-playing someone mentions an old countess who knows three winning cards. The young Hermann sets out to learn her secret. Pushkin's best-known tale, translated by Okamoto Kidō."
+      },
+      "file": "books/spade-no-joo.epub",
+      "cover": "covers/spade-no-joo.png",
+      "bytes": 62391,
+      "sha256": "4464c477de30c806102d0428824cfba48edbc21a94be3505d1ee05a06269eac4",
+      "characters": 27350,
+      "pages": 46,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.327,
+          "N4": 0.466,
+          "N3": 0.656,
+          "N2": 0.703,
+          "N1": 0.9
+        },
+        "words": 5804
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001088/card42305.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1837-01-17"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-042303",
+      "slug": "clarimonde",
+      "title": "世界怪談名作集 クラリモンド",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "テオフィル・ゴーチェ",
+      "authorReading": "ゴーチェテオフィル",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "六十六歳になった神父が、若いころのただ一度の恋を語ります。それは奇妙で、恐ろしい話でした。ゴーチエの幻想怪談を岡本綺堂が訳しました。",
+        "es": "Un sacerdote de sesenta y seis años cuenta el único amor de su juventud, una historia extraña y terrible. Un relato fantástico de Gautier traducido por Okamoto Kidō.",
+        "en": "A sixty-six-year-old priest tells of the one love of his youth, a strange and terrible story. A fantastic tale by Gautier, translated by Okamoto Kidō."
+      },
+      "file": "books/clarimonde.epub",
+      "cover": "covers/clarimonde.png",
+      "bytes": 60299,
+      "sha256": "915ab7a2011c847d57ae0914a311425faceb7f0ceb412787acdbbb39fa8e8cc5",
+      "characters": 29956,
+      "pages": 50,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.308,
+          "N4": 0.445,
+          "N3": 0.669,
+          "N2": 0.719,
+          "N1": 0.911
+        },
+        "words": 6176
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001086/card42303.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1872-10-23"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2005-11-07"
+    },
+    {
+      "id": "aozora-042302",
+      "slug": "shingoshu",
+      "title": "世界怪談名作集 信号手",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "チャールズ・ディケンズ",
+      "authorReading": "ディケンズチャールズ",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "切り通しの線路の番小屋にいる信号手に、語り手は崖の上から声をかけます。信号手は、ある幽霊に悩まされているのです。ディケンズの有名な怪談を岡本綺堂が訳しました。",
+        "es": "Desde lo alto de un desmonte, el narrador llama al guardavía de una caseta junto a la vía. El hombre está obsesionado por un espectro. El famoso relato de fantasmas de Dickens, traducido por Okamoto Kidō.",
+        "en": "From the top of a railway cutting the narrator calls down to the signalman in his hut. The man is troubled by a ghost. Dickens's famous ghost story, translated by Okamoto Kidō."
+      },
+      "file": "books/shingoshu.epub",
+      "cover": "covers/shingoshu.png",
+      "bytes": 40256,
+      "sha256": "8a5086f95156ad28e94295d113c1099e55c4f85c290a5655d57f823bbf82a62e",
+      "characters": 12781,
+      "pages": 21,
+      "chapters": 1,
+      "level": {
+        "score": 2,
+        "coverage": {
+          "N5": 0.377,
+          "N4": 0.528,
+          "N3": 0.754,
+          "N2": 0.804,
+          "N1": 0.941
+        },
+        "words": 2620
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000914/card42302.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1870-06-09"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-042304",
+      "slug": "veal-fujin-no-borei",
+      "title": "世界怪談名作集 ヴィール夫人の亡霊",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "ダニエル・デフォー",
+      "authorReading": "デフォーダニエル",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "昔からの友だちだったヴィール夫人の亡霊が、カンタベリーのバーグレーヴ夫人を訪ねてきます。デフォーが「実話」として書いた幽霊譚を、岡本綺堂が訳しました。",
+        "es": "El fantasma de la señora Veal, vieja amiga, visita a la señora Bargrave en Canterbury. Una historia de aparecidos que Defoe presentó como un hecho real, traducida por Okamoto Kidō.",
+        "en": "The ghost of Mrs Veal, an old friend, visits Mrs Bargrave in Canterbury. A ghost story that Defoe presented as true, translated by Okamoto Kidō."
+      },
+      "file": "books/veal-fujin-no-borei.epub",
+      "cover": "covers/veal-fujin-no-borei.png",
+      "bytes": 38979,
+      "sha256": "475d3ca433edccd63894dbbc7a30b51a75d8cc18ec9846b724ed5e99b0693211",
+      "characters": 11161,
+      "pages": 19,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.349,
+          "N4": 0.483,
+          "N3": 0.731,
+          "N2": 0.766,
+          "N1": 0.917
+        },
+        "words": 2221
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001087/card42304.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1731-04-26"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-004105",
+      "slug": "rappaccini-no-musume",
+      "title": "世界怪談名作集 ラッパチーニの娘　アウペパンの作から",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "ナサニエル・ホーソーン",
+      "authorReading": "ホーソーンナサニエル",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "パドゥアの大学に学ぶ青年ジョヴァンニは、下宿の窓から、毒草ばかりを育てる庭と、その庭に住む美しい娘を見かけます。ホーソーンの短編を岡本綺堂が訳しました。",
+        "es": "Giovanni, estudiante en Padua, ve desde la ventana de su cuarto un jardín de plantas venenosas y a la bella joven que vive en él. Un cuento de Hawthorne traducido por Okamoto Kidō.",
+        "en": "Giovanni, a student at Padua, sees from his lodging window a garden of poisonous plants and the beautiful girl who lives in it. A tale by Hawthorne, translated by Okamoto Kidō."
+      },
+      "file": "books/rappaccini-no-musume.epub",
+      "cover": "covers/rappaccini-no-musume.png",
+      "bytes": 68369,
+      "sha256": "bff5fcb98ebf2aecfcf0cdfca979db933dabfbeb3eefe261993da0cb9a9d553c",
+      "characters": 31115,
+      "pages": 52,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.27,
+          "N4": 0.418,
+          "N3": 0.678,
+          "N2": 0.727,
+          "N1": 0.904
+        },
+        "words": 6457
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000905/card4105.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1864-05-19"
+      },
+      "credits": {
+        "base": "世界怪談名作集　上 / 河出文庫、河出書房新社 / 1987（昭和62）年8月4日",
+        "input": "和井府清十郎",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2005-12-02"
+    },
+    {
+      "id": "aozora-043469",
+      "slug": "maboroshi-no-jinrikisha",
+      "title": "世界怪談名作集 幻の人力車",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "ラデャード・キプリング",
+      "authorReading": "キプリングラデャード",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "インドの避暑地で、ある男は、亡くなったはずの女の人力車に追いかけられます。キプリングの怪談を岡本綺堂が訳しました。",
+        "es": "En un lugar de veraneo de la India, un hombre es perseguido por el rickshaw de una mujer que ya ha muerto. Un relato de fantasmas de Kipling traducido por Okamoto Kidō.",
+        "en": "In an Indian hill station a man is pursued by the rickshaw of a woman who is already dead. A ghost story by Kipling, translated by Okamoto Kidō."
+      },
+      "file": "books/maboroshi-no-jinrikisha.epub",
+      "cover": "covers/maboroshi-no-jinrikisha.png",
+      "bytes": 56016,
+      "sha256": "b2d4ce732c29468d7f6e7725ba98c6cdd89a67ec58096d695232b0c4ac647e83",
+      "characters": 26131,
+      "pages": 44,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.32,
+          "N4": 0.441,
+          "N3": 0.65,
+          "N2": 0.687,
+          "N1": 0.885
+        },
+        "words": 5190
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000114/card43469.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-01-18"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2008-08-04"
+    },
+    {
+      "id": "aozora-043472",
+      "slug": "uwadoko",
+      "title": "世界怪談名作集 上床",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "フランシス・マリオン・クラウフォード",
+      "authorReading": "クラウフォードフランシス・マリオン",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "夜ふけ、みなが眠気をもよおしたころ、一人が船の客室にまつわる恐ろしい体験を語りはじめます。クロフォードの怪談を岡本綺堂が訳しました。",
+        "es": "Entrada la noche, cuando todos empiezan a tener sueño, uno de los presentes se pone a contar una terrible experiencia en un camarote de barco. Un relato de Crawford traducido por Okamoto Kidō.",
+        "en": "Late at night, when everyone is growing drowsy, one of the company begins to tell of a terrible experience in a ship's cabin. A tale by Crawford, translated by Okamoto Kidō."
+      },
+      "file": "books/uwadoko.epub",
+      "cover": "covers/uwadoko.png",
+      "bytes": 56425,
+      "sha256": "bdd7c0f5ceac3398f26c88ed004af22cb5180448ff0be455c54dfa7cf62df00d",
+      "characters": 23720,
+      "pages": 40,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.332,
+          "N4": 0.469,
+          "N3": 0.67,
+          "N2": 0.716,
+          "N1": 0.916
+        },
+        "words": 4939
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001144/card43472.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1909-04-09"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "小林繁雄、門田裕志",
+        "proofreading": "大久保ゆう"
+      },
+      "updated": "2004-09-26"
+    },
+    {
+      "id": "aozora-004999",
+      "slug": "botan-toki",
+      "title": "世界怪談名作集 牡丹灯記",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "瞿佑",
+      "authorReading": "くゆう",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "元の末、正月十五日の灯籠祭りの夜。喬生は、牡丹の灯籠をさげた美しい娘と出会います。中国の怪談集『剪灯新話』の一編を岡本綺堂が訳しました。",
+        "es": "A finales de la dinastía Yuan, en la noche del festival de los farolillos, Qiao Sheng conoce a una joven bellísima con un farol de peonías. Un relato de una colección china de historias extrañas, traducido por Okamoto Kidō.",
+        "en": "In the late Yuan dynasty, on the night of the lantern festival, Qiao Sheng meets a beautiful girl carrying a peony lantern. A tale from a Chinese collection of strange stories, translated by Okamoto Kidō."
+      },
+      "file": "books/botan-toki.epub",
+      "cover": "covers/botan-toki.png",
+      "bytes": 30313,
+      "sha256": "87a5a7773621d3c0d5f4deec4f0872cda77f118124ca873c54aa4f86a8d43eb7",
+      "characters": 4238,
+      "pages": 7,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.31,
+          "N4": 0.428,
+          "N3": 0.602,
+          "N2": 0.643,
+          "N1": 0.839
+        },
+        "words": 1008
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/001078/card4999.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1427"
+      },
+      "credits": {
+        "base": "世界怪談名作集　下 / 河出文庫、河出書房新社 / 1987（昭和62）年9月4日",
+        "input": "門田裕志",
+        "proofreading": "小林繁雄"
+      },
+      "updated": "2003-09-05"
+    },
+    {
+      "id": "aozora-004407",
+      "slug": "lazarus",
+      "title": "世界怪談名作集 ラザルス",
+      "titleReading": "せかいかいだんめいさくしゅう",
+      "author": "レオニード・ニコラーエヴィチ・アンドレーエフ",
+      "authorReading": "アンドレーエフレオニード・ニコラーエヴィチ",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "三日三晩の死のあと、墓から出て家に戻ったラザロ。彼がよみがえったことは、人びとにとって恐ろしい名前になっていきます。アンドレーエフの作品を岡本綺堂が訳しました。",
+        "es": "Tras tres días y tres noches de muerte, Lázaro sale de la tumba y vuelve a su casa. Que haya resucitado convierte su nombre en algo aterrador. Una obra de Andréyev traducida por Okamoto Kidō.",
+        "en": "After three days and nights of death, Lazarus climbs out of the tomb and goes home. Having come back to life makes his name something people fear. A work by Andreyev, translated by Okamoto Kidō."
+      },
+      "file": "books/lazarus.epub",
+      "cover": "covers/lazarus.png",
+      "bytes": 50640,
+      "sha256": "19e13210dab23d633cd2a1b58f137a0b53c7b8d18d47ae76f0c8b07722e1b7ad",
+      "characters": 19660,
+      "pages": 33,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.257,
+          "N4": 0.38,
+          "N3": 0.606,
+          "N2": 0.663,
+          "N1": 0.891
+        },
+        "words": 4442
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000907/card4407.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1919"
+      },
+      "credits": {
+        "base": "澁澤龍彦文学館　12　最後の箱 / 筑摩書房 / 1991（平成3）年10月25日",
+        "input": "和井府清十郎",
+        "proofreading": "もりみつじゅんじ、土屋隆"
+      },
+      "updated": "2008-10-26"
+    },
+    {
+      "id": "aozora-004949",
+      "slug": "oitekebori",
+      "title": "おいてけ堀",
+      "titleReading": "おいてけぼり",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "本所七不思議の一つ、「おいてけ堀」。釣りの帰りに、どこからか「おいてけ、おいてけ」という声が聞こえます。田中貢太郎が語る、江戸の怪談です。",
+        "es": "Una de las siete maravillas de Honjo: la charca «Oitekebori». Al volver de pescar se oye una voz que dice «¡déjalo, déjalo!». Una historia de fantasmas de Edo contada por Tanaka Kōtarō.",
+        "en": "One of the Seven Wonders of Honjo: the \"Oitekebori\" pond. Coming home from fishing, a voice is heard saying \"Leave it, leave it!\" An Edo ghost story told by Tanaka Kōtarō."
+      },
+      "file": "books/oitekebori.epub",
+      "cover": "covers/oitekebori.png",
+      "bytes": 28004,
+      "sha256": "e988394b54fbec4a9d279da46e6e421f386c16d4eddf6c079577789d543e94d9",
+      "characters": 1747,
+      "pages": 3,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.434,
+          "N4": 0.557,
+          "N3": 0.708,
+          "N2": 0.758,
+          "N1": 0.858
+        },
+        "words": 394
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card4949.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "怪奇・伝奇時代小説選集3　新怪談集 / 春陽文庫、春陽堂書店 / 1999（平成11）年12月20日",
+        "input": "Hiroshi_O",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2004-08-22"
+    },
+    {
+      "id": "aozora-004950",
+      "slug": "enchou-no-botan-doro",
+      "title": "円朝の牡丹灯籠",
+      "titleReading": "えんちょうのぼたんどうろう",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "萩原新三郎は、旗本の娘お露と出会って恋に落ちます。落語家・三遊亭円朝の名作「牡丹灯籠」を、田中貢太郎が小説にしました。",
+        "es": "Hagiwara Shinzaburō se enamora de Otsuyu, hija de un hatamoto. Tanaka Kōtarō pone en forma de relato el clásico del rakugo «El farol de peonías», de Sanyūtei Enchō.",
+        "en": "Hagiwara Shinzaburō falls in love with Otsuyu, the daughter of a samurai retainer. Tanaka Kōtarō turns Sanyūtei Enchō's rakugo classic \"The Peony Lantern\" into prose."
+      },
+      "file": "books/enchou-no-botan-doro.epub",
+      "cover": "covers/enchou-no-botan-doro.png",
+      "bytes": 37838,
+      "sha256": "b35417fd0f5dd874c670a89a3a4f87aedf62445f374ddff5ed2720a5d1642f73",
+      "characters": 7690,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.369,
+          "N4": 0.514,
+          "N3": 0.646,
+          "N2": 0.704,
+          "N1": 0.857
+        },
+        "words": 1611
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card4950.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "怪奇・伝奇時代小説選集3　新怪談集 / 春陽文庫、春陽堂書店 / 1999（平成11）年12月20日",
+        "input": "Hiroshi_O",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2004-09-25"
+    },
+    {
+      "id": "aozora-042321",
+      "slug": "ayashiki-tabisou",
+      "title": "怪しき旅僧",
+      "titleReading": "あやしきたびそう",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "風の寒い夜、旅の僧が一軒の農家に宿を乞います。けれども、主人は冷たい男でした。田中貢太郎が書いた、短い怪談です。",
+        "es": "En una noche de viento frío, un monje viajero pide alojamiento en una casa de campo, pero el dueño es un hombre duro. Una breve historia de fantasmas de Tanaka Kōtarō.",
+        "en": "On a cold, windy night a travelling monk asks for lodging at a farmhouse, but the master is a hard man. A short ghost story by Tanaka Kōtarō."
+      },
+      "file": "books/ayashiki-tabisou.epub",
+      "cover": "covers/ayashiki-tabisou.png",
+      "bytes": 29839,
+      "sha256": "af727c65078fcda93a3cd89f8047379baee0671d243789bdd4058c2e996f27df",
+      "characters": 2356,
+      "pages": 4,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.396,
+          "N4": 0.527,
+          "N3": 0.68,
+          "N2": 0.734,
+          "N1": 0.867
+        },
+        "words": 590
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card42321.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "日本怪談全集　Ⅱ / 桃源社 / 1974（昭和49）年7月5日",
+        "input": "Hiroshi_O",
+        "proofreading": "大野裕"
+      },
+      "updated": "2012-09-25"
+    },
+    {
+      "id": "aozora-001456",
+      "slug": "shitai-rosoku",
+      "title": "死体蝋燭",
+      "titleReading": "したいろうそく",
+      "author": "小酒井不木",
+      "authorReading": "こざかいふぼく",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "暴風雨の夜、寺の中は息が詰まりそうな蒸し暑さでした。「死体蝋燭」と呼ばれるものをめぐる、小酒井不木の怪奇小説です。",
+        "es": "En una noche de tormenta, dentro del templo el aire es sofocante. Un relato de terror de Kosakai Fuboku en torno a las llamadas «velas de cadáver».",
+        "en": "On a stormy night the air inside the temple is stifling. A horror story by Kosakai Fuboku about what are called \"corpse candles\"."
+      },
+      "file": "books/shitai-rosoku.epub",
+      "cover": "covers/shitai-rosoku.png",
+      "bytes": 33510,
+      "sha256": "3e2ae05b370c021d29b6969cc0152986bbb63a334d111b77fdaf6758bb29c3c7",
+      "characters": 4878,
+      "pages": 8,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.286,
+          "N4": 0.432,
+          "N3": 0.642,
+          "N2": 0.701,
+          "N1": 0.895
+        },
+        "words": 1117
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000262/card1456.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1929-04-01"
+      },
+      "credits": {
+        "base": "怪奇探偵小説集1 / ハルキ文庫、角川春樹事務所 / 1998（平成10）年5月18日",
+        "input": "大野晋",
+        "proofreading": "しず"
+      },
+      "updated": "2005-12-11"
+    },
+    {
+      "id": "aozora-002245",
+      "slug": "shujutsu",
+      "title": "手術",
+      "titleReading": "しゅじゅつ",
+      "author": "小酒井不木",
+      "authorReading": "こざかいふぼく",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "暑い晩、「探偵趣味の会」に九人が集まり、犯罪や幽霊の話に花を咲かせます。小酒井不木が書いた、不気味な語りの短編です。",
+        "es": "En una noche calurosa nueve personas se reúnen en el «Club de afición al misterio» y charlan de crímenes y fantasmas. Un cuento inquietante de Kosakai Fuboku.",
+        "en": "On a hot night nine people gather at the \"Detective Fancy Club\" and swap stories of crimes and ghosts. An eerie told-aloud tale by Kosakai Fuboku."
+      },
+      "file": "books/shujutsu.epub",
+      "cover": "covers/shujutsu.png",
+      "bytes": 26067,
+      "sha256": "1f14c4d789409cd519e4207ad965efb6984830b1037bd57cb73b38892ab4753a",
+      "characters": 4789,
+      "pages": 8,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.286,
+          "N4": 0.442,
+          "N3": 0.666,
+          "N2": 0.713,
+          "N1": 0.906
+        },
+        "words": 1064
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000262/card2245.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1929-04-01"
+      },
+      "credits": {
+        "base": "現代怪奇小説集　中島河太郎・紀田順一郎編 / 立風書房 / 1988（昭和63）年7月10日",
+        "input": "藤真新一",
+        "proofreading": "柳沢成雄"
+      },
+      "updated": "2002-10-12"
+    },
+    {
+      "id": "aozora-002380",
+      "slug": "shigo-no-koi",
+      "title": "死後の恋",
+      "titleReading": "しごのこい",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "romance"
+      ],
+      "description": {
+        "ja": "ウラジオストクの町で評判の、風来坊の紳士。そのひとが、一人の客に語りだす恋の話は…。夢野久作の、語り口が不気味な怪奇小説です。",
+        "es": "Un caballero errante, famoso en la ciudad de Vladivostok, le cuenta a un desconocido una historia de amor… Un relato de terror de Yumeno Kyūsaku con una voz narradora inquietante.",
+        "en": "A wandering gentleman, the talk of Vladivostok, tells a stranger a story of love… A horror tale by Yumeno Kyūsaku with an unsettling narrator."
+      },
+      "file": "books/shigo-no-koi.epub",
+      "cover": "covers/shigo-no-koi.png",
+      "bytes": 59835,
+      "sha256": "d1410ffb99af4aeed6cbaf471bb7475ea77a67bab31af5c95ba12a6bc1892f58",
+      "characters": 18185,
+      "pages": 30,
+      "chapters": 6,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.27,
+          "N4": 0.396,
+          "N3": 0.595,
+          "N2": 0.643,
+          "N1": 0.854
+        },
+        "words": 3851
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card2380.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作怪奇幻想傑作選　あやかしの鼓 / 角川ホラー文庫、角川書店 / 1998（平成10）年4月10日",
+        "input": "林裕司",
+        "proofreading": "浜野智"
+      },
+      "updated": "2019-04-28"
+    },
+    {
+      "id": "aozora-002382",
+      "slug": "akuma-kitosho",
+      "title": "悪魔祈祷書",
+      "titleReading": "あくまきとうしょ",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "mystery"
+      ],
+      "description": {
+        "ja": "夕立の日に雨宿りをする客へ、店の主人が話しかけます。やがて「悪魔祈祷書」という不気味な本が話に登場します。夢野久作の、語りの怖さが光る短編です。",
+        "es": "Un día de chubasco, el dueño de una tienda conversa con un cliente que se refugia de la lluvia, hasta que aparece en la charla un libro siniestro, el «Libro de oraciones del diablo». Un cuento de Yumeno Kyūsaku donde da miedo sobre todo la voz que narra.",
+        "en": "On a day of sudden showers, a shopkeeper talks to a customer sheltering from the rain, until a sinister book, the \"Devil's Prayer Book\", enters the conversation. A story by Yumeno Kyūsaku whose chill lies in the voice that tells it."
+      },
+      "file": "books/akuma-kitosho.epub",
+      "cover": "covers/akuma-kitosho.png",
+      "bytes": 45180,
+      "sha256": "c84092bff7a73cf768eb0cf138fc1249ad1d6bc64bb663487b36011b27269ca9",
+      "characters": 12916,
+      "pages": 22,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.265,
+          "N4": 0.386,
+          "N3": 0.566,
+          "N2": 0.616,
+          "N1": 0.81
+        },
+        "words": 2822
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card2382.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作怪奇幻想傑作選　あやかしの鼓 / 角川ホラー文庫、角川書店 / 1998（平成10）年4月10日",
+        "input": "林裕司",
+        "proofreading": "浜野智"
+      },
+      "updated": "2019-04-27"
+    },
+    {
+      "id": "aozora-000184",
+      "slug": "yoba",
+      "title": "妖婆",
+      "titleReading": "ようば",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "電車や自動車の走る大正の東京で、本当にあった怪異だと語られる「妖婆」の話。芥川龍之介が、現代の都会に魔女を登場させた短編です。",
+        "es": "La historia de una «bruja» que, según el narrador, ocurrió de verdad en el Tokio de la era Taishō, con tranvías y automóviles. Un cuento de Akutagawa que lleva a una hechicera a la ciudad moderna.",
+        "en": "The story of a \"witch\" that, the narrator insists, truly happened in Taishō-era Tokyo, with its trams and cars. A tale by Akutagawa that brings a sorceress into the modern city."
+      },
+      "file": "books/yoba.epub",
+      "cover": "covers/yoba.png",
+      "bytes": 67658,
+      "sha256": "c061793f90d2d0cf418eaba1b5f355f51bfa3a8412c9f11d3ec8698254233a6a",
+      "characters": 37447,
+      "pages": 62,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.319,
+          "N4": 0.464,
+          "N3": 0.636,
+          "N2": 0.695,
+          "N1": 0.881
+        },
+        "words": 8400
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card184.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集3 / ちくま文庫、筑摩書房 / 1986（昭和61）年12月1日",
+        "input": "j.utiyama",
+        "proofreading": "かとうかおり"
+      },
+      "updated": "2004-03-15"
+    },
+    {
+      "id": "aozora-002526",
+      "slug": "hayasugiru-maiso",
+      "title": "早すぎる埋葬",
+      "titleReading": "はやすぎるまいそう",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "生きたまま葬られる。ありえないようで、実際に起こった恐ろしい事例を、ポーが語ります。人間の恐怖を突きつめた短編です。",
+        "es": "Ser enterrado vivo: algo que parece imposible, pero de lo que hubo casos reales. Poe lo relata en un cuento que lleva el miedo humano hasta el extremo.",
+        "en": "Being buried alive: it seems impossible, yet it has really happened. Poe tells of it in a tale that pushes human fear to its limit."
+      },
+      "file": "books/hayasugiru-maiso.epub",
+      "cover": "covers/hayasugiru-maiso.png",
+      "bytes": 47352,
+      "sha256": "0003ca761c220240f2ab69332679947cc269e4129ac0012c5324a5b88c0d3ff0",
+      "characters": 15466,
+      "pages": 26,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.241,
+          "N4": 0.378,
+          "N3": 0.641,
+          "N2": 0.697,
+          "N1": 0.921
+        },
+        "words": 3241
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card2526.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "モルグ街の殺人事件 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日、1977（昭和52）年5月10日40刷改版",
+        "input": "江村秀之",
+        "proofreading": "鈴木厚司"
+      },
+      "updated": "2014-03-29"
+    },
+    {
+      "id": "aozora-001076",
+      "slug": "london-to",
+      "title": "倫敦塔",
+      "titleReading": "ロンドンとう",
+      "author": "夏目漱石",
+      "authorReading": "なつめそうせき",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "historical"
+      ],
+      "description": {
+        "ja": "留学中に一度だけ訪れたロンドン塔。見物する語り手の目には、昔ここで処刑された人たちの姿が浮かんできます。夏目漱石の幻想的な短編です。",
+        "es": "Durante sus estudios en Londres, el narrador visita una sola vez la Torre de Londres, y mientras la recorre se le aparecen quienes fueron ejecutados allí. Un cuento fantástico de Natsume Sōseki.",
+        "en": "Studying in London, the narrator visits the Tower just once, and as he walks round it he sees the people once executed there. A fantastic short work by Natsume Sōseki."
+      },
+      "file": "books/london-to.epub",
+      "cover": "covers/london-to.png",
+      "bytes": 50276,
+      "sha256": "d0a8b597609478845b09fcfe87e02aeb45b21c513926ab7479a989ac0bc6ce6b",
+      "characters": 15954,
+      "pages": 27,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.3,
+          "N4": 0.428,
+          "N3": 0.606,
+          "N2": 0.659,
+          "N1": 0.854
+        },
+        "words": 4050
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000148/card1076.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1916-12-09"
+      },
+      "credits": {
+        "base": "夏目漱石全集2 / ちくま文庫、筑摩書房 / 1987（昭和62）年10月27日",
+        "input": "柴田卓治",
+        "proofreading": "LUNA CAT"
+      },
+      "updated": "2004-02-29"
     }
   ]
 }
