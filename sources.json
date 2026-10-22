@@ -2016,6 +2016,259 @@
         "es": "Durante sus estudios en Londres, el narrador visita una sola vez la Torre de Londres, y mientras la recorre se le aparecen quienes fueron ejecutados allí. Un cuento fantástico de Natsume Sōseki.",
         "en": "Studying in London, the narrator visits the Tower just once, and as he walks round it he sees the people once executed there. A fantastic short work by Natsume Sōseki."
       }
+    },
+    {
+      "slug": "hen-na-eisei",
+      "aozoraId": "062461",
+      "genres": [
+        "scifi",
+        "humor"
+      ],
+      "description": {
+        "ja": "木星の衛星イオでは、重力が地球の三分の一しかありません。うっかり跳ね飛ばされたグラント・カルソープは、ニタニタ笑う奇妙な生き物たちに囲まれます。ワインバウム「衛星シリーズ」の一編です。",
+        "es": "En Ío, la luna de Júpiter, la gravedad es un tercio de la terrestre. Grant Thorpe, lanzado por los aires sin querer, se ve rodeado de extrañas criaturas que se ríen de él. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "On Io, Jupiter's moon, gravity is only a third of Earth's. Grant Thorpe, thrown into the air by accident, finds himself surrounded by strange creatures grinning at him. A story from Weinbaum's moons series."
+      }
+    },
+    {
+      "slug": "shokuzai-no-bohyo",
+      "aozoraId": "062462",
+      "genres": [
+        "scifi",
+        "drama"
+      ],
+      "description": {
+        "ja": "無一文で家賃も払えない元ロケット操縦士ジャック・サンドは、かつてエウロパ探検隊を墜落させた張本人でした。ワインバウム「衛星シリーズ」の一編です。",
+        "es": "Jack Sand, antiguo piloto de cohetes, está sin un céntimo y no puede pagar el alquiler; fue él quien estrelló la expedición de Europa. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "Jack Sand, a former rocket pilot, is penniless and cannot pay his rent; he is the man who crashed the Europa expedition. A story from Weinbaum's moons series."
+      }
+    },
+    {
+      "slug": "chosei-eisei",
+      "aozoraId": "062463",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "木星の第三衛星ガニメデの南極都市ハイドロポール。そこへ帰ってきたアマーストを描く、ワインバウム「衛星シリーズ」の一編です。",
+        "es": "Amherst vuelve a Hidropolis, la ciudad polar de Ganímedes, tercera luna de Júpiter. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "Amherst returns to Hydropole, the polar city of Ganymede, Jupiter's third moon. A story from Weinbaum's moons series."
+      }
+    },
+    {
+      "slug": "tekio-gendo",
+      "aozoraId": "062679",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "病気やけがが治るのは、一種の「適応」にすぎない。若い生化学者の医師が病院長に語る大胆な考えは、どこへ向かうのでしょうか。ワインバウムの「怪奇シリーズ」の第一話です。",
+        "es": "«Curarse de una enfermedad o de una herida no es más que una forma de adaptación.» ¿Adónde conduce la audaz idea que un joven bioquímico expone al director del hospital? Primer relato de la serie de lo extraño de Weinbaum.",
+        "en": "\"Recovering from illness or injury is only a kind of adaptation.\" Where does the bold idea that a young biochemist lays before the hospital director lead? The first story of Weinbaum's \"weird\" series."
+      }
+    },
+    {
+      "slug": "numeri-umi",
+      "aozoraId": "062680",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "西暦二〇〇〇年、アメリカはアジア連合と戦っています。休暇をとったリスター中尉は、サンフランシスコ湾の岩礁で恋人のサリーと海を眺めます。ワインバウムの「怪奇シリーズ」の第二話です。",
+        "es": "Año 2000: Estados Unidos está en guerra con la alianza asiática. El teniente Lister, de permiso, contempla el mar con su novia Sally en unas rocas de la bahía de San Francisco. Segundo relato de la serie de lo extraño de Weinbaum.",
+        "en": "The year 2000: America is at war with the Asian alliance. On leave, Lieutenant Lister watches the sea with his girlfriend Sally on rocks in San Francisco Bay. The second story of Weinbaum's \"weird\" series."
+      }
+    },
+    {
+      "slug": "honoo-no-reimei",
+      "aozoraId": "062681",
+      "genres": [
+        "scifi",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "帝王、王女、長老、不老不死の発見者……。たくさんの人物が登場する、ワインバウムの「怪奇シリーズ」の第三話です。",
+        "es": "Un emperador, una princesa, ancianos, el descubridor de la inmortalidad… Un relato con muchos personajes, tercero de la serie de lo extraño de Weinbaum.",
+        "en": "An emperor, a princess, elders, the discoverer of immortality… A story with a large cast, the third of Weinbaum's \"weird\" series."
+      }
+    },
+    {
+      "slug": "yokka-hakuma",
+      "aozoraId": "060202",
+      "genres": [
+        "scifi",
+        "drama"
+      ],
+      "description": {
+        "ja": "北極のような厳しい寒波がロンドンを襲います。気温は零下十八度まで下がり、電信も電話も不通に。新聞社の編集部長が見た、四日間の大雪の始まりです。ロンドン危機シリーズの第一話です。",
+        "es": "Una ola de frío polar golpea Londres: el termómetro baja a dieciocho grados bajo cero y el telégrafo y el teléfono dejan de funcionar. El comienzo de cuatro días de nevada visto por el jefe de redacción de un periódico. Primer relato de la serie de las crisis de Londres.",
+        "en": "An arctic cold wave hits London: the thermometer falls to eighteen below zero and the telegraph and telephone go dead. The start of four days of snow, seen by a newspaper's editor. The first story of the London crisis series."
+      }
+    },
+    {
+      "slug": "pest-o",
+      "aozoraId": "056517",
+      "genres": [
+        "horror",
+        "humor"
+      ],
+      "description": {
+        "ja": "エドワード三世の時代、ロンドンの酒場で目を覚ました二人の水夫は、とんでもない場所に迷いこんでいました。寓意をこめた、ポーの奇妙でブラックなユーモアの物語です。",
+        "es": "En tiempos de Eduardo III, dos marineros se despiertan en una taberna de Londres y descubren que han ido a parar a un lugar disparatado. Un cuento alegórico de Poe, de humor extraño y negro.",
+        "en": "In the reign of Edward III, two sailors find themselves in a London tavern and realise they have wandered somewhere preposterous. An allegorical tale by Poe, with strange, black humour."
+      }
+    },
+    {
+      "slug": "kane-no-to-no-akuma",
+      "aozoraId": "056536",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "何もかもが時計どおりに動く、オランダの町ヴォンダーヴォッテイミティス。その町の鐘塔に、ある日、奇妙な訪問者が現れます。ポーの風刺のきいた幻想譚です。",
+        "es": "En la ciudad holandesa de Vondervotteimittiss todo marcha al compás del reloj. Un día aparece un extraño visitante en el campanario. Un cuento fantástico y satírico de Poe.",
+        "en": "In the Dutch town of Vondervotteimittiss everything runs by the clock. One day a strange visitor appears in the belfry. A satirical fantasy by Poe."
+      }
+    },
+    {
+      "slug": "umi-bozu",
+      "aozoraId": "045524",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "房州の海辺に住む漁師の女房のもとへ、みすぼらしい坊主がやって来て、家の中をじろじろ覗きこみます。泉鏡花から聞いた話を、田中貢太郎が書きとめた怪談です。",
+        "es": "Un monje andrajoso se acerca a la mujer de un pescador de la costa de Bōshū y se pone a mirar dentro de la casa. Una historia de fantasmas que Tanaka Kōtarō anotó tal como se la contó Izumi Kyōka.",
+        "en": "A shabby monk comes to the wife of a fisherman on the Bōshū coast and peers into her house. A ghost story that Tanaka Kōtarō wrote down as Izumi Kyōka told it."
+      }
+    },
+    {
+      "slug": "ihai-to-nezumi",
+      "aozoraId": "045550",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "関東大震災のあと、知人が預けていった箱を押入れにしまった三好七郎は、翌年、病気になって毎晩うなされるようになります。田中貢太郎が書いた怪談です。",
+        "es": "Tras el gran terremoto de Kantō, Miyoshi Shichirō guarda en el armario una caja que le dejó un conocido. Al año siguiente enferma y cada noche tiene pesadillas. Una historia de fantasmas de Tanaka Kōtarō.",
+        "en": "After the Great Kantō Earthquake, Miyoshi Shichirō puts away in a cupboard a box an acquaintance left with him. The next year he falls ill and is tormented by nightmares every night. A ghost story by Tanaka Kōtarō."
+      }
+    },
+    {
+      "slug": "ookami-no-kai",
+      "aozoraId": "001627",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "深い山で日が暮れてしまった少年は、大きな岩の下で夜をすごすことにします。やがて闇の中から…。田中貢太郎の、山と獣をめぐる怪談です。",
+        "es": "A un muchacho lo sorprende la noche en lo hondo de la montaña y decide pasarla bajo una gran roca. Poco después, desde la oscuridad… Una historia de montaña y fieras de Tanaka Kōtarō.",
+        "en": "Night falls on a boy deep in the mountains and he decides to spend it under a great rock. Then, out of the dark… A mountain tale of beasts by Tanaka Kōtarō."
+      }
+    },
+    {
+      "slug": "onibi-o-ou-bushi",
+      "aozoraId": "042269",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "鶴岡の城下、夜の田んぼ道で、一人の武士が炎のない火の玉を見かけます。おもしろ半分にあとをつけて、斬ってみたくなった武士は…。田中貢太郎の短い怪談です。",
+        "es": "En un camino entre arrozales de noche, un samurái de la ciudad castillo de Tsuruoka ve una bola de fuego sin llama. Por curiosidad la sigue y le entran ganas de cortarla… Una breve historia de fantasmas de Tanaka Kōtarō.",
+        "en": "On a night path through the fields near Tsuruoka castle, a samurai sees a flameless fireball. Out of curiosity he follows it and feels the urge to cut it down… A short ghost story by Tanaka Kōtarō."
+      }
+    },
+    {
+      "slug": "kubi-ga-ochita-hanashi",
+      "aozoraId": "000091",
+      "genres": [
+        "horror",
+        "historical"
+      ],
+      "description": {
+        "ja": "戦場で、首を斬られたと思って馬にしがみついた兵士の何小二。馬は高粱畑をまっしぐらに駆けだします。芥川龍之介が描いた、日清戦争の一場面です。",
+        "es": "En el campo de batalla, el soldado He Xiaoer cree que le han cortado el cuello y se aferra a su caballo, que echa a correr por un campo de sorgo. Una escena de la guerra chino-japonesa narrada por Akutagawa.",
+        "en": "On the battlefield the soldier He Xiaoer, thinking his neck has been cut, clings to his horse, which bolts across a field of sorghum. A scene from the Sino-Japanese War by Akutagawa."
+      }
+    },
+    {
+      "slug": "kaimu",
+      "aozoraId": "000921",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "霜の朝の鉄工場。圧力計の針が危険な数字へ近づいていくなか、「私」はある不吉な予感にとらわれます。夢野久作の短い怪奇小説です。",
+        "es": "Un amanecer de escarcha en una fundición. Mientras la aguja del manómetro se acerca a una cifra peligrosa, el narrador es presa de un presentimiento siniestro. Un cuento breve de terror de Yumeno Kyūsaku.",
+        "en": "A frosty dawn in an ironworks. As the needle of the pressure gauge creeps toward a dangerous figure, the narrator is seized by an ominous premonition. A short horror tale by Yumeno Kyūsaku."
+      }
+    },
+    {
+      "slug": "genei-no-tate",
+      "aozoraId": "000780",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "アーサー王の時代のような遠い昔、城に住む騎士と「幻影の盾」の物語。一心不乱の思いを、目に見えない力を借りて描こうとした、夏目漱石の中世騎士物語です。",
+        "es": "Una historia de tiempos remotos, como los del rey Arturo, sobre un caballero de un castillo y un «escudo fantasma». Un relato de caballeros medievales de Natsume Sōseki que busca mostrar la entrega total con ayuda de fuerzas invisibles.",
+        "en": "A tale from the distant past, like the age of King Arthur, about a castle knight and a \"phantom shield\". Natsume Sōseki's medieval romance, which tries to show single-minded devotion through unseen powers."
+      }
+    },
+    {
+      "slug": "kecho",
+      "aozoraId": "004997",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "雨の日、蓑を着て橋を渡る人を「猪の王様」のように見る少年。その語りから始まる、泉鏡花の不思議で美しい物語です。",
+        "es": "Un niño ve a alguien con capa de paja cruzar un puente bajo la lluvia, como si fuera «el rey de los jabalíes». Desde su voz empieza este relato extraño y hermoso de Izumi Kyōka.",
+        "en": "A boy watches someone in a straw raincoat cross a bridge in the rain as if he were \"the king of the boars\". From his voice begins this strange and beautiful tale by Izumi Kyōka."
+      }
+    },
+    {
+      "slug": "sennin",
+      "aozoraId": "000144",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "「仙人になりたいので、そういう所へ住みこませてください」。大阪へ奉公に来た飯炊きの権助は、口入れ屋でそう頼みます。芥川龍之介の、とぼけた味わいの童話です。",
+        "es": "«Quiero ser un inmortal, así que colóqueme donde pueda serlo.» Gonsuke, un criado de cocina llegado a Osaka, le pide esto a la agencia de colocaciones. Un cuento de Akutagawa con gracia socarrona.",
+        "en": "\"I want to become a hermit wizard, so please place me somewhere that can make me one.\" Gonsuke, a kitchen servant newly arrived in Osaka, asks the employment agent. A tale by Akutagawa with a deadpan charm."
+      }
+    },
+    {
+      "slug": "josen",
+      "aozoraId": "001031",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "中国の田舎で、桃の花が咲く窓の下で本ばかり読んでいる書生。その隣の家には、だれも身の上を知らない美しい女が一人で住んでいました。芥川龍之介の、短くて不思議な話です。",
+        "es": "En el campo chino, un estudiante lee junto a una ventana bajo los melocotoneros en flor. En la casa de al lado vive sola una bella mujer de la que nadie sabe nada. Un relato breve y extraño de Akutagawa.",
+        "en": "In the Chinese countryside, a student reads by a window under blossoming peach trees. In the house next door lives, alone, a beautiful woman whose past nobody knows. A short, strange tale by Akutagawa."
+      }
+    },
+    {
+      "slug": "inu-to-fue",
+      "aozoraId": "000056",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "葛城山のふもとに住む木こりの髪長彦は笛の名人で、鳥も獣も草木も、その音に耳をかたむけます。芥川龍之介が子どものために書いた、不思議な昔話です。",
+        "es": "Kaminagahiko, un leñador del pie del monte Katsuragi, toca la flauta con tanta maestría que hasta las aves, las fieras y las plantas la escuchan. Un cuento tradicional que Akutagawa escribió para niños.",
+        "en": "Kaminagahiko, a woodcutter at the foot of Mount Katsuragi, plays the flute so well that birds, beasts and plants all listen. A strange folktale Akutagawa wrote for children."
+      }
     }
   ]
 }

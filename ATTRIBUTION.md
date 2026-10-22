@@ -168,3 +168,23 @@ The catalog, the descriptions and the covers are dedicated to the public domain 
 | 妖婆 | 芥川竜之介 | Public domain (†1927) | [#000184](https://www.aozora.gr.jp/cards/000879/card184.html) | 芥川龍之介全集3 / ちくま文庫、筑摩書房 / 1986（昭和61）年12月1日 | j.utiyama | かとうかおり |
 | 早すぎる埋葬 | エドガー・アラン・ポー | Public domain (†1849) | [#002526](https://www.aozora.gr.jp/cards/000094/card2526.html) | モルグ街の殺人事件 / 新潮文庫、新潮社 / 1951（昭和26）年8月15日、1977（昭和52）年5月10日40刷改版 | 江村秀之 | 鈴木厚司 |
 | 倫敦塔 | 夏目漱石 | Public domain (†1916) | [#001076](https://www.aozora.gr.jp/cards/000148/card1076.html) | 夏目漱石全集2 / ちくま文庫、筑摩書房 / 1987（昭和62）年10月27日 | 柴田卓治 | LUNA CAT |
+| 変な衛星 衛星シリーズその２（イオ） | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062461](https://www.aozora.gr.jp/cards/002265/card62461.html) | — | 奥増夫 | — |
+| 贖罪の墓標 衛星シリーズその３（エウロパ） | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062462](https://www.aozora.gr.jp/cards/002265/card62462.html) | — | 奥増夫 | — |
+| 潮汐衛星 衛星シリーズその４（ガニメデ） | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062463](https://www.aozora.gr.jp/cards/002265/card62463.html) | — | 奥増夫 | — |
+| 適応極限 怪奇シリーズその１ | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062679](https://www.aozora.gr.jp/cards/002265/card62679.html) | — | 奥増夫 | — |
+| ぬめり海 怪奇シリーズその２ | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062680](https://www.aozora.gr.jp/cards/002265/card62680.html) | — | 奥増夫 | — |
+| 炎の黎明 怪奇シリーズその３ | スタンリー・Ｇ・ワインバウム | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#062681](https://www.aozora.gr.jp/cards/002265/card62681.html) | — | 奥増夫 | — |
+| 四日白魔 ロンドン危機シリーズ・１ | フレッド・Ｍ・ホワイト | [CC BY 2.1 JP](https://creativecommons.org/licenses/by/2.1/jp/), 翻訳: 奥増夫 | [#060202](https://www.aozora.gr.jp/cards/002043/card60202.html) | — | 奥増夫 | — |
+| ペスト王 寓意を含める物語 | エドガー・アラン・ポー | Public domain (†1849) | [#056517](https://www.aozora.gr.jp/cards/000094/card56517.html) | アッシャア家の崩壊 / 角川文庫、角川書店 / 1951（昭和26）年10月15日 | 江村秀之 | まつもこ |
+| 鐘塔の悪魔 | エドガー・アラン・ポー | Public domain (†1849) | [#056536](https://www.aozora.gr.jp/cards/000094/card56536.html) | アッシャア家の崩壊 / 角川文庫、角川書店 / 1951（昭和26）年10月15日 | 江村秀之 | まつもこ |
+| 海坊主 | 田中貢太郎 | Public domain (†1941) | [#045524](https://www.aozora.gr.jp/cards/000154/card45524.html) | 伝奇ノ匣6　田中貢太郎日本怪談事典 / 学研Ｍ文庫、学習研究社 / 2003（平成15）年10月22日 | Hiroshi_O | noriko saito |
+| 位牌と鼠 | 田中貢太郎 | Public domain (†1941) | [#045550](https://www.aozora.gr.jp/cards/000154/card45550.html) | 伝奇ノ匣6　田中貢太郎日本怪談事典 / 学研Ｍ文庫、学習研究社 / 2003（平成15）年10月22日 | Hiroshi_O | noriko saito |
+| 狼の怪 | 田中貢太郎 | Public domain (†1941) | [#001627](https://www.aozora.gr.jp/cards/000154/card1627.html) | 中国の怪談（一） / 河出文庫、河出書房新社 / 1987（昭和62）年5月6日 | Hiroshi_O | 小林繁雄、門田裕志 |
+| 鬼火を追う武士 | 田中貢太郎 | Public domain (†1941) | [#042269](https://www.aozora.gr.jp/cards/000154/card42269.html) | 怪奇・伝奇時代小説選集3　新怪談集 / 春陽文庫、春陽堂書店 / 1999（平成11）年12月20日 | Hiroshi_O | noriko saito |
+| 首が落ちた話 | 芥川竜之介 | Public domain (†1927) | [#000091](https://www.aozora.gr.jp/cards/000879/card91.html) | 芥川龍之介全集2 / ちくま文庫、筑摩書房 / 1986（昭和61）年10月28日 | j.utiyama | かとうかおり |
+| 怪夢 | 夢野久作 | Public domain (†1936) | [#000921](https://www.aozora.gr.jp/cards/000096/card921.html) | 夢野久作全集3 / ちくま文庫、筑摩書房 / 1992（平成4）年8月24日 | 柴田卓治 | しず |
+| 幻影の盾 | 夏目漱石 | Public domain (†1916) | [#000780](https://www.aozora.gr.jp/cards/000148/card780.html) | 倫敦塔・幻影の盾 / 新潮文庫、新潮社 / 1952（昭和27）年7月10日、1968（昭和43）年9月15日20刷改版 | 藤本篤子 | かとうかおり |
+| 化鳥 | 泉鏡花 | Public domain (†1939) | [#004997](https://www.aozora.gr.jp/cards/000050/card4997.html) | 泉鏡花集成3 / ちくま文庫、筑摩書房 / 1996（平成8）年1月24日 | 門田裕志 | カエ |
+| 仙人 | 芥川竜之介 | Public domain (†1927) | [#000144](https://www.aozora.gr.jp/cards/000879/card144.html) | 芥川龍之介全集5 / ちくま文庫、筑摩書房 / 1987（昭和62）年2月24日 | j.utiyama | かとうかおり |
+| 女仙 | 芥川竜之介 | Public domain (†1927) | [#001031](https://www.aozora.gr.jp/cards/000879/card1031.html) | 蜘蛛の糸・杜子春・トロッコ　他十七篇 / 岩波文庫、岩波書店 / 1990（平成2）年8月16日 | j.utiyama | もりみつじゅんじ |
+| 犬と笛 | 芥川竜之介 | Public domain (†1927) | [#000056](https://www.aozora.gr.jp/cards/000879/card56.html) | 芥川龍之介全集2 / ちくま文庫、筑摩書房 / 1986（昭和61）年10月28日 | j.utiyama | かとうかおり |

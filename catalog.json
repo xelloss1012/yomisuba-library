@@ -8139,6 +8139,1047 @@
         "proofreading": "LUNA CAT"
       },
       "updated": "2004-02-29"
+    },
+    {
+      "id": "aozora-062461",
+      "slug": "hen-na-eisei",
+      "title": "変な衛星 衛星シリーズその２（イオ）",
+      "titleReading": "へんなえいせい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "humor"
+      ],
+      "description": {
+        "ja": "木星の衛星イオでは、重力が地球の三分の一しかありません。うっかり跳ね飛ばされたグラント・カルソープは、ニタニタ笑う奇妙な生き物たちに囲まれます。ワインバウム「衛星シリーズ」の一編です。",
+        "es": "En Ío, la luna de Júpiter, la gravedad es un tercio de la terrestre. Grant Thorpe, lanzado por los aires sin querer, se ve rodeado de extrañas criaturas que se ríen de él. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "On Io, Jupiter's moon, gravity is only a third of Earth's. Grant Thorpe, thrown into the air by accident, finds himself surrounded by strange creatures grinning at him. A story from Weinbaum's moons series."
+      },
+      "file": "books/hen-na-eisei.epub",
+      "cover": "covers/hen-na-eisei.png",
+      "bytes": 53748,
+      "sha256": "6deed84222704970a6b01e307ad3c5c5d8704eb28867c34202a0c22226687ddc",
+      "characters": 18863,
+      "pages": 31,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.254,
+          "N4": 0.377,
+          "N3": 0.588,
+          "N2": 0.645,
+          "N1": 0.875
+        },
+        "words": 4081
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62461.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2023-11-27"
+    },
+    {
+      "id": "aozora-062462",
+      "slug": "shokuzai-no-bohyo",
+      "title": "贖罪の墓標 衛星シリーズその３（エウロパ）",
+      "titleReading": "しょくざいのぼひょう",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "drama"
+      ],
+      "description": {
+        "ja": "無一文で家賃も払えない元ロケット操縦士ジャック・サンドは、かつてエウロパ探検隊を墜落させた張本人でした。ワインバウム「衛星シリーズ」の一編です。",
+        "es": "Jack Sand, antiguo piloto de cohetes, está sin un céntimo y no puede pagar el alquiler; fue él quien estrelló la expedición de Europa. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "Jack Sand, a former rocket pilot, is penniless and cannot pay his rent; he is the man who crashed the Europa expedition. A story from Weinbaum's moons series."
+      },
+      "file": "books/shokuzai-no-bohyo.epub",
+      "cover": "covers/shokuzai-no-bohyo.png",
+      "bytes": 64811,
+      "sha256": "ba2f4903eb8eb1e4f37ba27cc69f35f19656e1e19e6c91effefd615e29fd8c80",
+      "characters": 26773,
+      "pages": 45,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.238,
+          "N4": 0.364,
+          "N3": 0.581,
+          "N2": 0.632,
+          "N1": 0.884
+        },
+        "words": 5846
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62462.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2024-01-30"
+    },
+    {
+      "id": "aozora-062463",
+      "slug": "chosei-eisei",
+      "title": "潮汐衛星 衛星シリーズその４（ガニメデ）",
+      "titleReading": "ちょうせきえいせい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi"
+      ],
+      "description": {
+        "ja": "木星の第三衛星ガニメデの南極都市ハイドロポール。そこへ帰ってきたアマーストを描く、ワインバウム「衛星シリーズ」の一編です。",
+        "es": "Amherst vuelve a Hidropolis, la ciudad polar de Ganímedes, tercera luna de Júpiter. Un relato de la serie de las lunas de Weinbaum.",
+        "en": "Amherst returns to Hydropole, the polar city of Ganymede, Jupiter's third moon. A story from Weinbaum's moons series."
+      },
+      "file": "books/chosei-eisei.epub",
+      "cover": "covers/chosei-eisei.png",
+      "bytes": 49929,
+      "sha256": "46268997ee3ce00a3c64a9a46669240d92658c15f421bfdeba5892b798292dc8",
+      "characters": 14986,
+      "pages": 25,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.261,
+          "N4": 0.373,
+          "N3": 0.584,
+          "N2": 0.629,
+          "N1": 0.873
+        },
+        "words": 3434
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62463.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2024-01-30"
+    },
+    {
+      "id": "aozora-062679",
+      "slug": "tekio-gendo",
+      "title": "適応極限 怪奇シリーズその１",
+      "titleReading": "てきおうきょくげん",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "病気やけがが治るのは、一種の「適応」にすぎない。若い生化学者の医師が病院長に語る大胆な考えは、どこへ向かうのでしょうか。ワインバウムの「怪奇シリーズ」の第一話です。",
+        "es": "«Curarse de una enfermedad o de una herida no es más que una forma de adaptación.» ¿Adónde conduce la audaz idea que un joven bioquímico expone al director del hospital? Primer relato de la serie de lo extraño de Weinbaum.",
+        "en": "\"Recovering from illness or injury is only a kind of adaptation.\" Where does the bold idea that a young biochemist lays before the hospital director lead? The first story of Weinbaum's \"weird\" series."
+      },
+      "file": "books/tekio-gendo.epub",
+      "cover": "covers/tekio-gendo.png",
+      "bytes": 53869,
+      "sha256": "6cdbeb3067fc14f815ea1e92c3f154509603172c664c2542478631c1f5e5dbc0",
+      "characters": 19198,
+      "pages": 32,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.273,
+          "N4": 0.386,
+          "N3": 0.626,
+          "N2": 0.671,
+          "N1": 0.908
+        },
+        "words": 4349
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62679.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2024-03-03"
+    },
+    {
+      "id": "aozora-062680",
+      "slug": "numeri-umi",
+      "title": "ぬめり海 怪奇シリーズその２",
+      "titleReading": "ぬめりかい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "horror"
+      ],
+      "description": {
+        "ja": "西暦二〇〇〇年、アメリカはアジア連合と戦っています。休暇をとったリスター中尉は、サンフランシスコ湾の岩礁で恋人のサリーと海を眺めます。ワインバウムの「怪奇シリーズ」の第二話です。",
+        "es": "Año 2000: Estados Unidos está en guerra con la alianza asiática. El teniente Lister, de permiso, contempla el mar con su novia Sally en unas rocas de la bahía de San Francisco. Segundo relato de la serie de lo extraño de Weinbaum.",
+        "en": "The year 2000: America is at war with the Asian alliance. On leave, Lieutenant Lister watches the sea with his girlfriend Sally on rocks in San Francisco Bay. The second story of Weinbaum's \"weird\" series."
+      },
+      "file": "books/numeri-umi.epub",
+      "cover": "covers/numeri-umi.png",
+      "bytes": 326661,
+      "sha256": "4dab188d437e06ba7a221be3e83cd8d8049afb5512f6795bb87f224528ed5ecf",
+      "characters": 24831,
+      "pages": 41,
+      "chapters": 4,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.264,
+          "N4": 0.388,
+          "N3": 0.597,
+          "N2": 0.648,
+          "N1": 0.893
+        },
+        "words": 5332
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62680.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2024-04-06"
+    },
+    {
+      "id": "aozora-062681",
+      "slug": "honoo-no-reimei",
+      "title": "炎の黎明 怪奇シリーズその３",
+      "titleReading": "ほのおのれいめい",
+      "author": "スタンリー・Ｇ・ワインバウム",
+      "authorReading": "ワインバウムスタンリー・Ｇ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "fantasy"
+      ],
+      "description": {
+        "ja": "帝王、王女、長老、不老不死の発見者……。たくさんの人物が登場する、ワインバウムの「怪奇シリーズ」の第三話です。",
+        "es": "Un emperador, una princesa, ancianos, el descubridor de la inmortalidad… Un relato con muchos personajes, tercero de la serie de lo extraño de Weinbaum.",
+        "en": "An emperor, a princess, elders, the discoverer of immortality… A story with a large cast, the third of Weinbaum's \"weird\" series."
+      },
+      "file": "books/honoo-no-reimei.epub",
+      "cover": "covers/honoo-no-reimei.png",
+      "bytes": 509069,
+      "sha256": "49e9ce7bfdce425c06271743fb9b73c2d30915208f26ede10f56b6b9f8381252",
+      "characters": 51752,
+      "pages": 86,
+      "chapters": 11,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.248,
+          "N4": 0.367,
+          "N3": 0.572,
+          "N2": 0.62,
+          "N1": 0.88
+        },
+        "words": 11690
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002265/card62681.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2026-01-02"
+    },
+    {
+      "id": "aozora-060202",
+      "slug": "yokka-hakuma",
+      "title": "四日白魔 ロンドン危機シリーズ・１",
+      "titleReading": "よっかはくま",
+      "author": "フレッド・Ｍ・ホワイト",
+      "authorReading": "ホワイトフレッド・Ｍ",
+      "language": "ja",
+      "genres": [
+        "scifi",
+        "drama"
+      ],
+      "description": {
+        "ja": "北極のような厳しい寒波がロンドンを襲います。気温は零下十八度まで下がり、電信も電話も不通に。新聞社の編集部長が見た、四日間の大雪の始まりです。ロンドン危機シリーズの第一話です。",
+        "es": "Una ola de frío polar golpea Londres: el termómetro baja a dieciocho grados bajo cero y el telégrafo y el teléfono dejan de funcionar. El comienzo de cuatro días de nevada visto por el jefe de redacción de un periódico. Primer relato de la serie de las crisis de Londres.",
+        "en": "An arctic cold wave hits London: the thermometer falls to eighteen below zero and the telegraph and telephone go dead. The start of four days of snow, seen by a newspaper's editor. The first story of the London crisis series."
+      },
+      "file": "books/yokka-hakuma.epub",
+      "cover": "covers/yokka-hakuma.png",
+      "bytes": 49030,
+      "sha256": "2564dd76687910575e67b328a5cf3a21c7372d99a3088fe6d8023740af5b5451",
+      "characters": 12609,
+      "pages": 21,
+      "chapters": 8,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.237,
+          "N4": 0.34,
+          "N3": 0.589,
+          "N2": 0.647,
+          "N1": 0.916
+        },
+        "words": 2984
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/002043/card60202.html"
+      },
+      "license": {
+        "id": "cc-by",
+        "name": "CC BY 2.1 JP",
+        "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+        "creditRole": "translator",
+        "creditName": "奥増夫",
+        "credit": "翻訳: 奥増夫"
+      },
+      "credits": {
+        "base": "",
+        "input": "奥増夫",
+        "proofreading": ""
+      },
+      "updated": "2019-12-07"
+    },
+    {
+      "id": "aozora-056517",
+      "slug": "pest-o",
+      "title": "ペスト王 寓意を含める物語",
+      "titleReading": "ぺすとおう",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "humor"
+      ],
+      "description": {
+        "ja": "エドワード三世の時代、ロンドンの酒場で目を覚ました二人の水夫は、とんでもない場所に迷いこんでいました。寓意をこめた、ポーの奇妙でブラックなユーモアの物語です。",
+        "es": "En tiempos de Eduardo III, dos marineros se despiertan en una taberna de Londres y descubren que han ido a parar a un lugar disparatado. Un cuento alegórico de Poe, de humor extraño y negro.",
+        "en": "In the reign of Edward III, two sailors find themselves in a London tavern and realise they have wandered somewhere preposterous. An allegorical tale by Poe, with strange, black humour."
+      },
+      "file": "books/pest-o.epub",
+      "cover": "covers/pest-o.png",
+      "bytes": 43689,
+      "sha256": "666b1c86695ccfa82130eeb781ebba4f12e313af1094d52b60cf00030ff83b7b",
+      "characters": 13384,
+      "pages": 22,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.284,
+          "N4": 0.385,
+          "N3": 0.58,
+          "N2": 0.628,
+          "N1": 0.871
+        },
+        "words": 3015
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card56517.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "アッシャア家の崩壊 / 角川文庫、角川書店 / 1951（昭和26）年10月15日",
+        "input": "江村秀之",
+        "proofreading": "まつもこ"
+      },
+      "updated": "2021-09-27"
+    },
+    {
+      "id": "aozora-056536",
+      "slug": "kane-no-to-no-akuma",
+      "title": "鐘塔の悪魔",
+      "titleReading": "しょうとうのあくま",
+      "author": "エドガー・アラン・ポー",
+      "authorReading": "ポーエドガー・アラン",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "何もかもが時計どおりに動く、オランダの町ヴォンダーヴォッテイミティス。その町の鐘塔に、ある日、奇妙な訪問者が現れます。ポーの風刺のきいた幻想譚です。",
+        "es": "En la ciudad holandesa de Vondervotteimittiss todo marcha al compás del reloj. Un día aparece un extraño visitante en el campanario. Un cuento fantástico y satírico de Poe.",
+        "en": "In the Dutch town of Vondervotteimittiss everything runs by the clock. One day a strange visitor appears in the belfry. A satirical fantasy by Poe."
+      },
+      "file": "books/kane-no-to-no-akuma.epub",
+      "cover": "covers/kane-no-to-no-akuma.png",
+      "bytes": 41781,
+      "sha256": "336c0935e692f638619a8799df6489221c9b9c974948672a1cac7600976beba3",
+      "characters": 8584,
+      "pages": 14,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.327,
+          "N4": 0.427,
+          "N3": 0.643,
+          "N2": 0.692,
+          "N1": 0.868
+        },
+        "words": 1903
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000094/card56536.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1849-10-07"
+      },
+      "credits": {
+        "base": "アッシャア家の崩壊 / 角川文庫、角川書店 / 1951（昭和26）年10月15日",
+        "input": "江村秀之",
+        "proofreading": "まつもこ"
+      },
+      "updated": "2019-09-27"
+    },
+    {
+      "id": "aozora-045524",
+      "slug": "umi-bozu",
+      "title": "海坊主",
+      "titleReading": "うみぼうず",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "房州の海辺に住む漁師の女房のもとへ、みすぼらしい坊主がやって来て、家の中をじろじろ覗きこみます。泉鏡花から聞いた話を、田中貢太郎が書きとめた怪談です。",
+        "es": "Un monje andrajoso se acerca a la mujer de un pescador de la costa de Bōshū y se pone a mirar dentro de la casa. Una historia de fantasmas que Tanaka Kōtarō anotó tal como se la contó Izumi Kyōka.",
+        "en": "A shabby monk comes to the wife of a fisherman on the Bōshū coast and peers into her house. A ghost story that Tanaka Kōtarō wrote down as Izumi Kyōka told it."
+      },
+      "file": "books/umi-bozu.epub",
+      "cover": "covers/umi-bozu.png",
+      "bytes": 22744,
+      "sha256": "4238dc88de37bbdabeb4c25d921cbc552ee6479597ebd897199000faa026b16f",
+      "characters": 1258,
+      "pages": 2,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.369,
+          "N4": 0.496,
+          "N3": 0.619,
+          "N2": 0.705,
+          "N1": 0.84
+        },
+        "words": 306
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card45524.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "伝奇ノ匣6　田中貢太郎日本怪談事典 / 学研Ｍ文庫、学習研究社 / 2003（平成15）年10月22日",
+        "input": "Hiroshi_O",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2010-10-21"
+    },
+    {
+      "id": "aozora-045550",
+      "slug": "ihai-to-nezumi",
+      "title": "位牌と鼠",
+      "titleReading": "いはいとねずみ",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "関東大震災のあと、知人が預けていった箱を押入れにしまった三好七郎は、翌年、病気になって毎晩うなされるようになります。田中貢太郎が書いた怪談です。",
+        "es": "Tras el gran terremoto de Kantō, Miyoshi Shichirō guarda en el armario una caja que le dejó un conocido. Al año siguiente enferma y cada noche tiene pesadillas. Una historia de fantasmas de Tanaka Kōtarō.",
+        "en": "After the Great Kantō Earthquake, Miyoshi Shichirō puts away in a cupboard a box an acquaintance left with him. The next year he falls ill and is tormented by nightmares every night. A ghost story by Tanaka Kōtarō."
+      },
+      "file": "books/ihai-to-nezumi.epub",
+      "cover": "covers/ihai-to-nezumi.png",
+      "bytes": 25355,
+      "sha256": "f7ac655aef5559df09e5f86c65528f589b9cd50559aa03cb913bc55c9b8ef307",
+      "characters": 485,
+      "pages": 1,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.449,
+          "N4": 0.517,
+          "N3": 0.674,
+          "N2": 0.742,
+          "N1": 0.843
+        },
+        "words": 101
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card45550.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "伝奇ノ匣6　田中貢太郎日本怪談事典 / 学研Ｍ文庫、学習研究社 / 2003（平成15）年10月22日",
+        "input": "Hiroshi_O",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2010-10-21"
+    },
+    {
+      "id": "aozora-001627",
+      "slug": "ookami-no-kai",
+      "title": "狼の怪",
+      "titleReading": "おおかみのかい",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "description": {
+        "ja": "深い山で日が暮れてしまった少年は、大きな岩の下で夜をすごすことにします。やがて闇の中から…。田中貢太郎の、山と獣をめぐる怪談です。",
+        "es": "A un muchacho lo sorprende la noche en lo hondo de la montaña y decide pasarla bajo una gran roca. Poco después, desde la oscuridad… Una historia de montaña y fieras de Tanaka Kōtarō.",
+        "en": "Night falls on a boy deep in the mountains and he decides to spend it under a great rock. Then, out of the dark… A mountain tale of beasts by Tanaka Kōtarō."
+      },
+      "file": "books/ookami-no-kai.epub",
+      "cover": "covers/ookami-no-kai.png",
+      "bytes": 30065,
+      "sha256": "5fb41cf37b65a449cfbd9f1ce8d2066c6ef168fba897407453c949bf484a6302",
+      "characters": 5028,
+      "pages": 8,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.401,
+          "N4": 0.58,
+          "N3": 0.73,
+          "N2": 0.752,
+          "N1": 0.921
+        },
+        "words": 1107
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card1627.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "中国の怪談（一） / 河出文庫、河出書房新社 / 1987（昭和62）年5月6日",
+        "input": "Hiroshi_O",
+        "proofreading": "小林繁雄、門田裕志"
+      },
+      "updated": "2003-08-03"
+    },
+    {
+      "id": "aozora-042269",
+      "slug": "onibi-o-ou-bushi",
+      "title": "鬼火を追う武士",
+      "titleReading": "おにびをおうぶし",
+      "author": "田中貢太郎",
+      "authorReading": "たなかこうたろう",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "鶴岡の城下、夜の田んぼ道で、一人の武士が炎のない火の玉を見かけます。おもしろ半分にあとをつけて、斬ってみたくなった武士は…。田中貢太郎の短い怪談です。",
+        "es": "En un camino entre arrozales de noche, un samurái de la ciudad castillo de Tsuruoka ve una bola de fuego sin llama. Por curiosidad la sigue y le entran ganas de cortarla… Una breve historia de fantasmas de Tanaka Kōtarō.",
+        "en": "On a night path through the fields near Tsuruoka castle, a samurai sees a flameless fireball. Out of curiosity he follows it and feels the urge to cut it down… A short ghost story by Tanaka Kōtarō."
+      },
+      "file": "books/onibi-o-ou-bushi.epub",
+      "cover": "covers/onibi-o-ou-bushi.png",
+      "bytes": 27954,
+      "sha256": "f130972f2e1a92472e627d6c96775aa6aedcf6aa1d56b9e4ddca98fe926e317f",
+      "characters": 457,
+      "pages": 1,
+      "chapters": 1,
+      "level": {
+        "score": 3,
+        "coverage": {
+          "N5": 0.388,
+          "N4": 0.553,
+          "N3": 0.68,
+          "N2": 0.777,
+          "N1": 0.835
+        },
+        "words": 115
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000154/card42269.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1941-02-01"
+      },
+      "credits": {
+        "base": "怪奇・伝奇時代小説選集3　新怪談集 / 春陽文庫、春陽堂書店 / 1999（平成11）年12月20日",
+        "input": "Hiroshi_O",
+        "proofreading": "noriko saito"
+      },
+      "updated": "2004-08-22"
+    },
+    {
+      "id": "aozora-000091",
+      "slug": "kubi-ga-ochita-hanashi",
+      "title": "首が落ちた話",
+      "titleReading": "くびがおちたはなし",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "horror",
+        "historical"
+      ],
+      "description": {
+        "ja": "戦場で、首を斬られたと思って馬にしがみついた兵士の何小二。馬は高粱畑をまっしぐらに駆けだします。芥川龍之介が描いた、日清戦争の一場面です。",
+        "es": "En el campo de batalla, el soldado He Xiaoer cree que le han cortado el cuello y se aferra a su caballo, que echa a correr por un campo de sorgo. Una escena de la guerra chino-japonesa narrada por Akutagawa.",
+        "en": "On the battlefield the soldier He Xiaoer, thinking his neck has been cut, clings to his horse, which bolts across a field of sorghum. A scene from the Sino-Japanese War by Akutagawa."
+      },
+      "file": "books/kubi-ga-ochita-hanashi.epub",
+      "cover": "covers/kubi-ga-ochita-hanashi.png",
+      "bytes": 41604,
+      "sha256": "8c8b459c3910a9c24707576b729c4d889d72f6db5cab2a42518b9a8cbd7e4484",
+      "characters": 7569,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.311,
+          "N4": 0.451,
+          "N3": 0.663,
+          "N2": 0.716,
+          "N1": 0.88
+        },
+        "words": 1754
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card91.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集2 / ちくま文庫、筑摩書房 / 1986（昭和61）年10月28日",
+        "input": "j.utiyama",
+        "proofreading": "かとうかおり"
+      },
+      "updated": "2004-03-15"
+    },
+    {
+      "id": "aozora-000921",
+      "slug": "kaimu",
+      "title": "怪夢",
+      "titleReading": "かいむ",
+      "author": "夢野久作",
+      "authorReading": "ゆめのきゅうさく",
+      "language": "ja",
+      "genres": [
+        "horror"
+      ],
+      "description": {
+        "ja": "霜の朝の鉄工場。圧力計の針が危険な数字へ近づいていくなか、「私」はある不吉な予感にとらわれます。夢野久作の短い怪奇小説です。",
+        "es": "Un amanecer de escarcha en una fundición. Mientras la aguja del manómetro se acerca a una cifra peligrosa, el narrador es presa de un presentimiento siniestro. Un cuento breve de terror de Yumeno Kyūsaku.",
+        "en": "A frosty dawn in an ironworks. As the needle of the pressure gauge creeps toward a dangerous figure, the narrator is seized by an ominous premonition. A short horror tale by Yumeno Kyūsaku."
+      },
+      "file": "books/kaimu.epub",
+      "cover": "covers/kaimu.png",
+      "bytes": 39305,
+      "sha256": "9e8c02cc062d2b7667faec787ff3d5adf9dd5c6304138121c8ccb991a37a9d0b",
+      "characters": 10945,
+      "pages": 18,
+      "chapters": 6,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.251,
+          "N4": 0.359,
+          "N3": 0.542,
+          "N2": 0.61,
+          "N1": 0.846
+        },
+        "words": 2459
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000096/card921.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1936-03-11"
+      },
+      "credits": {
+        "base": "夢野久作全集3 / ちくま文庫、筑摩書房 / 1992（平成4）年8月24日",
+        "input": "柴田卓治",
+        "proofreading": "しず"
+      },
+      "updated": "2012-05-03"
+    },
+    {
+      "id": "aozora-000780",
+      "slug": "genei-no-tate",
+      "title": "幻影の盾",
+      "titleReading": "まぼろしのたて",
+      "author": "夏目漱石",
+      "authorReading": "なつめそうせき",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "description": {
+        "ja": "アーサー王の時代のような遠い昔、城に住む騎士と「幻影の盾」の物語。一心不乱の思いを、目に見えない力を借りて描こうとした、夏目漱石の中世騎士物語です。",
+        "es": "Una historia de tiempos remotos, como los del rey Arturo, sobre un caballero de un castillo y un «escudo fantasma». Un relato de caballeros medievales de Natsume Sōseki que busca mostrar la entrega total con ayuda de fuerzas invisibles.",
+        "en": "A tale from the distant past, like the age of King Arthur, about a castle knight and a \"phantom shield\". Natsume Sōseki's medieval romance, which tries to show single-minded devotion through unseen powers."
+      },
+      "file": "books/genei-no-tate.epub",
+      "cover": "covers/genei-no-tate.png",
+      "bytes": 63413,
+      "sha256": "1c6ea7d1da242bce4e7c8c87295840e3a9c51e5f58b331006e5623a8b0762bd6",
+      "characters": 22134,
+      "pages": 37,
+      "chapters": 1,
+      "level": {
+        "score": 5,
+        "coverage": {
+          "N5": 0.279,
+          "N4": 0.399,
+          "N3": 0.588,
+          "N2": 0.645,
+          "N1": 0.858
+        },
+        "words": 6333
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000148/card780.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1916-12-09"
+      },
+      "credits": {
+        "base": "倫敦塔・幻影の盾 / 新潮文庫、新潮社 / 1952（昭和27）年7月10日、1968（昭和43）年9月15日20刷改版",
+        "input": "藤本篤子",
+        "proofreading": "かとうかおり"
+      },
+      "updated": "2004-02-29"
+    },
+    {
+      "id": "aozora-004997",
+      "slug": "kecho",
+      "title": "化鳥",
+      "titleReading": "けちょう",
+      "author": "泉鏡花",
+      "authorReading": "いずみきょうか",
+      "language": "ja",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "雨の日、蓑を着て橋を渡る人を「猪の王様」のように見る少年。その語りから始まる、泉鏡花の不思議で美しい物語です。",
+        "es": "Un niño ve a alguien con capa de paja cruzar un puente bajo la lluvia, como si fuera «el rey de los jabalíes». Desde su voz empieza este relato extraño y hermoso de Izumi Kyōka.",
+        "en": "A boy watches someone in a straw raincoat cross a bridge in the rain as if he were \"the king of the boars\". From his voice begins this strange and beautiful tale by Izumi Kyōka."
+      },
+      "file": "books/kecho.epub",
+      "cover": "covers/kecho.png",
+      "bytes": 41634,
+      "sha256": "acdab0724776df5489b7af06620a91fcacb3fa41121aba888f53742e27b7680b",
+      "characters": 17735,
+      "pages": 30,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.368,
+          "N4": 0.507,
+          "N3": 0.666,
+          "N2": 0.719,
+          "N1": 0.863
+        },
+        "words": 3981
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000050/card4997.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1939-09-07"
+      },
+      "credits": {
+        "base": "泉鏡花集成3 / ちくま文庫、筑摩書房 / 1996（平成8）年1月24日",
+        "input": "門田裕志",
+        "proofreading": "カエ"
+      },
+      "updated": "2005-03-01"
+    },
+    {
+      "id": "aozora-000144",
+      "slug": "sennin",
+      "title": "仙人",
+      "titleReading": "せんにん",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "humor"
+      ],
+      "description": {
+        "ja": "「仙人になりたいので、そういう所へ住みこませてください」。大阪へ奉公に来た飯炊きの権助は、口入れ屋でそう頼みます。芥川龍之介の、とぼけた味わいの童話です。",
+        "es": "«Quiero ser un inmortal, así que colóqueme donde pueda serlo.» Gonsuke, un criado de cocina llegado a Osaka, le pide esto a la agencia de colocaciones. Un cuento de Akutagawa con gracia socarrona.",
+        "en": "\"I want to become a hermit wizard, so please place me somewhere that can make me one.\" Gonsuke, a kitchen servant newly arrived in Osaka, asks the employment agent. A tale by Akutagawa with a deadpan charm."
+      },
+      "file": "books/sennin.epub",
+      "cover": "covers/sennin.png",
+      "bytes": 23011,
+      "sha256": "d90f9714885b2632b1f0e1b0d1c6ee67dbf0b51886ff18feb646d604a8167e48",
+      "characters": 3189,
+      "pages": 5,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.37,
+          "N4": 0.524,
+          "N3": 0.686,
+          "N2": 0.738,
+          "N1": 0.913
+        },
+        "words": 694
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card144.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集5 / ちくま文庫、筑摩書房 / 1987（昭和62）年2月24日",
+        "input": "j.utiyama",
+        "proofreading": "かとうかおり"
+      },
+      "updated": "2004-03-15"
+    },
+    {
+      "id": "aozora-001031",
+      "slug": "josen",
+      "title": "女仙",
+      "titleReading": "にょせん",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "fantasy"
+      ],
+      "description": {
+        "ja": "中国の田舎で、桃の花が咲く窓の下で本ばかり読んでいる書生。その隣の家には、だれも身の上を知らない美しい女が一人で住んでいました。芥川龍之介の、短くて不思議な話です。",
+        "es": "En el campo chino, un estudiante lee junto a una ventana bajo los melocotoneros en flor. En la casa de al lado vive sola una bella mujer de la que nadie sabe nada. Un relato breve y extraño de Akutagawa.",
+        "en": "In the Chinese countryside, a student reads by a window under blossoming peach trees. In the house next door lives, alone, a beautiful woman whose past nobody knows. A short, strange tale by Akutagawa."
+      },
+      "file": "books/josen.epub",
+      "cover": "covers/josen.png",
+      "bytes": 19798,
+      "sha256": "22895896d16a80a8a08abbeda83c4b7627cff2938a2a97fa25287be220378f43",
+      "characters": 937,
+      "pages": 2,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.443,
+          "N4": 0.528,
+          "N3": 0.705,
+          "N2": 0.716,
+          "N1": 0.886
+        },
+        "words": 201
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card1031.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "蜘蛛の糸・杜子春・トロッコ　他十七篇 / 岩波文庫、岩波書店 / 1990（平成2）年8月16日",
+        "input": "j.utiyama",
+        "proofreading": "もりみつじゅんじ"
+      },
+      "updated": "2004-02-06"
+    },
+    {
+      "id": "aozora-000056",
+      "slug": "inu-to-fue",
+      "title": "犬と笛",
+      "titleReading": "いぬとふえ",
+      "author": "芥川竜之介",
+      "authorReading": "あくたがわりゅうのすけ",
+      "language": "ja",
+      "genres": [
+        "fantasy",
+        "children"
+      ],
+      "description": {
+        "ja": "葛城山のふもとに住む木こりの髪長彦は笛の名人で、鳥も獣も草木も、その音に耳をかたむけます。芥川龍之介が子どものために書いた、不思議な昔話です。",
+        "es": "Kaminagahiko, un leñador del pie del monte Katsuragi, toca la flauta con tanta maestría que hasta las aves, las fieras y las plantas la escuchan. Un cuento tradicional que Akutagawa escribió para niños.",
+        "en": "Kaminagahiko, a woodcutter at the foot of Mount Katsuragi, plays the flute so well that birds, beasts and plants all listen. A strange folktale Akutagawa wrote for children."
+      },
+      "file": "books/inu-to-fue.epub",
+      "cover": "covers/inu-to-fue.png",
+      "bytes": 32274,
+      "sha256": "466b2b155e3fcedd101cfbba1348fc93b8de68ff34479ef700f7151ebf221d8b",
+      "characters": 7643,
+      "pages": 13,
+      "chapters": 1,
+      "level": {
+        "score": 4,
+        "coverage": {
+          "N5": 0.368,
+          "N4": 0.497,
+          "N3": 0.668,
+          "N2": 0.715,
+          "N1": 0.907
+        },
+        "words": 1614
+      },
+      "orthography": "新字新仮名",
+      "source": {
+        "name": "青空文庫 (Aozora Bunko)",
+        "url": "https://www.aozora.gr.jp/cards/000879/card56.html"
+      },
+      "license": {
+        "id": "public-domain",
+        "authorDied": "1927-07-24"
+      },
+      "credits": {
+        "base": "芥川龍之介全集2 / ちくま文庫、筑摩書房 / 1986（昭和61）年10月28日",
+        "input": "j.utiyama",
+        "proofreading": "かとうかおり"
+      },
+      "updated": "2004-03-15"
     }
   ]
 }
